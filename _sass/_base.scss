@@ -9,6 +9,10 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.btn-primary {
+    background-color: $theme-color;
+}
+
 h1, h2, h3, h4, h5, h6  {
     font-weight: 700;
 }
@@ -31,7 +35,7 @@ p {
 .wrapper {
     background:$theme-color;
     max-width: 1000px;
-    margin: 0 auto;
+    margin: 20px auto 0px auto;
     position: relative;
     @include box-shadow(0px 2px 4px rgba(0,0,0,0.1));
 }
@@ -155,6 +159,7 @@ p {
 
 .main-wrapper {
     background: #fff;
+    min-height: 2451px;
     padding: 60px;
     padding-right: 340px;
     .section-title {
@@ -203,7 +208,7 @@ p {
         font-weight: 400;
         margin-top: 0;
         margin-bottom: 5px;
-	color: darken($theme-color, 15%);
+	    color: darken($theme-color, 15%);
     }
     .projects-section {
         .intro {
