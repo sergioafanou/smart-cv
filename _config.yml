@@ -12,6 +12,9 @@ chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't wa
 
 include: ["_pages"]
 
+# Contact page
+contact_api: "https://script.google.com/macros/s/AKfycbwIRo-LvVIkMZEum8jopBu9CRpELUkO2d1hxBS5/exec"
+
 # Tracker
 analytics: UA-20627889-4
 
