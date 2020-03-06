@@ -4,7 +4,7 @@ title:  "How To Install and Use Docker on Ubuntu 18.04"
 author: "Sergio"
 categories: [ docker ]
 description: "fake body!!!"
-image: "https://sergio.afanou.com/assets/images/image-midres-65.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-24.jpg"
 ---
 
 
