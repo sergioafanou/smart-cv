@@ -365,5 +365,8 @@ unauthorized: authentication required
 
 Log in with docker login and repeat the push attempt. Then verify that it exists on your Docker Hub repository page.
 You can now use docker pull sammy/ubuntu-nodejs to pull the image to a new machine and use it to run a new container.
-Conclusion
+
+
+# Conclusion
+
 In this tutorial you installed Docker, worked with images and containers, and pushed a modified image to Docker Hub. Now that you know the basics, explore the other Docker tutorials in the DigitalOcean Community.
