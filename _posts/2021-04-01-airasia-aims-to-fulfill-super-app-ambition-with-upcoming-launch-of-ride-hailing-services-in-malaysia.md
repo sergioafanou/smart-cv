@@ -1,0 +1,24 @@
+---
+title : AirAsia aims to fulfill super app ambition with upcoming launch of ride-hailing services in Malaysia
+layout: post
+tags: tutorial labnol
+post_inspiration: https://e27.co/airasia-to-launch-ride-hailing-services-20210330/
+image: "https://sergio.afanou.com/assets/images/image-midres-8.jpg"
+---
+
+<img loading="lazy" class="size-full wp-image-405155 aligncenter" src="https://e27.co/wp-content/uploads/2021/03/AirAsia-1.jpeg" alt="" width="689" height="390" />
+<p>Budget airline operator AirAsia Group founder and CEO Tan Sri Tony Fernandes announced that it will soon be launching ride-hailing services, according to local media reports.</p>
+<p>This move comes after the company launched a <a rel="follow" rel="follow" href="https://e27.co/airasia-launches-food-delivery-services-in-singapore-promises-5-per-cent-lower-fees-than-competitors-20210303/">food delivery service</a> in Singapore and the pilot trials for drone delivery service.</p>
+<p>Understanding the potential comparison with existing ride-hailing giants such as Grab, Fernandes affirmed that AirAsia can become successful in this sector even with the heavy competition, citing history where the company managed to raise funding quicker than any other airline company.</p>
+<p>&#8220;I don&#8217;t have a big shareholder like Khazanah (Nasional Bhd), okay? If you say that Malaysia Airlines is faster, of course, it is. Like who else? Singapore Airlines? They also have a big shareholder called Temasek. Name me a private airline that has been faster than AirAsia? It’s not easy to raise capital in the aviation business &#8230; The reality is, which private airline has received funding quicker than us or done a placement?&#8221; Fernandes <a rel="follow" href="https://www.theedgemarkets.com/article/it-clear-skies-ahead-airasia">told</a> <em>The Edge</em> in an exclusive interview.</p>
+<p><strong>Also Read: <a rel="follow" href="https://e27.co/airasia-magic-partner-to-bring-urban-drone-delivery-services-to-mainstream-market-in-malaysia-20210308/">AirAsia, MaGIC partner to introduce drone-based e-commerce delivery in Malaysia</a></strong></p>
+<p>“I’ve got eight years of Grab doing it to learn from. I don’t have to waste all that money, with experimentation, building technology, training drivers, and training the market how to order, they have done it all for me,” he asserted.</p>
+<p>The COVID-19 pandemic has undoubtedly <a rel="follow" href="https://e27.co/3-learnings-from-ceo-and-founder-of-kkday-on-how-his-travel-startup-overcame-the-pandemic-20210128/">caused a hit</a> for the travel and hospitality sectors, which is the primary reason why AirAsia has decided to pivot its services.</p>
+<p>Subsequently, AirAsia has also revealed plans to enter the <a rel="follow" rel="follow" href="https://e27.co/airasia-launches-food-delivery-services-in-singapore-promises-5-per-cent-lower-fees-than-competitors-20210303/">fresh produce delivery market</a> in Singapore where consumers can order imported fish from Japan or short ribs from Korea directly to their homes in Singapore within 48 hours.</p>
+<p>Despite the startup making attempts to enter various digital spaces, another <em><a rel="follow" href="https://www.theedgemarkets.com/article/airasia-books-widerthanexpected-4q-net-loss-rm24b">Edge report</a></em> has revealed that the company is posted experience a bigger-than-expected net loss of RM2.44 billion (close to US$5 billion) for the fourth quarter ended Dec 31, 2020 (4QFY20).</p>
+<p>Commenting on the future prospects, AirAsia responded, “It is notable, however, that the Philippines doubled its passengers carried whilst Indonesia multiplied its number of passengers carried by 11 times quarter-on-quarter. This is a testament that for areas where travel restrictions are lifted, there is a solid domestic rebound for air travel,”.</p>
+<p>“Even if borders remain closed, the group is well-prepared to rely solely on domestic operations alone this year,” it added.</p>
+<p>Countries such as Singapore have also begun to prepare a comeback for their travel and tourism industry by <a rel="follow" href="https://e27.co/how-singapore-is-working-with-startups-to-prepare-local-travel-and-tourism-industry-for-its-comeback-20201123/">collaborating with both local and global startups</a>. These collaborations aim to create a safer travel and tourism experience for tourists in the post-pandemic era.</p>
+<p>&#8211;</p>
+<p>Image Credit: <a class="_3XzpS _1ByhS _4kjHg _1O9Y0 _3l__V _1CBrG xLon9" rel="follow" href="https://unsplash.com/@macauphotoagency">Macau Photo Agency</a></p>
+<p>The post <a rel="nofollow" href="https://e27.co/airasia-to-launch-ride-hailing-services-20210330/">AirAsia aims to fulfill super app ambition with upcoming launch of ride-hailing services in Malaysia</a> appeared first on <a rel="nofollow" href="https://e27.co">e27</a>.</p>
