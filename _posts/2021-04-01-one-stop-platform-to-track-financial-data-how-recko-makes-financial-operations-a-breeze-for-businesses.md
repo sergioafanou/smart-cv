@@ -1,0 +1,39 @@
+---
+title : One-stop platform to track financial data: How Recko makes financial operations a breeze for businesses
+layout: post
+tags: tutorial labnol
+post_inspiration: https://e27.co/one-stop-platform-to-track-financial-data-how-recko-makes-financial-operations-a-breeze-for-businesses-20210326/
+image: "https://sergio.afanou.com/assets/images/image-midres-11.jpg"
+---
+
+<div id="attachment_410155" style="width: 700px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-410155" loading="lazy" class="wp-image-410155 size-full" src="https://e27.co/wp-content/uploads/2021/03/Recko.feature.jpg" alt="Recko" width="690" height="390" /><p id="caption-attachment-410155" class="wp-caption-text">Recko co-founders Saurya Prakash Sinha (L) and Prashant Borde</p></div>
+<p>Finance teams in ride-hailing, logistics and food delivery companies can all testify to a common headache &#8212; consolidating data.</p>
+<p>Due to the nature of their operations, these platform businesses deal with a high velocity and volume of financial data that makes monitoring and tracking it a stressful experience.</p>
+<p>Despite the important role finance plays in both operations and growth of a company, it remains one of the few aspects that has not been digitalised. Financial data is still collated on age-old excel spreadsheets. While this would suffice for small businesses, it is not sustainable for high-growth businesses.</p>
+<p>Saurya Prakash Sinha shares similar sentiments. At his former employers PhonePe (mobile payments) and Flipkart (e-commerce), Saurya noticed they were struggling to manage their financial data.</p>
+<p><span style="font-weight: 400;">&#8220;The existing financial tools were crumbling with the growth in transaction volume, omnichannel commerce and numerous payment instruments. We realised the financial demands of businesses were rising and new financial infrastructure would be required on top of which the new commerce and fintech companies would be built,&#8221; he shares with <strong>e27</strong>.</span></p>
+<p>Having discovered financial processes such as reconciliations (an accounting process that checks two sets of records to ensure the figures are in agreement), calculation of commissions and accounts reporting were not catered for in the existing technological stack, he partnered with Prashant Borde to build Recko.</p>
+<p>The Bangalore-based startup seeks to solve this problem by providing a centralised platform for businesses to manage their financial data. It achieves this by collecting data from a wide range of sources, including mobile payment platforms and banks, before consolidating and displaying it on an easy-to-read dashboard for finance teams.</p>
+<div id="attachment_410472" style="width: 700px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-410472" loading="lazy" class="size-full wp-image-410472" src="https://e27.co/wp-content/uploads/2021/03/recko.jpg" alt="Recko" width="690" height="390" /><p id="caption-attachment-410472" class="wp-caption-text">Recko provides a centralised platform for businesses to manage their financial data. (Photo credit: Recko)</p></div>
+<p><strong>How it works</strong></p>
+<p>Diving into the specifics of how the platform operates, Saurya shares individual financial &#8220;events&#8221; are created in real time for purposes, ranging from order approval to successful transactions.</p>
+<p>According to him, this enables companies to monitor their financial operations at a more granular level and the real-time nature of it enables teams to identify gaps and plug them, instead of waiting for months.</p>
+<p><strong>Also Read: <a rel="follow" href="https://e27.co/gojek-stint-taught-me-the-importance-of-making-data-driven-decision-outgoing-cto-ajey-gore-20200611/">&#8216;gojek taught me the importance of making data-driven decisions&#8217;: outgoing CTO Ajey Gore</a></strong></p>
+<p>Once these events are created, they are organised into immutable and auditable ledgers that are ready for auditing or diligence checks &#8212; putting an end to the stressful experiences of finance teams when such tasks are due.</p>
+<p>Recko&#8217;s platform serves a variety of purposes for businesses. In the case of calculating commissions, Saurya shares Recko stores commercial terms and payment cycles within its system. By eliminating human errors and guesswork, he says the company has enabled clients to recover incorrectly charged commissions from their business partners.</p>
+<p>To support the reconciliation practice widely adopted by accountants, bank accounts can also be integrated onto Recko&#8217;s platform to enable companies to cross-check their transaction figures with their actual cash flow.</p>
+<p><strong>Protecting data</strong></p>
+<p>With over US$9 billion worth of transactions reconciled on Recko&#8217;s platform, we quizzed Saurya on how the company protects the financial data passing through its infrastructure.</p>
+<p><span style="font-weight: 400;">&#8220;We follow a stringent set of security practices to safeguard data in transmission as well at rest. The infrastructure is regularly penetration-tested for any loopholes or gaps, both internally and our security partners,&#8221; he replies.</span></p>
+<p><strong>Also Read: <a rel="follow" href="https://e27.co/fall-in-line-what-is-the-role-of-a-data-protection-officer-at-a-startup-20200915/">Fall in line: What is the role of a Data Protection Officer at a startup?</a></strong></p>
+<p>He also claims Recko is ISO 27001-certified (the international standard for information security) and compliant with PCI DSS (the information security standard for organisations that handle branded credit cards from the major card schemes).</p>
+<p>With new regulations governing data protection are likely to emerge amid the increased scrutiny on cybersecurity, Saurya maintains Recko&#8217;s infrastructure is designed to be flexible enough to accommodate them.</p>
+<p><strong>Growth</strong></p>
+<p>Adopting a usage-based revenue model similar to SaaS companies, including AWS, the flexible nature of the solution enables companies to scale their operations in tandem with Recko&#8217;s offerings, enabling it to cater to a range of organisations ranging from early-stage startups to large enterprises.</p>
+<p>With Temasek-backed Vertex Ventures leading Recko&#8217;s US$6 million Series A funding last year, the company is set on expanding its operations to a global level.</p>
+<p><span style="font-weight: 400;">&#8220;We quadrupled our customer base and onboarded customers in Southeast Asia and Europe. There is a large pipeline of customers from multiple regions. We are also having our initial pilots in the US and would be opening up the geography very soon,&#8221; Saurya discloses.</span></p>
+<p>With Recko solving an age-old problem for finance teams, it certainly has the potential to change how companies manage their financial data. As they have discovered, when one solves a real need, the sky&#8217;s the limit.</p>
+<p>—</p>
+<p data-pm-slice="1 1 []">Join our <strong>e27</strong> <a class="ProsemirrorEditor-link" rel="follow" href="https://t.me/joinchat/HmTbfBcGCZeykhM8NOlQ-g" rel="follow" >Telegram group</a>, <a class="ProsemirrorEditor-link" rel="follow" href="https://www.facebook.com/groups/e27co/permalink/886904662065955/" rel="follow" >FB community</a> or like the <strong>e27</strong> <a class="ProsemirrorEditor-link" rel="follow" href="https://www.facebook.com/e27/?ref=your_pages" rel="follow" >Facebook page</a></p>
+<p data-pm-slice="1 1 []">Image Credit: Recko</p>
+<p>The post <a rel="nofollow" href="https://e27.co/one-stop-platform-to-track-financial-data-how-recko-makes-financial-operations-a-breeze-for-businesses-20210326/">One-stop platform to track financial data: How Recko makes financial operations a breeze for businesses</a> appeared first on <a rel="nofollow" href="https://e27.co">e27</a>.</p>
