@@ -3,8 +3,7 @@ title : How Spammers Avoid the Gmail Spam Filter through Google Forms
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.labnol.org/gmail-spam-filters-210216
-image: "https://sergio.afanou.com/assets/images/image-midres-39.jpg"
-random_image: "https://sergio.afanou.com/assets/images/image-midres-4.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-4.jpg"
 ---
 
 <p>Gmail is very effective at filtering spam emails but spammers seem to have figured out a new way to bypass the spam filters and send emails that land right in the user’s inbox. The emails are sent through Google Forms and because the messages originate from Google’s own email servers, they do not get caught in the spam filters.</p><p><span class="gatsby-resp-image-wrapper" style="display:block;margin-left:auto;margin-right:auto;max-width:720px;">
