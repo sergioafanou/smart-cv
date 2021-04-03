@@ -1,0 +1,30 @@
+---
+title : This is the most exciting Pixel 6 rumor of 2021 so far
+layout: post
+tags: tutorial labnol
+post_inspiration: https://bgr.com/2021/04/02/pixel-6-specs-rumors-google-whitechapel-processor/
+image: "https://sergio.afanou.com/assets/images/image-midres-40.jpg"
+---
+
+<center><a href="https://bgr.com/2021/04/02/pixel-6-specs-rumors-google-whitechapel-processor/" class="bgr-rss-featured-image bgr-rss-test-class"><img loading="lazy" width="610" height="415" src="https://bgr.com/wp-content/uploads/2020/11/pixel-4a-barely-blue.jpg?quality=70&amp;strip=all&amp;w=610" class="attachment-feed_normal size-feed_normal wp-post-image" alt="Pixel 6 Specs Rumors" loading="lazy" srcset="https://bgr.com/wp-content/uploads/2020/11/pixel-4a-barely-blue.jpg 1566w, https://bgr.com/wp-content/uploads/2020/11/pixel-4a-barely-blue.jpg?resize=150,102 150w, https://bgr.com/wp-content/uploads/2020/11/pixel-4a-barely-blue.jpg?resize=300,204 300w, https://bgr.com/wp-content/uploads/2020/11/pixel-4a-barely-blue.jpg?resize=768,523 768w, https://bgr.com/wp-content/uploads/2020/11/pixel-4a-barely-blue.jpg?resize=1024,697 1024w, https://bgr.com/wp-content/uploads/2020/11/pixel-4a-barely-blue.jpg?resize=1536,1046 1536w, https://bgr.com/wp-content/uploads/2020/11/pixel-4a-barely-blue.jpg?resize=610,415 610w, https://bgr.com/wp-content/uploads/2020/11/pixel-4a-barely-blue.jpg?resize=664,452 664w, https://bgr.com/wp-content/uploads/2020/11/pixel-4a-barely-blue.jpg?resize=1200,817 1200w, https://bgr.com/wp-content/uploads/2020/11/pixel-4a-barely-blue.jpg?resize=782,532 782w, https://bgr.com/wp-content/uploads/2020/11/pixel-4a-barely-blue.jpg?resize=827,563 827w, https://bgr.com/wp-content/uploads/2020/11/pixel-4a-barely-blue.jpg?resize=800,545 800w" sizes="(max-width: 610px) 100vw, 610px" title="Pixel 6 Specs Rumors" /></a></center><p>The Pixel 5 is a fine 5G phone, but it can't compete with flagships from Samsung or Apple. It features decent specs, an improved design over the disappointing Pixel 4, and an ever-reliable camera, all for a great price in a year hit by massive health and economic crises. But that didn&rsquo;t change the fact that the Pixel 5 was also a massive disappointment for many people who wanted a variant of the phone that could at least compete against the iPhone 11 when it comes to performance, if not the iPhone 12. <a href="https://bgr.com/2020/10/23/iphone-12-pro-speed-test-vs-note-20-ultra-vs-pixel-5/">The Pixel 5 wasn&rsquo;t that</a>.</p>
+<p>But reports last year also gave Pixel fans reasons for hope. Google supposedly chose the Snapdragon 765 platform for the Pixel 5 to cut costs, but the company was already developing its own custom processor. Google would, thus, follow in Apple and Samsung&rsquo;s footsteps. Google partnered with Samsung to manufacture its processors, which are codenamed Whitechapel, according to <a href="https://bgr.com/2020/04/14/pixel-5-specs-disappoint-but-pixel-6-will-get-custom-google-chip/">a report from April 2020</a> that claimed the custom chip would be ready in time for 2021 products. This report prompted speculation that the Pixel 6 would feature Google&rsquo;s own silicon, and we now have the first rumor that indicates the Pixel 6 will have a processor made by Google.</p>
+<h3>Today's Top Deal</h3>
+<p><a href="https://www.amazon.com/Carote-Stone-Derived-Non-Stick-Switzerland-Including/dp/B0732NXYNS?tag=b0c55topdeals-20"><br><img height="500px" width="500px" src="https://m.media-amazon.com/images/I/41WpDGJAThL.jpg" alt="Amazon shoppers are obsessed with this nonstick frying pan &ndash; today it&rsquo;s only $14!"><br></a></p>
+<h4><a href="https://www.amazon.com/Carote-Stone-Derived-Non-Stick-Switzerland-Including/dp/B0732NXYNS?tag=b0c55rss-20">Amazon shoppers are obsessed with this nonstick frying pan &ndash; today it&rsquo;s only $14!</a></h4>
+<p><a href="https://www.amazon.com/Carote-Stone-Derived-Non-Stick-Switzerland-Including/dp/B0732NXYNS?tag=b0c55rss-20">Price: <strong>$13.99</strong></a><br><span>You Save: $3.00 (18%)</span><br><strong><a href="https://www.amazon.com/Carote-Stone-Derived-Non-Stick-Switzerland-Including/dp/B0732NXYNS?tag=b0c55rss-20">Buy Now</a></strong></p>
+<p><a href="https://bgr.com/2021/04/02/pixel-6-specs-rumors-google-whitechapel-processor/" class="more-link"><em>Continue reading...</em></a></p>
+
+<p><strong>Today's Top Deals</strong></p>
+<ol>
+<li><a href="https://bgr.com/2021/04/01/drone-with-camera-on-amazon-prime-coupon-lowest-price/?utm_source=rss&#038;utm_campaign=topdeals">Amazon coupon gets you a 2K camera drone that folds up as small as a smartphone for $60</a></li>
+<li><a href="https://bgr.com/2021/04/02/best-amazon-devices-dash-smart-shelf-deals/?utm_source=rss&#038;utm_campaign=topdeals">This $20 Amazon smart device is my new favorite gadget</a></li>
+<li><a href="https://bgr.com/2021/04/02/how-to-fix-a-hole-in-the-wall-fast-and-cheap-amazon-prime-deal-3m-small-hole-repair-kit/?utm_source=rss&#038;utm_campaign=topdeals">TikTokers are flipping out over this $6 product that fixes holes in your walls in seconds</a></li>
+</ol>
+
+<p><strong>Trending Right Now:</strong></p>
+<ol>
+<li><a href="https://bgr.com/2021/04/02/new-stimulus-check-senate-democrats-want-recurring-covid-19-payments/">Forget a one-time $1,400 stimulus check &#8211; this new plan might give you monthly payments</a></li>
+<li><a href="https://bgr.com/2021/04/01/mars-rock-perseverance-mystery/">Perseverance found a weird rock on Mars, and scientists can&#8217;t identify it</a></li>
+<li><a href="https://bgr.com/2021/04/02/hubble-photo-veil-nebula/">This Hubble image is so incredible you&#8217;ll swear it&#8217;s fake</a></li>
+</ol>
+<p><a href="https://bgr.com/2021/04/02/pixel-6-specs-rumors-google-whitechapel-processor/">This is the most exciting Pixel 6 rumor of 2021 so far</a> originally appeared on <a href="http://bgr.com">BGR.com</a> on Fri, 2 Apr 2021 at 20:05:22 EDT. Please see our terms for use of feeds.</p>
