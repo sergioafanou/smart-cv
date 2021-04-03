@@ -1,0 +1,30 @@
+---
+title : Coinbase is finally going public, but it’s taking an unusual route
+layout: post
+tags: tutorial labnol
+post_inspiration: https://bgr.com/2021/04/02/coinbase-ipo-date-april-14-price-shares/
+image: "https://sergio.afanou.com/assets/images/image-midres-51.jpg"
+---
+
+<center><a href="https://bgr.com/2021/04/02/coinbase-ipo-date-april-14-price-shares/" class="bgr-rss-featured-image bgr-rss-test-class"><img loading="lazy" width="610" height="343" src="https://bgr.com/wp-content/uploads/2021/04/bitcoin-cryptocurrency-exchange.jpg?quality=70&amp;strip=all&amp;w=610" class="attachment-feed_normal size-feed_normal wp-post-image" alt="Coinbase IPO Date" loading="lazy" srcset="https://bgr.com/wp-content/uploads/2021/04/bitcoin-cryptocurrency-exchange.jpg 1600w, https://bgr.com/wp-content/uploads/2021/04/bitcoin-cryptocurrency-exchange.jpg?resize=150,84 150w, https://bgr.com/wp-content/uploads/2021/04/bitcoin-cryptocurrency-exchange.jpg?resize=300,169 300w, https://bgr.com/wp-content/uploads/2021/04/bitcoin-cryptocurrency-exchange.jpg?resize=768,432 768w, https://bgr.com/wp-content/uploads/2021/04/bitcoin-cryptocurrency-exchange.jpg?resize=1024,576 1024w, https://bgr.com/wp-content/uploads/2021/04/bitcoin-cryptocurrency-exchange.jpg?resize=1536,864 1536w, https://bgr.com/wp-content/uploads/2021/04/bitcoin-cryptocurrency-exchange.jpg?resize=610,343 610w, https://bgr.com/wp-content/uploads/2021/04/bitcoin-cryptocurrency-exchange.jpg?resize=664,374 664w, https://bgr.com/wp-content/uploads/2021/04/bitcoin-cryptocurrency-exchange.jpg?resize=1200,675 1200w, https://bgr.com/wp-content/uploads/2021/04/bitcoin-cryptocurrency-exchange.jpg?resize=782,440 782w, https://bgr.com/wp-content/uploads/2021/04/bitcoin-cryptocurrency-exchange.jpg?resize=827,465 827w, https://bgr.com/wp-content/uploads/2021/04/bitcoin-cryptocurrency-exchange.jpg?resize=800,450 800w" sizes="(max-width: 610px) 100vw, 610px" title="Coinbase IPO Date" /></a></center><p>Interest in bitcoin and the rest of the cryptocurrency industry has exploded in recent months, with the digital coins experiencing a massive moment. Bitcoin more than tripled its 2018 high a few days ago when it topped $61,000, with other players in the business experiencing notable growth as well. The bull run is far from over, with more money pouring in, as analysts and speculators expect this to last a while longer &mdash; bitcoin was trading at around $59,500 per coin at the time of this writing.</p>
+<p>It&rsquo;s not just investors making the right plays that are profiting from these massive growth periods. So are the middlemen involved in providing retail investors access to the highly coveted digital coins. Coinbase is one of the most popular crypto exchanges in the US and the world, and the company has just announced exciting plans of its own. Coinbase <a href="https://blog.coinbase.com/coinbase-announces-effectiveness-of-registration-statement-and-anticipated-listing-date-of-its-1509b281f760">will finally go public</a> on April 14th, trading on the NASDAQ under the COIN ticker. But the exchange is taking an unusual approach to going public that involves disclosing financial information for the first quarter of 2021.</p>
+<h3>Today's Top Deal</h3>
+<p><a href="https://www.amazon.com/Carote-Stone-Derived-Non-Stick-Switzerland-Including/dp/B0732NXYNS?tag=b0c55topdeals-20"><br><img height="500px" width="500px" src="https://m.media-amazon.com/images/I/41WpDGJAThL.jpg" alt="Amazon shoppers are obsessed with this nonstick frying pan &ndash; today it&rsquo;s only $14!"><br></a></p>
+<h4><a href="https://www.amazon.com/Carote-Stone-Derived-Non-Stick-Switzerland-Including/dp/B0732NXYNS?tag=b0c55rss-20">Amazon shoppers are obsessed with this nonstick frying pan &ndash; today it&rsquo;s only $14!</a></h4>
+<p><a href="https://www.amazon.com/Carote-Stone-Derived-Non-Stick-Switzerland-Including/dp/B0732NXYNS?tag=b0c55rss-20">Price: <strong>$13.99</strong></a><br><span>You Save: $3.00 (18%)</span><br><strong><a href="https://www.amazon.com/Carote-Stone-Derived-Non-Stick-Switzerland-Including/dp/B0732NXYNS?tag=b0c55rss-20">Buy Now</a></strong></p>
+<p><a href="https://bgr.com/2021/04/02/coinbase-ipo-date-april-14-price-shares/" class="more-link"><em>Continue reading...</em></a></p>
+
+<p><strong>Today's Top Deals</strong></p>
+<ol>
+<li><a href="https://bgr.com/2021/04/01/drone-with-camera-on-amazon-prime-coupon-lowest-price/?utm_source=rss&#038;utm_campaign=topdeals">Amazon coupon gets you a 2K camera drone that folds up as small as a smartphone for $60</a></li>
+<li><a href="https://bgr.com/2021/04/02/best-amazon-devices-dash-smart-shelf-deals/?utm_source=rss&#038;utm_campaign=topdeals">This $20 Amazon smart device is my new favorite gadget</a></li>
+<li><a href="https://bgr.com/2021/04/02/how-to-fix-a-hole-in-the-wall-fast-and-cheap-amazon-prime-deal-3m-small-hole-repair-kit/?utm_source=rss&#038;utm_campaign=topdeals">TikTokers are flipping out over this $6 product that fixes holes in your walls in seconds</a></li>
+</ol>
+
+<p><strong>Trending Right Now:</strong></p>
+<ol>
+<li><a href="https://bgr.com/2021/04/02/new-stimulus-check-senate-democrats-want-recurring-covid-19-payments/">Forget a one-time $1,400 stimulus check &#8211; this new plan might give you monthly payments</a></li>
+<li><a href="https://bgr.com/2021/04/01/mars-rock-perseverance-mystery/">Perseverance found a weird rock on Mars, and scientists can&#8217;t identify it</a></li>
+<li><a href="https://bgr.com/2021/04/02/hubble-photo-veil-nebula/">This Hubble image is so incredible you&#8217;ll swear it&#8217;s fake</a></li>
+</ol>
+<p><a href="https://bgr.com/2021/04/02/coinbase-ipo-date-april-14-price-shares/">Coinbase is finally going public, but it&#8217;s taking an unusual route</a> originally appeared on <a href="http://bgr.com">BGR.com</a> on Fri, 2 Apr 2021 at 22:11:35 EDT. Please see our terms for use of feeds.</p>
