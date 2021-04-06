@@ -3,7 +3,7 @@ title : "Glints snags US$22.5M Series C to expand ‘full-stack’ career platfo
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/glints-snags-us22-5m-series-c-to-expand-full-stack-career-platform-20210405/
-image: "https://sergio.afanou.com/assets/images/image-midres-29.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-40.jpg"
 ---
 
 <div id="attachment_413228" style="width: 681px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-413228" loading="lazy" class="wp-image-413228 size-full" src="https://e27.co/wp-content/uploads/2021/04/Oswald_Yeo_._Glints.001.jpg" alt="Glints" width="671" height="390" /><p id="caption-attachment-413228" class="wp-caption-text">Oswald Yeo, CEO of Glints</p></div>
