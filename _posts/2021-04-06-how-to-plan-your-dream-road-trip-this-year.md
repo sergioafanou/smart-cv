@@ -1,5 +1,5 @@
 ---
-title : How to Plan Your Dream Road Trip This Year
+title : "How to Plan Your Dream Road Trip This Year"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://lifehacker.com/how-to-plan-your-dream-road-trip-this-year-1846608722
