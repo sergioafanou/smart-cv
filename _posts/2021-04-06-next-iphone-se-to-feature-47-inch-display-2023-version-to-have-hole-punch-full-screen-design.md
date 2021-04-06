@@ -3,7 +3,7 @@ title : "Next iPhone SE to Feature 4.7-Inch Display, 2023 Version to Have Hole P
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/01/iphone-se-2023-hole-punch-design/
-image: "https://sergio.afanou.com/assets/images/image-midres-26.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-44.jpg"
 ---
 
 The next-generation <a href="https://www.macrumors.com/roundup/iphone-se/">iPhone SE</a> that's set to launch in 2022 will feature the same 4.7-inch display as the current version, according to display analyst Ross Young.
