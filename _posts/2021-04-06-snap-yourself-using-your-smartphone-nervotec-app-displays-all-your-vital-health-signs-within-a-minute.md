@@ -3,7 +3,7 @@ title : "Snap yourself using your smartphone, Nervotec app displays all your vit
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/snap-yourself-using-your-smartphone-nervotec-displays-all-your-vital-health-signs-within-a-minute-20210129/
-image: "https://sergio.afanou.com/assets/images/image-midres-15.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-12.jpg"
 ---
 
 <div id="attachment_390148" style="width: 700px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-390148" loading="lazy" class="size-full wp-image-390148" src="https://e27.co/wp-content/uploads/2021/01/SY1_4416..Halfbody.jpg" alt="Nervotec" width="690" height="390" /><p id="caption-attachment-390148" class="wp-caption-text">Jonathan Lau, Founder of Nervotec</p></div>
