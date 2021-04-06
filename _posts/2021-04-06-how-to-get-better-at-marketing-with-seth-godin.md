@@ -1,5 +1,5 @@
 ---
-title : How to Get Better at Marketing, With Seth Godin
+title : "How to Get Better at Marketing, With Seth Godin"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://lifehacker.com/how-to-get-better-at-marketing-with-seth-godin-1846620698
