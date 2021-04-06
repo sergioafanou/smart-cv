@@ -1,5 +1,5 @@
 ---
-title : Report: WhatsApp may soon let iOS users transfer chats between Android
+title : "Report: WhatsApp may soon let iOS users transfer chats between Android"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/whatsapp-transfer-chats-ios-android-1215274/
