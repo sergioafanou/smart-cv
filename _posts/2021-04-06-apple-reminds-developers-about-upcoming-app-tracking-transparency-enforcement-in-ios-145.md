@@ -1,5 +1,5 @@
 ---
-title : Apple Reminds Developers About Upcoming App Tracking Transparency Enforcement in iOS 14.5
+title : "Apple Reminds Developers About Upcoming App Tracking Transparency Enforcement in iOS 14.5"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/05/app-tracking-transparency-developer-reminder/
