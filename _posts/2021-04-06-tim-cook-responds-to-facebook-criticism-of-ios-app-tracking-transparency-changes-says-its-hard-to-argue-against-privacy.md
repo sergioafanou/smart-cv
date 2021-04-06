@@ -3,7 +3,7 @@ title : "Tim Cook Responds to Facebook Criticism of iOS App Tracking Transparenc
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/03/tim-cook-responds-facebook-ios-privacy/
-image: "https://sergio.afanou.com/assets/images/image-midres-26.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-7.jpg"
 ---
 
 In a <a href="https://twitter.com/karaswisher/status/1378202318542417920?s=20">preview of an interview</a> with <em>The New York Times</em>' Kara Swisher, set to be published on Monday, April 5, Apple CEO <a href="https://www.macrumors.com/guide/tim-cook/">Tim Cook</a> said he's "shocked" at the criticism Apple has received in recent months over upcoming privacy changes in iOS, and claimed that they're "hard to argue against."
