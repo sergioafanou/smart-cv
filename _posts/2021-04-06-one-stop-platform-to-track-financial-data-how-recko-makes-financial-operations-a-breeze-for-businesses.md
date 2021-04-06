@@ -3,7 +3,7 @@ title : "One-stop platform to track financial data: How Recko makes financial op
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/one-stop-platform-to-track-financial-data-how-recko-makes-financial-operations-a-breeze-for-businesses-20210326/
-image: "https://sergio.afanou.com/assets/images/image-midres-11.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-25.jpg"
 ---
 
 <div id="attachment_410155" style="width: 700px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-410155" loading="lazy" class="wp-image-410155 size-full" src="https://e27.co/wp-content/uploads/2021/03/Recko.feature.jpg" alt="Recko" width="690" height="390" /><p id="caption-attachment-410155" class="wp-caption-text">Recko co-founders Saurya Prakash Sinha (L) and Prashant Borde</p></div>
