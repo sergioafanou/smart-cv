@@ -3,7 +3,7 @@ title : "Top Stories: WWDC 2021 Announced, iPhone SE Rumors, 'Cheese Grater' iPh
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/03/top-stories-wwdc-2021-iphone-se/
-image: "https://sergio.afanou.com/assets/images/image-midres-17.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-45.jpg"
 ---
 
 While we're still waiting on word of a potential Apple event in April, we did get confirmation about another upcoming Apple event this week, WWDC 2021, which will return to its usual early June timeframe but remain in an all-virtual format similar to last year's edition.
