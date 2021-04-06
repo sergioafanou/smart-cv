@@ -3,7 +3,7 @@ title : "In brief: Sea donates US$37M to NUS School of Computing"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/in-brief-sea-gifts-us37m-to-nus-school-of-computing-20210329/
-image: "https://sergio.afanou.com/assets/images/image-midres-1.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-25.jpg"
 ---
 
 <img loading="lazy" class="aligncenter size-full wp-image-412401" src="https://e27.co/wp-content/uploads/2021/03/Sea_.png" alt="" width="688" height="390" />
