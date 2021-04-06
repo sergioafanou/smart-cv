@@ -3,7 +3,7 @@ title : "How SMEs can get their digital ducks in a row for 2021 and beyond"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/get-your-digital-ducks-in-a-row-for-2021-and-beyond-20210330/
-image: "https://sergio.afanou.com/assets/images/image-midres-32.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-4.jpg"
 ---
 
 <img loading="lazy" class="aligncenter wp-image-412539 size-full" src="https://e27.co/wp-content/uploads/2021/03/marvin-meyer-SYTO3xs06fU-unsplash.jpg" alt="digital SME" width="690" height="390" />
