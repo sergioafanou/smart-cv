@@ -3,7 +3,7 @@ title : "Microsoft Pits Surface Pro 7 Against iPad Pro, Says Surface is 'Still t
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/05/microsoft-surface-pro-7-vs-ipad-pro-ad/
-image: "https://sergio.afanou.com/assets/images/image-midres-54.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-14.jpg"
 ---
 
 Microsoft today shared an ad that pits the Surface Pro 7 against Apple's <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a>, in a continuation of a Surface Pro 7 vs. MacBook ad campaign that <a href="https://www.macrumors.com/2021/01/23/microsoft-surface-pro-7-vs-macbook-pro-ad/">kicked off in January</a>.
