@@ -3,7 +3,7 @@ title : "Facebook Doesn't Want to Give Apple Requested Documents in Epic v. Appl
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/05/facebook-apple-epic-games-lawsuit-document-fight/
-image: "https://sergio.afanou.com/assets/images/image-midres-53.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-18.jpg"
 ---
 
 Facebook and Apple are squabbling over document requests in the ongoing Epic v. Apple legal battle, according to a new discovery letter filed with the court today. Facebook is involved because Facebook executive Vivek Sharma <a href="https://www.macrumors.com/2021/03/20/apple-vs-epic-trial-tim-cook-scott-forstall/">is set to testify</a> on behalf of Epic.
