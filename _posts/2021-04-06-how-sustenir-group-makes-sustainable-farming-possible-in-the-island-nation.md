@@ -3,7 +3,7 @@ title : "How Sustenir Group makes sustainable farming possible in the island nat
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/how-sustenir-group-makes-sustainable-farming-possible-in-the-island-nation-20210401/
-image: "https://sergio.afanou.com/assets/images/image-midres-20.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-51.jpg"
 ---
 
 <p><span ><img loading="lazy" class="aligncenter size-full wp-image-412616" src="https://e27.co/wp-content/uploads/2021/03/BIL_8167.jpeg" alt="" width="688" height="389" /></span></p>
