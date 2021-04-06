@@ -3,7 +3,7 @@ title : "Comprehensive Observability"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://gigaom.com/2021/03/05/comprehensive-observability/
-image: "https://sergio.afanou.com/assets/images/image-midres-45.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-39.jpg"
 ---
 
 <p>I had the pleasure of producing my first analyst report in one of the hottest categories for GigaOm—cloud observability. Here are my thoughts on the research process, the technology space, and the vendors, as well as some advice for IT decision-makers.</p>
