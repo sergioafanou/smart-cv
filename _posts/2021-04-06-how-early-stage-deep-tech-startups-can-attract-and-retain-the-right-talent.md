@@ -3,7 +3,7 @@ title : "How early-stage deep-tech startups can attract and retain the right tal
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/how-can-early-stage-deep-tech-startups-attract-and-retain-the-right-talent-20210324/
-image: "https://sergio.afanou.com/assets/images/image-midres-0.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-47.jpg"
 ---
 
 <img loading="lazy" class="aligncenter wp-image-409876 size-full" src="https://e27.co/wp-content/uploads/2021/03/clem-onojeghuo-fY8Jr4iuPQM-unsplash.jpg" alt="deep tech talent" width="690" height="390" />
