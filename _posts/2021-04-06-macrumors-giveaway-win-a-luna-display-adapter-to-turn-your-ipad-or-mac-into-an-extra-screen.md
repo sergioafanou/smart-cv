@@ -3,7 +3,7 @@ title : "MacRumors Giveaway: Win a Luna Display Adapter to Turn Your iPad or Mac
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/02/macrumors-giveaway-luna-display-adapter-3/
-image: "https://sergio.afanou.com/assets/images/image-midres-11.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-10.jpg"
 ---
 
 For this week's <a href="https://www.macrumors.com/guide/giveaway/">giveaway</a>, we've teamed up with <a href="https://astropad.com">Astropad</a> to offer <em>MacRumors</em> readers a chance to win <a href="https://astropad.com/product/lunadisplay/">a Luna Display adapter</a> that's able to transform an extra Mac or <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> into a secondary display for your primary Mac.
