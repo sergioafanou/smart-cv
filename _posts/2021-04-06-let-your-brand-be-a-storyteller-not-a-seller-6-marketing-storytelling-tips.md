@@ -3,7 +3,7 @@ title : "Let your brand be a storyteller, not a seller: 6 marketing storytelling
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/let-your-brand-be-a-storyteller-not-a-seller-6-marketing-storytelling-tips-20210330/
-image: "https://sergio.afanou.com/assets/images/image-midres-33.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-7.jpg"
 ---
 
 <img loading="lazy" class="aligncenter size-full wp-image-261518" src="https://e27.co/wp-content/uploads/2020/01/TikTok_future_digitalmarketing.jpg" alt="" width="690" height="390" />
