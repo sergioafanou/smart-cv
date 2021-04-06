@@ -1,5 +1,5 @@
 ---
-title : How to Introduce Your Kids to Vegan and Plant-Based Diets
+title : "How to Introduce Your Kids to Vegan and Plant-Based Diets"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://offspring.lifehacker.com/how-to-introduce-your-kids-to-vegan-and-plant-based-die-1846605840
