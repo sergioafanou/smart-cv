@@ -3,7 +3,7 @@ title : "Making smart manufacturing a cost-efficient reality for SMEs"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/making-smart-manufacturing-a-cost-efficient-reality-for-smes-20210324/
-image: "https://sergio.afanou.com/assets/images/image-midres-39.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-48.jpg"
 ---
 
 <img loading="lazy" class="size-full wp-image-409952 aligncenter" src="https://e27.co/wp-content/uploads/2021/03/GoodLinker-1.png" alt="" width="690" height="390" />
