@@ -3,7 +3,7 @@ title : "Apple Adjusts Trade-In Value of iPad Pro, iPhone 11, and Select Mac Mod
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/05/apple-ipad-select-mac-iphone-11-trade-in-value/
-image: "https://sergio.afanou.com/assets/images/image-midres-5.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-10.jpg"
 ---
 
 Apple has adjusted the trade-in values of a number of its products, including the majority of the <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> and Mac lineup, while also making some changes to <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>. 
