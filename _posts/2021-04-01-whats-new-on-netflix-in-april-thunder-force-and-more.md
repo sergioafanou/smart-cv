@@ -1,5 +1,5 @@
 ---
-title : What’s new on Netflix in April\: Thunder Force and more
+title : "What’s new on Netflix in April: Thunder Force and more"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/new-on-netflix-939257/
