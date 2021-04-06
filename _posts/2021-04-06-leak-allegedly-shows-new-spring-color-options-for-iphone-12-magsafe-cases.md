@@ -3,7 +3,7 @@ title : "Leak Allegedly Shows New Spring Color Options for iPhone 12 MagSafe Cas
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/02/iphone-12-magesafe-case-spring-colors/
-image: "https://sergio.afanou.com/assets/images/image-midres-2.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-46.jpg"
 ---
 
 A <a href="https://weibo.com/5367283758/K92J1wFT6">series of images posted</a> on the Chinese social networking platform Weibo, shared by leaker <a href="https://www.macrumors.com/guide/duanrui/">DuanRui</a> on <a href="https://twitter.com/duanrui1205/status/1377888170931458052?s=20">Twitter</a>, claims to showcase the new colors for Apple's 2021 Spring collection for the <a href="https://www.macrumors.com/roundup/iphone-12/">iPhone 12</a> <a href="https://www.macrumors.com/guide/magsafe-battery-pack/">MagSafe</a> case.
