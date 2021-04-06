@@ -3,7 +3,7 @@ title : "Apple Arcade Adds 30 Classic Games Including 'Fruit Ninja' and 'Cut the
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/02/apple-arcade-adds-30-classic-games/
-image: "https://sergio.afanou.com/assets/images/image-midres-25.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-52.jpg"
 ---
 
 Apple <a href="https://www.apple.com/newsroom/2021/04/apple-arcade-expands-its-award-winning-catalog-to-more-than-180-games/">today announced</a> that its mobile gaming subscription service, <a href="https://www.macrumors.com/guide/apple-arcade/">Apple Arcade</a>, is gaining 30 classic games including "Fruit Ninja," "Monument Valley," "Solitaire," and "Cut the Rope" as the service passes a total of 180 titles.
