@@ -3,7 +3,7 @@ title : "Periscope App Officially Shutting Down After Today"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/03/31/periscope-app-officially-shutting-down-after-today/
-image: "https://sergio.afanou.com/assets/images/image-midres-54.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-5.jpg"
 ---
 
 Twitter-owned app Periscope today announced that its dedicated app for the live video service will be shut down as of today. In a tweet, Periscope said that today is the last day that the Periscope app will be available.
