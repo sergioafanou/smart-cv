@@ -1,5 +1,5 @@
 ---
-title : What Parents Should Know About YouTube's New Parental Controls for Teens
+title : "What Parents Should Know About YouTube's New Parental Controls for Teens"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://offspring.lifehacker.com/what-parents-should-know-about-youtubes-new-parental-co-1846609214
