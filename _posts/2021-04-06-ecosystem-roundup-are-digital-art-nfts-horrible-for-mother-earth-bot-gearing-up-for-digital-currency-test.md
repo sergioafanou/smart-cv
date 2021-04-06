@@ -3,7 +3,7 @@ title : "Ecosystem Roundup: Are digital art NFTs horrible for Mother Earth? BoT 
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/ecosystem-roundup-are-digital-art-nfts-horrible-for-mother-earth-bot-gearing-up-for-digital-currency-test-20210404/
-image: "https://sergio.afanou.com/assets/images/image-midres-45.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-52.jpg"
 ---
 
 <img loading="lazy" class="aligncenter size-full wp-image-413062" src="https://e27.co/wp-content/uploads/2021/04/Digital_art_Unsplash.png" alt="" width="691" height="390" />
