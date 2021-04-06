@@ -1,5 +1,5 @@
 ---
-title : The global computer chip shortage explained: What it means for you and your tech
+title : "The global computer chip shortage explained: What it means for you and your tech"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/computer-chip-shortage-1212941/
