@@ -3,7 +3,7 @@ title : "From our community: Fintech-SME collaborations, marketing tips from ex-
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/from-our-community-20210401/
-image: "https://sergio.afanou.com/assets/images/image-midres-47.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-31.jpg"
 ---
 
 <img loading="lazy" class="aligncenter wp-image-364788 size-full" src="https://e27.co/wp-content/uploads/2020/11/Contributor-of-the-week.jpg" alt="Contributor posts" width="690" height="390" />
