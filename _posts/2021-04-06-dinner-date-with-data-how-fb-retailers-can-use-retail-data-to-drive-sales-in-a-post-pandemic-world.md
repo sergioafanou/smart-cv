@@ -3,7 +3,7 @@ title : "Dinner date with data: How F&B retailers can use retail data to drive s
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/how-fb-retailers-can-use-retail-data-to-drive-sales-in-a-post-pandemic-world-20210401/
-image: "https://sergio.afanou.com/assets/images/image-midres-0.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-19.jpg"
 ---
 
 <img loading="lazy" class="aligncenter wp-image-412943 size-full" src="https://e27.co/wp-content/uploads/2021/04/elena-rabkina-ncwhE6jTslg-unsplash.jpg" alt="food delivery" width="690" height="390" />
