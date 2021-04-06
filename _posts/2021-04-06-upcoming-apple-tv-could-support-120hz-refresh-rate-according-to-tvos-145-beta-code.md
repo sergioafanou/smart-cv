@@ -1,5 +1,5 @@
 ---
-title : Upcoming Apple TV Could Support 120Hz Refresh Rate According to tvOS 14.5 Beta Code
+title : "Upcoming Apple TV Could Support 120Hz Refresh Rate According to tvOS 14.5 Beta Code"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/05/apple-tv-120hz-support-tvos-14-5-code/
