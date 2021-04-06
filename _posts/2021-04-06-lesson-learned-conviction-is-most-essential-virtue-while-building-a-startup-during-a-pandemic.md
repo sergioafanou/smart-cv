@@ -3,7 +3,7 @@ title : "Lesson learned: Conviction is most essential virtue while building a st
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/how-i-learnt-that-conviction-is-most-essential-virtue-while-building-a-startup-during-a-pandemic-20210405/
-image: "https://sergio.afanou.com/assets/images/image-midres-18.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-0.jpg"
 ---
 
 <img loading="lazy" class="aligncenter wp-image-413147 size-full" src="https://e27.co/wp-content/uploads/2021/04/brooke-lark-jtvGydbUn30-unsplash.jpg" alt="founder conviction" width="690" height="390" />
