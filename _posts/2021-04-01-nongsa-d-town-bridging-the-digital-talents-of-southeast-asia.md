@@ -1,5 +1,5 @@
 ---
-title : Nongsa D-town: bridging the digital talents of Southeast Asia
+title : "Nongsa D-town: bridging the digital talents of Southeast Asia"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/nongsa-d-town-bridging-the-digital-talents-of-southeast-asia-20210330/
