@@ -3,7 +3,7 @@ title : "Scosche MagicMount Dash review: A small, strong car phone mount"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/scosche-magicmount-dash-review-1212675/
-image: "https://sergio.afanou.com/assets/images/image-midres-42.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-1.jpg"
 ---
 
 <p><html><body></p>
