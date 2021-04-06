@@ -3,7 +3,7 @@ title : "iOS 14.5 Will Recalibrate iPhone 11 Batteries to Fix Battery Health Bug
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/03/31/ios-14-5-iphone-11-battery-recalibration/
-image: "https://sergio.afanou.com/assets/images/image-midres-19.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-26.jpg"
 ---
 
 Apple's iOS 14.5 beta that's currently in testing introduces a new process for recalibrating the battery health reporting on the <a href="https://www.macrumors.com/roundup/iphone-11/">iPhone 11</a>, 11 Pro, and 11 Pro Max.
