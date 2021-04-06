@@ -1,5 +1,5 @@
 ---
-title : It was a cold night for NASA’s Mars helicopter
+title : "It was a cold night for NASA’s Mars helicopter"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/05/mars-helicopter-nasa-ingenuity/
