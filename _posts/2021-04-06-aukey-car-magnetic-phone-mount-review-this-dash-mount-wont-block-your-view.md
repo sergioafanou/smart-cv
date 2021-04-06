@@ -3,7 +3,7 @@ title : "Aukey Car Magnetic Phone Mount review: This dash mount won’t block yo
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/aukey-car-magnetic-phone-mount-review-1212710/
-image: "https://sergio.afanou.com/assets/images/image-midres-1.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-39.jpg"
 ---
 
 <p><html><body></p>
