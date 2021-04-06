@@ -1,5 +1,5 @@
 ---
-title : Can a Raw Potato Fix Food That's Too Salty?
+title : "Can a Raw Potato Fix Food That's Too Salty?"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://skillet.lifehacker.com/can-a-raw-potato-fix-food-thats-too-salty-1846619925
