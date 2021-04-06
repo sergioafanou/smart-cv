@@ -3,7 +3,7 @@ title : "Visible deals: Pixel 5 with free $200 prepaid Mastercard and Fire TV st
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/best-visible-deals-1096134/
-image: "https://sergio.afanou.com/assets/images/image-midres-7.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-44.jpg"
 ---
 
 <p><html><body><a href="https://prf.hn/click/camref:1011l9gbX/pubref:david.nguyen/destination:https%3A%2F%2Fwww.visible.com%2Fplan"><br />
