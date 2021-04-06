@@ -3,7 +3,7 @@ title : "iOS 14.5 Adds New Siri Voices, No Longer Defaults to Female"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/03/31/ios-14-5-new-siri-voices/
-image: "https://sergio.afanou.com/assets/images/image-midres-22.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-46.jpg"
 ---
 
 The sixth beta of iOS 14.5 that was <a href="https://www.macrumors.com/2021/03/31/apple-seeds-ios-14-5-beta-6-to-developers/">released this morning</a> introduces two new <a href="https://www.macrumors.com/guide/siri/">Siri</a> voices that are available in English, plus it adds a new setup selection option that will let people choose their preferred &zwnj;Siri&zwnj; voice rather than defaulting to a female voice in the United States. 
