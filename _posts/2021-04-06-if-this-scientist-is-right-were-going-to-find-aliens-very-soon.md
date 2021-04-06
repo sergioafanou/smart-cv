@@ -1,5 +1,5 @@
 ---
-title : If this scientist is right, we’re going to find aliens very soon
+title : "If this scientist is right, we’re going to find aliens very soon"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/05/alien-life-discovery-james-webb/
