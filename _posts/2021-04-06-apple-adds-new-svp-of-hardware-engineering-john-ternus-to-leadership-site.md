@@ -3,7 +3,7 @@ title : "Apple Adds New SVP of Hardware Engineering John Ternus to Leadership Si
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/02/apple-leadership-site-john-ternus/
-image: "https://sergio.afanou.com/assets/images/image-midres-45.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-16.jpg"
 ---
 
 Apple today updated its <a href="https://www.apple.com/leadership/">dedicated leadership website</a> to add a profile for John Ternus, reflecting his new role as Apple's Senior Vice President of Hardware Engineering.
