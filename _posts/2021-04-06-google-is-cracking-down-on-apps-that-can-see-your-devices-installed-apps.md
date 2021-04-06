@@ -3,7 +3,7 @@ title : "Google is cracking down on apps that can see your device’s installed 
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/google-android-installed-list-apps-device-1214149/
-image: "https://sergio.afanou.com/assets/images/image-midres-13.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-53.jpg"
 ---
 
 <p><html><body></p>
