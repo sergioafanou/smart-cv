@@ -3,7 +3,7 @@ title : "Apple Now Rejecting App Updates That Defy iOS 14.5 App Tracking Transpa
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/01/apple-rejecting-app-updates-tracking-transparency/
-image: "https://sergio.afanou.com/assets/images/image-midres-30.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-16.jpg"
 ---
 
 Apple has begun rejecting app updates that do not comply with the App Tracking Transparency rules that the company is enforcing starting with iOS 14.5, according to a new report from <em><a href="https://www.forbes.com/sites/johnkoetsier/2021/04/01/apple-rejecting-apps-with-fingerprinting-enabled-as-ios-14-privacy-enforcement-starts/?sh=7590a93a3d19">Forbes</a></em>.
