@@ -3,7 +3,7 @@ title : "Here are 5 reasons to expand your business to the Philippines"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/here-are-5-reasons-to-expand-your-business-to-the-philippines-20210326/
-image: "https://sergio.afanou.com/assets/images/image-midres-15.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-51.jpg"
 ---
 
 <img loading="lazy" class="aligncenter size-full wp-image-411159" src="https://e27.co/wp-content/uploads/2021/03/Plug-and-Play-in-article-photo.png" alt="Plug and Play APAC" width="690" height="390" />
