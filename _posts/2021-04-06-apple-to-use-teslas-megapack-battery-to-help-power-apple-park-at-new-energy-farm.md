@@ -3,7 +3,7 @@ title : "Apple to Use Tesla's 'Megapack' Battery to Help Power Apple Park at New
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/01/apple-tesla-battery-pack-new-energy-farm/
-image: "https://sergio.afanou.com/assets/images/image-midres-4.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-28.jpg"
 ---
 
 Apple plans to use Tesla's "Megapack" battery pack at a <a href="https://www.apple.com/newsroom/2021/03/apple-powers-ahead-in-new-renewable-energy-solutions-with-over-110-suppliers/">newly announced energy farm</a> in California to help power <a href="https://www.macrumors.com/guide/apple-park/">Apple Park</a> and further its commitment to renewable energy and being carbon-neutral by 2030, according to <em><a href="https://www.theverge.com/2021/3/31/22360839/apple-tesla-megapack-energy-storage-grid-solar-batteries">The Verge</a></em>.
