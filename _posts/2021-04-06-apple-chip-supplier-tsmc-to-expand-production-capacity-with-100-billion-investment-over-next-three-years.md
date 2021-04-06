@@ -3,7 +3,7 @@ title : "Apple Chip Supplier TSMC to Expand Production Capacity With $100 Billio
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/01/apple-supplier-tsmc-invest-100-billion/
-image: "https://sergio.afanou.com/assets/images/image-midres-6.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-50.jpg"
 ---
 
 Long-time Apple supplier TSMC, which produces A-series chips for the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, and Apple silicon chips for the Mac, will invest &#36;100 billion over the next three years to significantly expand its production capacity to meet ever-increasing demand, <em><a href= "https://www.bloomberg.com/news/articles/2021-04-01/tsmc-to-invest-100-billion-over-three-years-to-grow-capacity">Bloomberg</a></em> reports.
