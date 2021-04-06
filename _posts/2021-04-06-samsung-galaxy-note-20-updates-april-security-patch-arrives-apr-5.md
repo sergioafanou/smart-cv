@@ -1,5 +1,5 @@
 ---
-title : Samsung Galaxy Note 20 updates: April security patch arrives (Apr. 5)
+title : "Samsung Galaxy Note 20 updates: April security patch arrives (Apr. 5)"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/samsung-galaxy-note-20-update-1145703/
