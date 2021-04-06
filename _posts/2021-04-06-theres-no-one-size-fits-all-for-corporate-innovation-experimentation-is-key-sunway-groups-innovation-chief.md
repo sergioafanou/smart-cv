@@ -3,7 +3,7 @@ title : "‘There’s no one-size-fits-all for corporate innovation, experimenta
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/theres-no-one-size-fits-all-for-corporate-innovation-experimentation-is-key-sunway-groups-innovation-chief-20210326/
-image: "https://sergio.afanou.com/assets/images/image-midres-51.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-53.jpg"
 ---
 
 <div id="attachment_411235" style="width: 700px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-411235" loading="lazy" class="size-full wp-image-411235" src="https://e27.co/wp-content/uploads/2021/03/Sunway_Group.png" alt="" width="690" height="390" /><p id="caption-attachment-411235" class="wp-caption-text">Sunway Future X, the innovation hub that houses 42KL and Sunway Future X Farms</p></div>
