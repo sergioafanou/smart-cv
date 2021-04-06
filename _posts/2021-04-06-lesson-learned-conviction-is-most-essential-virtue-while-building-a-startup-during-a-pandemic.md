@@ -1,5 +1,5 @@
 ---
-title : Lesson learned: Conviction is most essential virtue while building a startup during a pandemic
+title : "Lesson learned: Conviction is most essential virtue while building a startup during a pandemic"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/how-i-learnt-that-conviction-is-most-essential-virtue-while-building-a-startup-during-a-pandemic-20210405/
