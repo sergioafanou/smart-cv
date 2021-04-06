@@ -3,7 +3,7 @@ title : "Tesla is now accepting bitcoin. Are crypto payments the future of busin
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/tesla-is-now-accepting-bitcoin-are-crypto-payments-the-future-of-business-20210326/
-image: "https://sergio.afanou.com/assets/images/image-midres-50.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-40.jpg"
 ---
 
 <img loading="lazy" class="aligncenter wp-image-411199 size-full" src="https://e27.co/wp-content/uploads/2021/03/executium-tE5X6QxUimA-unsplash.jpg" alt="crypto payments" width="690" height="390" />
