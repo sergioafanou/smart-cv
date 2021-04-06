@@ -1,5 +1,5 @@
 ---
-title : Unstructured Data and the Challenge of Modern Data Management
+title : "Unstructured Data and the Challenge of Modern Data Management"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://gigaom.com/2021/04/05/unstructured-data-and-the-challenge-of-modern-data-management/
