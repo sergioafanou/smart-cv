@@ -3,7 +3,7 @@ title : "UI-licious bags US$1.5M pre-Series A to grow its UI test automation pla
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/ui-licious-bags-us1-5m-pre-series-a-to-expand-ui-test-automation-platform-20210324/
-image: "https://sergio.afanou.com/assets/images/image-midres-23.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-8.jpg"
 ---
 
 <div id="attachment_410161" style="width: 700px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-410161" loading="lazy" class="wp-image-410161 size-full" src="https://e27.co/wp-content/uploads/2021/03/From.left_.to_.right_.Eugene.Cheah_.CTO_.and_.Co_.Founder.and_.Shi_.Ling_.Tai_.CEO_.and_.Co_.Founder.jpg" alt="UI-licious co-founders Eugene Cheah (L) and Shi Ling Tai" width="690" height="390" /><p id="caption-attachment-410161" class="wp-caption-text">UI-licious co-founders Eugene Cheah (L) and Shi Ling Tai</p></div>
