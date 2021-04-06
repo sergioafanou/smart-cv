@@ -3,7 +3,7 @@ title : "Apple Seeds Sixth Beta of macOS Big Sur 11.3 to Developers [Update: Pub
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/03/31/apple-seeds-macos-big-sur-11-3-beta-6/
-image: "https://sergio.afanou.com/assets/images/image-midres-20.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-38.jpg"
 ---
 
 Apple today seeded the sixth beta of an upcoming <a href="https://www.macrumors.com/roundup/macos-big-sur/">macOS Big Sur</a> 11.3 update to developers for testing purposes, with the new beta coming one week after the launch of <a href="https://www.macrumors.com/2021/03/23/apple-seeds-macos-big-sur-11-3-beta-5/">the fifth beta</a> and more than a month after the <a href="https://www.macrumors.com/2021/02/01/apple-releases-macos-big-sur-11-2/">release of macOS Big Sur 11.2</a>, a bug fix update.
