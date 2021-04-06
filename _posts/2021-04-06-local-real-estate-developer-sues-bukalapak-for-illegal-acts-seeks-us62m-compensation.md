@@ -3,7 +3,7 @@ title : "Local real estate developer sues Bukalapak for “illegal acts”, seek
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/local-real-estate-developer-sued-bukalapak-for-illegal-acts-seeks-us6-2m-compensation-20210326/
-image: "https://sergio.afanou.com/assets/images/image-midres-42.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-9.jpg"
 ---
 
 <img loading="lazy" class="aligncenter size-full wp-image-292210" src="https://e27.co/wp-content/uploads/2020/04/Bukalapak_featured_image.jpeg" alt="" width="690" height="390" />
