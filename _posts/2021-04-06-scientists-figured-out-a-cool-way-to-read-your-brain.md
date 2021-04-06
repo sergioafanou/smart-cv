@@ -1,5 +1,5 @@
 ---
-title : Scientists figured out a cool way to read your brain
+title : "Scientists figured out a cool way to read your brain"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/05/science-news-researchers-read-human-brain-ultrasound/
