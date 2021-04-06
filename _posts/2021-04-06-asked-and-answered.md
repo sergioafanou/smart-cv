@@ -3,7 +3,7 @@ title : "Asked and Answered"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://gigaom.com/2021/03/25/asked-and-answered-2/
-image: "https://sergio.afanou.com/assets/images/image-midres-28.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-13.jpg"
 ---
 
 <p>What is the legendary creature we call Culture Change? I keep hearing it in DevOps circles as the answer to everything, but I’ve never seen it grazing calmly in the wild. To separate myth from reality, I connected with Mike Burrows, author of the influential book <a href="https://www.amazon.com/Kanban-Inside-Understand-connect-introduce/dp/0985305193" target="_blank" rel="noopener"><em>Kanban from the Inside</em></a> and <a href="https://www.amazon.com/Right-Left-digital-leaders-guide/dp/1789555310" target="_blank" rel="noopener"><em>Right to Left</em></a>. Burrows is also founder of Agendashift, an organization which helps organizations change to become more positive and productive.</p>
