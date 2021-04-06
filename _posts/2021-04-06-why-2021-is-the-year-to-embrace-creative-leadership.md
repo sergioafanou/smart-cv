@@ -3,7 +3,7 @@ title : "Why 2021 is the year to embrace creative leadership"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/why-2021-is-the-year-to-embrace-creative-leadership-20210325/
-image: "https://sergio.afanou.com/assets/images/image-midres-44.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-24.jpg"
 ---
 
 <img loading="lazy" class="aligncenter wp-image-411061 size-full" src="https://e27.co/wp-content/uploads/2021/03/bench-accounting-unG80SBSfMU-unsplash.jpg" alt="creative leadership" width="690" height="390" />
