@@ -1,5 +1,5 @@
 ---
-title : A portless phone with wired charging might be on the horizon
+title : "A portless phone with wired charging might be on the horizon"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/oppo-portless-phone-1215270/
