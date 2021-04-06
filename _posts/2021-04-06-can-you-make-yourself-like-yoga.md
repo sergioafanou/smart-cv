@@ -1,5 +1,5 @@
 ---
-title : Can You Make Yourself Like Yoga?
+title : "Can You Make Yourself Like Yoga?"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://vitals.lifehacker.com/can-you-make-yourself-like-yoga-1846609699
