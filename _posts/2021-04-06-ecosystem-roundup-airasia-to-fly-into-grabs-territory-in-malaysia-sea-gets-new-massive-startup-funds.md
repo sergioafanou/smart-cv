@@ -3,7 +3,7 @@ title : "Ecosystem Roundup: AirAsia to fly into Grab’s territory in Malaysia; 
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/ecosystem-roundup-airasia-looks-to-grab-a-piece-of-ride-hailing-pie-in-malaysia-the-sg-talent-crunch-report-20210401/
-image: "https://sergio.afanou.com/assets/images/image-midres-21.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-33.jpg"
 ---
 
 <img loading="lazy" class="aligncenter size-full wp-image-412910" src="https://e27.co/wp-content/uploads/2021/04/Bitcoin_Unsplash.png" alt="" width="690" height="390" />
