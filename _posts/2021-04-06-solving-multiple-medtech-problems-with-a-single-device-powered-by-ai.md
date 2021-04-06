@@ -3,7 +3,7 @@ title : "Solving multiple medtech problems with a single device powered by AI"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/solving-multiple-medtech-problems-with-a-single-device-powered-by-ai-20210330/
-image: "https://sergio.afanou.com/assets/images/image-midres-4.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-47.jpg"
 ---
 
 <img loading="lazy" class="size-full wp-image-412573 aligncenter" src="https://e27.co/wp-content/uploads/2021/03/Singular-Wings.png" alt="" width="690" height="390" />
