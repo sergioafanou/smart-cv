@@ -1,5 +1,5 @@
 ---
-title : Tim Cook just gave us some clues about Apple’s upcoming AR glasses
+title : "Tim Cook just gave us some clues about Apple’s upcoming AR glasses"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/05/apple-ar-glasses-features-tim-cook-interview-sway-podcast/
