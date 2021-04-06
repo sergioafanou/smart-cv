@@ -3,7 +3,7 @@ title : "Ex-gojek CMO Piotr Jakubowski reveals the 3 things that marketers shoul
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/what-marketers-should-not-do-lessons-from-ex-gojek-cmo-piotr-jakubowski-20210326/
-image: "https://sergio.afanou.com/assets/images/image-midres-31.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-4.jpg"
 ---
 
 <img loading="lazy" class="aligncenter wp-image-411216 size-full" src="https://e27.co/wp-content/uploads/2021/03/jenny-ueberberg-B8A3_0qfNzg-unsplash.jpg" alt="content marketing " width="690" height="390" />
