@@ -1,5 +1,5 @@
 ---
-title : Review: Capra Leather's AirPods Max Case is a Premium Alternative to the Apple Smart Case
+title : "Review: Capra Leather's AirPods Max Case is a Premium Alternative to the Apple Smart Case"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/review/review-capra-leather-airpods-max-case/
