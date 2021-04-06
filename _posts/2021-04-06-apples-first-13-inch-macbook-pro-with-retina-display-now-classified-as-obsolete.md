@@ -3,7 +3,7 @@ title : "Apple's First 13-Inch MacBook Pro With Retina Display Now Classified as
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/03/31/macbook-pro-13-2012-retina-obsolete/
-image: "https://sergio.afanou.com/assets/images/image-midres-18.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-44.jpg"
 ---
 
 Apple today added the late 2012 13-inch MacBook Pro, the first 13-inch MacBook Pro to ship with a Retina display, to its <a href="https://support.apple.com/en-us/HT201624">list of obsolete products</a>.
