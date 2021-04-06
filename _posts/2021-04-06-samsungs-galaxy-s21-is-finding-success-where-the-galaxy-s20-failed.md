@@ -1,5 +1,5 @@
 ---
-title : Samsung’s Galaxy S21 is finding success where the Galaxy S20 failed
+title : "Samsung’s Galaxy S21 is finding success where the Galaxy S20 failed"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/05/galaxy-s21-vs-galaxy-s20-sales-2021/
