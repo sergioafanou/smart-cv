@@ -3,7 +3,7 @@ title : "'Fantasian,' by Creator of Final Fantasy, Now Available on Apple Arcade
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/02/fantasian-available-apple-arcade/
-image: "https://sergio.afanou.com/assets/images/image-midres-40.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-26.jpg"
 ---
 
 <em><a href="https://apps.apple.com/app/fantasian/id1517339045">Fantasian</a></em>, the latest turn-based role-playing game by <em>Final Fantasy</em> creator Hironobu Sakaguchi, has just been released exclusively on <a href="https://www.macrumors.com/guide/apple-arcade/">Apple Arcade</a>. 
