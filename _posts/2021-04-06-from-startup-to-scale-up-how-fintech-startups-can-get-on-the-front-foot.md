@@ -3,7 +3,7 @@ title : "From startup to scale-up: How fintech startups can get on the front foo
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/from-startup-to-scale-up-how-fintech-startups-can-get-on-the-front-foot-20210405/
-image: "https://sergio.afanou.com/assets/images/image-midres-29.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-41.jpg"
 ---
 
 <img loading="lazy" class="aligncenter wp-image-413132 size-full" src="https://e27.co/wp-content/uploads/2021/04/jungwoo-hong-cYUMaCqMYvI-unsplash.jpg" alt="fintech startups" width="690" height="387" />
