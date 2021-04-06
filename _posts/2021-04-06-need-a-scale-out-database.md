@@ -3,7 +3,7 @@ title : "Need a Scale-Out Database?"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://gigaom.com/2021/03/26/need-a-scale-out-database/
-image: "https://sergio.afanou.com/assets/images/image-midres-39.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-34.jpg"
 ---
 
 <p>NoSQL databases have seen a lot of growth in the past several years. The realities of the pandemic have exposed how important it is to have a reliable, agile technology infrastructure in place with proven software like the open source Apache Cassandra<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> &#8212; which is crucial for business continuity, low latency, and being able to effectively support increased data traffic. Demand for data at all companies will only increase in the coming years, and the reality is, much of this is unexposed cost that may create an unsustainable burden for many organizations.</p>
