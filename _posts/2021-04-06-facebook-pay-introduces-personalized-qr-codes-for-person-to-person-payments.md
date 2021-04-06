@@ -1,5 +1,5 @@
 ---
-title : Facebook Pay Introduces Personalized QR Codes for Person-to-Person Payments
+title : "Facebook Pay Introduces Personalized QR Codes for Person-to-Person Payments"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/05/facebook-pay-qr-code-payments/
