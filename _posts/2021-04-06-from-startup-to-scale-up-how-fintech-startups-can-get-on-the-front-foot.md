@@ -1,5 +1,5 @@
 ---
-title : From startup to scale-up: How fintech startups can get on the front foot
+title : "From startup to scale-up: How fintech startups can get on the front foot"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/from-startup-to-scale-up-how-fintech-startups-can-get-on-the-front-foot-20210405/
