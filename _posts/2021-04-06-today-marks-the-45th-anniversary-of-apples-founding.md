@@ -3,7 +3,7 @@ title : "Today Marks the 45th Anniversary of Apple's Founding"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/01/apple-turns-45/
-image: "https://sergio.afanou.com/assets/images/image-midres-53.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-51.jpg"
 ---
 
 Today marks the 45th anniversary of Apple, co-founded by Steve Jobs, Steve Wozniak, and Ronald Wayne on April 1, 1976. Wayne sold his 10% share of the company back to Jobs and Wozniak just 12 days later to avoid financial risk, which is unfortunate in hindsight given that his stake would be worth more than &#36;200 billion today.
