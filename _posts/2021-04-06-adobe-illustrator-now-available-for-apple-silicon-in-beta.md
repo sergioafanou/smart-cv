@@ -3,7 +3,7 @@ title : "Adobe Illustrator Now Available for Apple Silicon in Beta"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/04/adobe-illustrator-apple-silicon-beta/
-image: "https://sergio.afanou.com/assets/images/image-midres-26.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-44.jpg"
 ---
 
 Less than a month after releasing <a href="https://www.macrumors.com/2021/03/10/photoshop-apple-silicon-support/">Adobe Photoshop for Apple silicon</a>, and more than three months after releasing Adobe Premiere Pro, Premiere Rush, and Audition for Apple silicon <a href="https://www.macrumors.com/2020/12/21/premiere-pro-premiere-rush-audition-for-m1-beta/">in beta</a>, Adobe has begun testing Illustrator on Apple's latest chip architecture.
