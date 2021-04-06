@@ -3,7 +3,7 @@ title : "Fundiin receives financing for its Vietnam-focused BNPL platform"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/fundiin-receives-financing-for-its-vietnam-focused-bnpl-platform-20210331/
-image: "https://sergio.afanou.com/assets/images/image-midres-8.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-49.jpg"
 ---
 
 <img loading="lazy" class="aligncenter size-full wp-image-412653" src="https://e27.co/wp-content/uploads/2021/03/image002-1.jpg" alt="Fundiin " width="690" height="390" />
