@@ -1,5 +1,5 @@
 ---
-title : Scientists just figured out how long humans were apex predators
+title : "Scientists just figured out how long humans were apex predators"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/06/human-predators-study-research/
