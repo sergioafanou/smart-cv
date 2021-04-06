@@ -3,7 +3,7 @@ title : "Exclusive Deals: Casely Offers MacRumors Readers 30% Off Sitewide on iP
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/02/exclusive-deals-casely/
-image: "https://sergio.afanou.com/assets/images/image-midres-41.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-53.jpg"
 ---
 
 MacRumors has partnered with <a href="https://shareasale.com/r.cfm?b=1592498&u=63177&m=100061&urllink=www%2Egetcasely%2Ecom%2F&afftrack=">Casely</a> today for a new exclusive sale on the retailer's cases for the iPhone and AirPods. To take part in this sale, shop for any product across Casely's website and enter the code <strong>RUMORS30</strong> at the checkout screen to <strong>take 30 percent off</strong> your order.
