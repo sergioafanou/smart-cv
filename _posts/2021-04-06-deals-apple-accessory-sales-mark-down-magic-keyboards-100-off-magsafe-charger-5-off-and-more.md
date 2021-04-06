@@ -3,7 +3,7 @@ title : "Deals: Apple Accessory Sales Mark Down Magic Keyboards ($100 Off), MagS
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/02/deals-apple-accessory-sales/
-image: "https://sergio.afanou.com/assets/images/image-midres-24.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-15.jpg"
 ---
 
 Today we're tracking a few deals on official Apple accessories on Amazon, including best-ever ongoing sales on the MagSafe Charger and Magic Keyboards, as well as a few deals on iPhone 12 mini cases.
