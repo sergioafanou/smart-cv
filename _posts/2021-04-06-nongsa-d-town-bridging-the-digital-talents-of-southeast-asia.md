@@ -3,7 +3,7 @@ title : "Nongsa D-town: bridging the digital talents of Southeast Asia"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/nongsa-d-town-bridging-the-digital-talents-of-southeast-asia-20210330/
-image: "https://sergio.afanou.com/assets/images/image-midres-36.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-48.jpg"
 ---
 
 <img loading="lazy" class="size-full wp-image-412381 aligncenter" src="https://e27.co/wp-content/uploads/2021/03/Nongsa-D-Town-main.png" alt="" width="690" height="390" />
