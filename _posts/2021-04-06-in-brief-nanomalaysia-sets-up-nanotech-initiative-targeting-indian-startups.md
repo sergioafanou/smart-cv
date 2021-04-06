@@ -3,7 +3,7 @@ title : "In brief: NanoMalaysia sets up nanotech initiative targeting Indian sta
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/in-brief-nanomalaysia-sets-up-nanotech-initiative-targeting-indian-startups-20210325/
-image: "https://sergio.afanou.com/assets/images/image-midres-1.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-10.jpg"
 ---
 
 <div id="attachment_411082" style="width: 694px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-411082" loading="lazy" class="wp-image-411082 size-full" src="https://e27.co/wp-content/uploads/2021/03/Dr.Rezal_.MOA_..2.jpg" alt="NanoMalaysia" width="684" height="390" /><p id="caption-attachment-411082" class="wp-caption-text">NanoMalaysia CEO Rezal Khairi Ahmad</p></div>
