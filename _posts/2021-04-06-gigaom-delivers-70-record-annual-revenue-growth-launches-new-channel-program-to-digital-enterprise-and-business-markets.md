@@ -3,7 +3,7 @@ title : "Gigaom Delivers 70% Record Annual Revenue Growth, Launches New Channel 
 layout: post
 tags: tutorial labnol
 post_inspiration: https://gigaom.com/2021/02/23/gigaom-delivers-70-record-annual-revenue-growth-launches-new-channel-program-to-digital-enterprise-and-business-markets/
-image: "https://sergio.afanou.com/assets/images/image-midres-11.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-5.jpg"
 ---
 
 <p>Santa Barbara, CA – February 23, 2021 – GigaOm, the analyst firm enabling smart businesses to future-proof their decisions, today announces record revenue – growing 70 percent year-on-year – and launching its first Channel Program to drive innovative research solutions via a subscription model to partner organizations.</p>
