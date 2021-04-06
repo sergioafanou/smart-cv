@@ -1,5 +1,5 @@
 ---
-title : Apple is boosting the trade-in value on some of its latest iPhone models
+title : "Apple is boosting the trade-in value on some of its latest iPhone models"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/05/apple-trade-in-prices-iphone-ipad-mac-higher-value/
