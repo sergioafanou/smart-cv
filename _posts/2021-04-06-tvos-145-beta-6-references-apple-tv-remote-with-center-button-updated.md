@@ -3,7 +3,7 @@ title : "tvOS 14.5 Beta 6 References Apple TV Remote With 'Center Button' [Updat
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/03/31/tvos-14-5-beta-6-tv-remote-center-button/
-image: "https://sergio.afanou.com/assets/images/image-midres-39.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-53.jpg"
 ---
 
 The tvOS 14.5 beta that was released this morning includes a code change that references an <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a> remote control that features a "Center Button," which is a description that does not fit the current &zwnj;Apple TV&zwnj; remote.
