@@ -1,5 +1,5 @@
 ---
-title : Don’t Fall for the 'Vaccine Survey' Scam
+title : "Don’t Fall for the 'Vaccine Survey' Scam"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://twocents.lifehacker.com/don-t-fall-for-the-vaccine-survey-scam-1846620925
