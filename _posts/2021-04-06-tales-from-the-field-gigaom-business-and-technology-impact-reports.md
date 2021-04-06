@@ -3,7 +3,7 @@ title : "Tales from the Field: GigaOm Business and Technology Impact Reports"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://gigaom.com/2021/03/23/tales-from-the-field-gigaom-business-and-technology-impact-reports/
-image: "https://sergio.afanou.com/assets/images/image-midres-10.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-17.jpg"
 ---
 
 <p>“Experience is simply the name we give our mistakes.” Irish poet and playwright Oscar Wilde may have been channeling his inner IT manager when he offered up that famous quote.</p>
