@@ -3,7 +3,7 @@ title : "OnePlus phones: A history of the company’s entire lineup so far"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/oneplus-phones-history-1103772/
-image: "https://sergio.afanou.com/assets/images/image-midres-19.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-37.jpg"
 ---
 
 <p><html><body></p>
