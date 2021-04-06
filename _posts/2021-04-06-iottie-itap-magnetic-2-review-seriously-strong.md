@@ -3,7 +3,7 @@ title : "iOttie iTap Magnetic 2 review: Seriously strong"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/iottie-itap-magnetic-2-review-1212699/
-image: "https://sergio.afanou.com/assets/images/image-midres-34.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-4.jpg"
 ---
 
 <p><html><body></p>
