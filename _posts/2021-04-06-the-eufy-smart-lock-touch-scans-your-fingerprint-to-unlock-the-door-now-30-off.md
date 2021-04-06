@@ -1,5 +1,5 @@
 ---
-title : The Eufy Smart Lock Touch Scans Your Fingerprint to Unlock the Door, Now $30 off
+title : "The Eufy Smart Lock Touch Scans Your Fingerprint to Unlock the Door, Now $30 off"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://kinjadeals.theinventory.com/the-eufy-smart-lock-touch-scans-your-fingerprint-to-unl-1844760769
