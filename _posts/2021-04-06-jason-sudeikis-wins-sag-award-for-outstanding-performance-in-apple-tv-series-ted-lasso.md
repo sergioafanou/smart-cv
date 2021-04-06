@@ -3,7 +3,7 @@ title : "Jason Sudeikis Wins SAG Award for Outstanding Performance in Apple TV+ 
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/05/jason-sudeikis-wins-sag-award-ted-lasso/
-image: "https://sergio.afanou.com/assets/images/image-midres-11.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-41.jpg"
 ---
 
 At the 27th annual Screen Actors Guild Awards in Los Angeles on Sunday, actor Jason Sudeikis won a SAG Award for Outstanding Performance by a Male Actor in a Comedy Series for his leading role as the eponymous English soccer coach in <a href="https://www.macrumors.com/guide/apple-tv-plus/">Apple TV+</a> series "Ted Lasso."
