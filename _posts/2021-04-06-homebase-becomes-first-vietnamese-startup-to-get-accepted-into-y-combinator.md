@@ -3,7 +3,7 @@ title : "Homebase becomes first Vietnamese startup to get accepted into Y Combin
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/homebase-becomes-first-vietnamese-startup-to-be-accepted-into-y-combinator-20210326/
-image: "https://sergio.afanou.com/assets/images/image-midres-35.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-54.jpg"
 ---
 
 <div id="attachment_411337" style="width: 700px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-411337" loading="lazy" class="wp-image-411337 size-full" src="https://e27.co/wp-content/uploads/2021/03/Philip-An.jpeg" alt="" width="690" height="388" /><p id="caption-attachment-411337" class="wp-caption-text">Phillip An, co-founder of Homebase</p></div>
