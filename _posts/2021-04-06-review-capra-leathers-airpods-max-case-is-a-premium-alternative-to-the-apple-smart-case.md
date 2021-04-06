@@ -3,7 +3,7 @@ title : "Review: Capra Leather's AirPods Max Case is a Premium Alternative to th
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/review/review-capra-leather-airpods-max-case/
-image: "https://sergio.afanou.com/assets/images/image-midres-30.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-8.jpg"
 ---
 
 <a href="https://capraleather.com">Capra Leather</a> is a Colombia-based company that makes a range of handmade leather accessories, including cases for the <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> and MacBook, as well as magnetic wallets for the <a href="https://www.macrumors.com/roundup/iphone-12/">iPhone 12</a>, for over 100 countries around the world. One of Capra's latest products is an alternative to the <a href="https://www.macrumors.com/roundup/airpods-max/">AirPods Max</a> Smart Case, which <a href="https://www.macrumors.com/2020/12/28/third-party-airpods-max-solutions/">seeks to address some of the criticisms</a> that have been leveled at Apple's own case that comes with its over-ear headphones. 
