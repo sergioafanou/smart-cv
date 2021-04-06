@@ -3,7 +3,7 @@ title : "Conicle bags US$3M Series A to grow its ‘cloud university’ in Thail
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/conicle-bags-us3m-series-a-to-grow-its-cloud-university-in-thailand-20210401/
-image: "https://sergio.afanou.com/assets/images/image-midres-53.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-35.jpg"
 ---
 
 <div id="attachment_412921" style="width: 700px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-412921" loading="lazy" class="size-full wp-image-412921" src="https://e27.co/wp-content/uploads/2021/04/Mr.Nakorn.Phuekphiphatmet_CEO.Conicle.jpg" alt="Conicle" width="690" height="390" /><p id="caption-attachment-412921" class="wp-caption-text">Nakorn Phuekphiphatmet, CEO of Conicle</p></div>
