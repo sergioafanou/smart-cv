@@ -3,7 +3,7 @@ title : "LG to Shut Down Smartphone Business"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/05/lg-to-shut-down-smartphone-business/
-image: "https://sergio.afanou.com/assets/images/image-midres-46.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-42.jpg"
 ---
 
 After five grueling years of financial losses and uncertainty about the future of its mobile handsets, <a href="http://www.lgnewsroom.com/2021/04/lg-to-close-mobile-phone-business-worldwide/">LG Electronics today announced</a> its intention to shut down its smartphone division.
