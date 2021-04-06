@@ -1,5 +1,5 @@
 ---
-title : 'Cheat' Your Way to a Great Remote Job Interview
+title : "'Cheat' Your Way to a Great Remote Job Interview"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://lifehacker.com/cheat-your-way-to-a-great-remote-job-interview-1846600588
