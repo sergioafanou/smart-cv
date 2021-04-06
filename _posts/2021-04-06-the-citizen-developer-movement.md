@@ -3,7 +3,7 @@ title : "The Citizen Developer Movement"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://gigaom.com/2021/03/17/the-citizen-developer-movement/
-image: "https://sergio.afanou.com/assets/images/image-midres-20.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-35.jpg"
 ---
 
 <p>We’ve all heard the saying “If you want something done right, do it yourself.” The well-worn mantra of successful entrepreneurs holds true also in business IT, as organizations push forward with digital transformation initiatives and turn to citizen developers to harness the power of low code to deliver rapid innovation to their organizations.</p>
