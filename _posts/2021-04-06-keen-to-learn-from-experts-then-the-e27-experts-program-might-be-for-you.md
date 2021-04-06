@@ -3,7 +3,7 @@ title : "Keen to learn from Experts? Then the e27 Experts Program might be for y
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/keen-to-learn-from-experts-then-the-e27-experts-program-might-be-for-you-20210403/
-image: "https://sergio.afanou.com/assets/images/image-midres-17.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-34.jpg"
 ---
 
 <img loading="lazy" class="size-full wp-image-413036 aligncenter" src="https://e27.co/wp-content/uploads/2021/04/Experts.png" alt="" width="690" height="390" />
