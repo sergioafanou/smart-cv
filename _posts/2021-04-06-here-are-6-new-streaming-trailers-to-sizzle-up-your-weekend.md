@@ -3,7 +3,7 @@ title : "Here are 6 new streaming trailers to sizzle up your weekend"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/new-movie-trailers-1151533/
-image: "https://sergio.afanou.com/assets/images/image-midres-18.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-47.jpg"
 ---
 
 <p><html><body></p>
