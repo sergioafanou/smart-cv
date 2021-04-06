@@ -3,7 +3,7 @@ title : "Google to Limit Which Apps Can See Other Installed Apps on Android Devi
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/03/google-limit-access-installed-android-apps-ios-9/
-image: "https://sergio.afanou.com/assets/images/image-midres-24.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-23.jpg"
 ---
 
 Google will soon make it harder for third-party apps to see what other apps are installed on a user's Android device, a policy change that evokes similar privacy protections Apple introduced in iOS 9, way back in 2015.
