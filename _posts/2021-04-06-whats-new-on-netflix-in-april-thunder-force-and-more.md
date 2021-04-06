@@ -3,7 +3,7 @@ title : "What’s new on Netflix in April: Thunder Force and more"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/new-on-netflix-939257/
-image: "https://sergio.afanou.com/assets/images/image-midres-6.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-8.jpg"
 ---
 
 <p><html><body></p>
