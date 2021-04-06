@@ -3,7 +3,7 @@ title : "Apple Seeds Sixth Betas of iOS 14.5 and iPadOS 14.5 to Developers [Upda
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/03/31/apple-seeds-ios-14-5-beta-6-to-developers/
-image: "https://sergio.afanou.com/assets/images/image-midres-1.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-23.jpg"
 ---
 
 Apple today seeded the sixth betas of upcoming iOS 14.5 and iPadOS 14.5 updates to developers for testing purposes, with the new beta updates coming one week after Apple released the fifth <a href="https://www.macrumors.com/2021/03/23/apple-seeds-ios-14-5-beta-5-to-developers/">iOS and iPadOS 14.5 betas</a>.
