@@ -3,7 +3,7 @@ title : "Facebook Pay Introduces Personalized QR Codes for Person-to-Person Paym
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/05/facebook-pay-qr-code-payments/
-image: "https://sergio.afanou.com/assets/images/image-midres-36.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-30.jpg"
 ---
 
 <a href="https://pay.facebook.com">Facebook Pay</a> is expanding on its service by rolling out person-to-person payments via QR codes, allowing users to scan a friend or family member's QR code, and instantly transfer money.
