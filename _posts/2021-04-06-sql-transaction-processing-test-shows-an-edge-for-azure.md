@@ -3,7 +3,7 @@ title : "SQL Transaction Processing Test Shows an Edge for Azure"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://gigaom.com/2021/03/24/sql-transaction-processing-test-shows-an-edge-for-azure/
-image: "https://sergio.afanou.com/assets/images/image-midres-24.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-7.jpg"
 ---
 
 <p>Data volume and complexity has soared in recent years, and so too have transaction volumes.</p>
