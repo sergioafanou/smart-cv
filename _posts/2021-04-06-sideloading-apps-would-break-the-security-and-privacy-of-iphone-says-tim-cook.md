@@ -3,7 +3,7 @@ title : "Sideloading Apps Would 'Break' the Security and Privacy of iPhone, Says
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/05/tim-cook-sideloading-apps-would-break-the-iphone/
-image: "https://sergio.afanou.com/assets/images/image-midres-5.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-51.jpg"
 ---
 
 In a <a href="https://www.nytimes.com/2021/04/05/opinion/is-apples-privacy-push-facebooks-existential-threat.html">wide-ranging interview</a> with <em>The New York Times'</em> Kara Swisher, on her podcast "Sway," Apple CEO <a href="https://www.macrumors.com/guide/tim-cook/">Tim Cook</a> talks about Apple's feud with Facebook, its stance on privacy, Apple's legal battle with <a href="https://www.macrumors.com/guide/epic-games/">Epic Games</a>, and possible future Apple innovations such as <a href="https://www.macrumors.com/roundup/apple-glasses/">Apple Glasses</a>.
