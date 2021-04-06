@@ -3,7 +3,7 @@ title : "Levelling the playing field: How to build a home for women in tech"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/levelling-the-playing-field-how-to-build-a-home-for-women-in-tech-20210401/
-image: "https://sergio.afanou.com/assets/images/image-midres-8.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-14.jpg"
 ---
 
 <img loading="lazy" class="aligncenter wp-image-412983 size-full" src="https://e27.co/wp-content/uploads/2021/04/christina-wocintechchat-com-faEfWCdOKIg-unsplash.jpg" alt="women in tech" width="690" height="390" />
