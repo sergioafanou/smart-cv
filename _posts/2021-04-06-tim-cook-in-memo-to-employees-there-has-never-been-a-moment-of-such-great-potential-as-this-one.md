@@ -3,7 +3,7 @@ title : "Tim Cook in Memo to Employees: 'There Has Never Been a Moment of Such G
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/01/tim-cook-45th-anniversary-memo/
-image: "https://sergio.afanou.com/assets/images/image-midres-27.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-6.jpg"
 ---
 
 Apple CEO <a href="https://www.macrumors.com/guide/tim-cook/">Tim Cook</a> today sent out a motivating memo to Apple employees to celebrate the <a href="https://www.macrumors.com/2021/04/01/apple-turns-45/">45th anniversary of Apple's founding</a>, asking them to rededicate themselves to the original mission of Apple's founding - to redefine what technology can achieve and make people's lives better. Cook's memo was shared in full by French site <em><a href="https://www.macg.co/aapl/2021/04/le-message-de-tim-cook-ses-equipes-pour-les-45-ans-dapple-120585">MacGeneration</a></em>.
