@@ -1,0 +1,33 @@
+---
+title : Facebook Doesn't Want to Give Apple Requested Documents in Epic v. Apple Fight
+layout: post
+tags: tutorial labnol
+post_inspiration: https://www.macrumors.com/2021/04/05/facebook-apple-epic-games-lawsuit-document-fight/
+image: "https://sergio.afanou.com/assets/images/image-midres-53.jpg"
+---
+
+Facebook and Apple are squabbling over document requests in the ongoing Epic v. Apple legal battle, according to a new discovery letter filed with the court today. Facebook is involved because Facebook executive Vivek Sharma <a href="https://www.macrumors.com/2021/03/20/apple-vs-epic-trial-tim-cook-scott-forstall/">is set to testify</a> on behalf of Epic.
+<br/>
+
+<br/>
+<img src="https://images.macrumors.com/article-new/2020/08/fortnite_apple_featured.jpg" alt="" width="2140" height="1204" class="aligncenter size-full wp-image-754674" />
+<br/>
+Apple wants a "limited set of documents" that are needed for a fair cross examination of Sharma, who plans to testify about Apple's restrictions on iOS app distribution, the <a href="https://www.macrumors.com/guide/app-store/">App Store</a> process, and Facebook's interactions with Apple, but Facebook does not want to produce the documents that Apple is asking for.
+<br/>
+
+<br/>
+There are apparently more than 17,000 documents related to Sharma that Apple feels are relevant in the case, but Facebook says that producing tens of thousands of documents is an "untimely, unfair, and unjustified request to redo fact discovery." Facebook has already provided Apple with more than 1,600 documents, including 200 involving Sharma, but Apple does not believe that is sufficient.
+<br/>
+
+<br/>
+According to Apple, Facebook has been continually ignoring requests for documents and using delaying tactics. Apple says it served multiple subpoenas to Facebook starting in December and met with Facebook several times to narrow the scope of the requests, but Facebook has refused to produce many of the documents in question.
+<br/>
+
+<br/>
+Apple was fed up with Facebook and ultimately agreed not to pursue additional documents if no Facebook executives testified, but Epic added Sharma to its witness list, and Apple again wants the documents.<blockquote>Despite Facebook's knowledge of the time constraints in this action, it stalled for five days purportedly because "there is unavoidable technical processing time baked in to" investigating the burden of production, and finally admitted on March 29 it did not intend to produce more documents.</blockquote>Facebook claims that Apple waited to ask for the documents after the discovery period had closed (and before Apple confirmed Sharma would be a witness), making the timing of the request "improper." Facebook also claims that Apple is asking for additional unrelated documents pertaining to <a href="https://www.macrumors.com/roundup/ios-14/">iOS 14</a> and Facebook's response to App Tracking Transparency that are irrelevant to the case. <blockquote>If Apple believed that production was insufficient in any way, it had every opportunity to move to compel within 7 days of the close of discovery as required by the Court's Rules. Apple chose not to, making this motion untimely. Instead, claiming surprise by Epic's disclosure of Mr. Sharma as a trial witness--even though Epic's complaint quoted him by name--Apple now demands that Facebook review and produce an enormous number of additional documents.</blockquote>Apple is asking the court to order Facebook to comply with Apple's request for Facebook's documents so that "Apple has a fair opportunity to cross examine the newly-disclosed trial witness." Facebook argues that it should not be compelled to "review tens of thousands more documents because Apple wants to go fishing for some theoretical additional cross material," and therefore the court should deny the request.
+<br/>
+
+<br/>
+<div class="center-wrap"><iframe class="scribd_iframe_embed" title="Joint Discovery Letter Brief Regarding Apple&#39;s Subpoenas to Non-Party Facebook in Epic Games v. Apple" src="https://www.scribd.com/embeds/501650609/content?start_page=1&view_mode=scroll&access_key=key-ZG3EZeeNuLxBrfe5royN" tabindex="0" data-auto-height="true" data-aspect-ratio="0.7729220222793488" scrolling="no" width="100%" height="600" frameborder="0"></iframe><p  style="   margin: 12px auto 6px auto;   font-family: Helvetica,Arial,Sans-serif;   font-style: normal;   font-variant: normal;   font-weight: normal;   font-size: 14px;   line-height: normal;   font-size-adjust: none;   font-stretch: normal;   -x-system-font: none;   display: block;"   ><a title="View Joint Discovery Letter Brief Regarding Apple&#39;s Subpoenas to Non-Party Facebook in Epic Games v. Apple on Scribd" href="https://www.scribd.com/document/501650609/Joint-Discovery-Letter-Brief-Regarding-Apple-s-Subpoenas-to-Non-Party-Facebook-in-Epic-Games-v-Apple#from_embed"  style="text-decoration: underline;">Joint Discovery Letter Brie...</a> by <a title="View MacRumors's profile on Scribd" href="https://www.scribd.com/user/212523051/MacRumors#from_embed"  style="text-decoration: underline;">MacRumors</a></p></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/facebook/">Facebook</a>, <a href="https://www.macrumors.com/guide/epic-games/">Epic Games</a>, <a href="https://www.macrumors.com/guide/fortnite/">Fortnite</a>, <a href="https://www.macrumors.com/guide/epic-games-vs-apple/">Epic Games vs. Apple</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2021/04/05/facebook-apple-epic-games-lawsuit-document-fight/">Facebook Doesn&#039;t Want to Give Apple Requested Documents in Epic v. Apple Fight</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/facebook-doesnt-want-to-give-apple-requested-documents-in-epic-v-apple-fight.2290698/">Discuss this article</a> in our forums<br/><br/><div class="feedflare">
+<a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=8SN5n0UUW1g:j-UvWXAKL_U:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=8SN5n0UUW1g:j-UvWXAKL_U:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/8SN5n0UUW1g" height="1" width="1" alt=""/>
