@@ -3,7 +3,7 @@ title : "In brief: Amazon acquires Indian startup Perpule, HealthPlix raises US$
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/in-brief-amazon-acquires-indian-startup-perpule-healthplix-raises-us13-5m-series-b-20210331/
-image: "https://sergio.afanou.com/assets/images/image-midres-6.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-38.jpg"
 ---
 
 <img loading="lazy" class="size-full wp-image-412776 aligncenter" src="https://e27.co/wp-content/uploads/2021/03/Amazon.jpeg" alt="" width="690" height="390" />
