@@ -3,7 +3,7 @@ title : "Deals: Get Nomad's Base Station Pro Wireless Charger for 50% Off ($99.9
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/02/deals-nomads-base-station-pro/
-image: "https://sergio.afanou.com/assets/images/image-midres-23.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-5.jpg"
 ---
 
 Nomad today is offering MacRumors readers a chance to get the retailer's <a href="https://www.pntrac.com/t/TUJGRUVORUJGS0lMSkxCRkZOSE1L?url=https%3A%2F%2Fnomadgoods.com%2Fproducts%2Fbase-station-pro"><strong>Base Station Pro</strong></a> accessory at <strong>50 percent off</strong> its original price using the code <strong>MACRUMORS</strong>. This sale knocks the accessory down to &#36;99.98, from &#36;199.99.
