@@ -3,7 +3,7 @@ title : "Twitter Users Can Now Add GIFs and Stickers to Ephemeral 'Fleets'"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/01/twitter-add-gifs-stickers-to-fleets/
-image: "https://sergio.afanou.com/assets/images/image-midres-17.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-44.jpg"
 ---
 
 Twitter today added options to include stickers and other media in its ephemeral tweets, or "Fleets," which last for 24 hours on the social network before disappearing. 
