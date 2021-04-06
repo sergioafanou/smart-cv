@@ -3,7 +3,7 @@ title : "OnePlus 9, OnePlus 9 Pro, and OnePlus 9R buyer’s guide: What you need
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/oneplus-9-1170815/
-image: "https://sergio.afanou.com/assets/images/image-midres-25.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-9.jpg"
 ---
 
 <p><html><body></p>
