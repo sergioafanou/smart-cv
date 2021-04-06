@@ -3,7 +3,7 @@ title : "How e-KYC aggregators are the future players in the data supplier marke
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/how-e-kyc-aggregators-are-the-future-players-in-the-data-supplier-market-20210329/
-image: "https://sergio.afanou.com/assets/images/image-midres-33.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-26.jpg"
 ---
 
 <img loading="lazy" class="aligncenter wp-image-412332 size-full" src="https://e27.co/wp-content/uploads/2021/03/tech-daily-CXklL5ca71w-unsplash.jpg" alt="data KYC bank" width="690" height="389" />
