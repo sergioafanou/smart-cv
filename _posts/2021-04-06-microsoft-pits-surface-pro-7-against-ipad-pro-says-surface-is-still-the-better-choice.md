@@ -1,5 +1,5 @@
 ---
-title : Microsoft Pits Surface Pro 7 Against iPad Pro, Says Surface is 'Still the Better Choice'
+title : "Microsoft Pits Surface Pro 7 Against iPad Pro, Says Surface is 'Still the Better Choice'"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/05/microsoft-surface-pro-7-vs-ipad-pro-ad/
