@@ -3,7 +3,7 @@ title : "Here’s what’ll happen with software updates for LG Phones after shu
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/lg-software-updates-1215000/
-image: "https://sergio.afanou.com/assets/images/image-midres-1.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-46.jpg"
 ---
 
 <p><html><body></p>
