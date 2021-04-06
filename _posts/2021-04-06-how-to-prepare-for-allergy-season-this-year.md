@@ -1,5 +1,5 @@
 ---
-title : How to Prepare for Allergy Season This Year
+title : "How to Prepare for Allergy Season This Year"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://vitals.lifehacker.com/how-to-prepare-for-allergy-season-this-year-1846622442
