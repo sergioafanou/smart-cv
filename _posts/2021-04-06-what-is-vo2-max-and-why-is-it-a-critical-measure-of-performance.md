@@ -1,5 +1,5 @@
 ---
-title : What is VO2 max, and why is it a critical measure of performance?
+title : "What is VO2 max, and why is it a critical measure of performance?"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/vo2-max-1211544/
