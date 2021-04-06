@@ -3,7 +3,7 @@ title : "Unstructured Data and the Challenge of Modern Data Management"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://gigaom.com/2021/04/05/unstructured-data-and-the-challenge-of-modern-data-management/
-image: "https://sergio.afanou.com/assets/images/image-midres-48.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-7.jpg"
 ---
 
 <p>Data volumes continue to skyrocket and businesses keep working to harness that data for analytics and intelligence, driving innovation and improving business outcomes. Now, GigaOm analyst <a href="https://gigaom.com/analyst/signoretti-enrico/" target="_blank" rel="noopener">Enrico Signoretti</a> says businesses are finally getting a handle on the unique challenge of operationalizing unstructured data.</p>
