@@ -1,5 +1,5 @@
 ---
-title : Save 35% on the Amazfit Band 5 today, and more fitness tracker deals
+title : "Save 35% on the Amazfit Band 5 today, and more fitness tracker deals"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/best-cheap-fitness-tracker-deals-1113532/
