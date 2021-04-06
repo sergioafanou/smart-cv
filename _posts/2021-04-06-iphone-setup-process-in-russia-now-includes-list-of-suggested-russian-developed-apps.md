@@ -3,7 +3,7 @@ title : "iPhone Setup Process in Russia Now Includes List of Suggested Russian D
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/01/iphone-setup-russia-government-approved-apps/
-image: "https://sergio.afanou.com/assets/images/image-midres-32.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-12.jpg"
 ---
 
 A few weeks after Apple <a href="https://www.macrumors.com/2021/03/16/apple-to-offer-government-approved-apps-russia/">agreed to allow</a> Russia to show <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> users in the country suggested apps created by Russian developers, Russian users are seeing the list of app suggestions when setting up a new device.
