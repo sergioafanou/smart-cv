@@ -1,5 +1,5 @@
 ---
-title : Why You Should Pay on Your Credit Card Balance Weekly
+title : "Why You Should Pay on Your Credit Card Balance Weekly"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://twocents.lifehacker.com/why-your-should-pay-on-your-credit-card-balance-weekly-1846609614
