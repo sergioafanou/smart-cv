@@ -3,7 +3,7 @@ title : "Tazapay lands US$1.75M more for its digital escrow that helps reduce SM
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/singapore-tazapay-raises-us1-75m-sequoia-india-saison-capital-20210330/
-image: "https://sergio.afanou.com/assets/images/image-midres-36.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-37.jpg"
 ---
 
 <div id="attachment_412477" style="width: 703px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-412477" loading="lazy" class="wp-image-412477 size-full" src="https://e27.co/wp-content/uploads/2021/03/download-1-2.jpeg" alt="" width="693" height="390" /><p id="caption-attachment-412477" class="wp-caption-text">(L-R) Tazapay co-founders Saroj Mishra, Rahul Shinghal and Arul Kumaravel</p></div>
