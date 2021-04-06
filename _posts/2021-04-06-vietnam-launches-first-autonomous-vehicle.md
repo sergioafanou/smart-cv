@@ -3,7 +3,7 @@ title : "Vietnam launches first autonomous vehicle"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/vietnam-launches-first-autonomous-vehicle-20210329/
-image: "https://sergio.afanou.com/assets/images/image-midres-41.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-18.jpg"
 ---
 
 <img loading="lazy" class="aligncenter size-full wp-image-238673" src="https://e27.co/wp-content/uploads/2019/08/AnVui_Vietnam_logistics_transportation_VinaCapitalVentures.jpg" alt="Vietnam" width="690" height="390" />
