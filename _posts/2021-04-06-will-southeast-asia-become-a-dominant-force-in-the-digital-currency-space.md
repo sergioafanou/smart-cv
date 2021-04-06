@@ -3,7 +3,7 @@ title : "Will Southeast Asia become a dominant force in the digital currency spa
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/will-southeast-asia-become-a-dominant-force-in-the-digital-currency-space-20210329/
-image: "https://sergio.afanou.com/assets/images/image-midres-54.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-12.jpg"
 ---
 
 <h1><img loading="lazy" class="aligncenter" src="../img/temp/6e3f0581-bed2-4996-a67c-3be0c5d5516b.png" alt="" width="690" height="460" /></h1>
