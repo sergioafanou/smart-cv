@@ -3,7 +3,7 @@ title : "Singapore faces talent crunch for engineering and product manager roles
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/singapore-faces-talent-crunch-for-engineering-and-product-manager-roles-report-20210330/
-image: "https://sergio.afanou.com/assets/images/image-midres-23.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-54.jpg"
 ---
 
 <img loading="lazy" class="aligncenter wp-image-412467 size-full" src="https://e27.co/wp-content/uploads/2021/03/The.Southeast.Asia_.Tech_.Talent.Compensation.Report_Front.jpg" alt="Tech Talent Report" width="652" height="390" />
