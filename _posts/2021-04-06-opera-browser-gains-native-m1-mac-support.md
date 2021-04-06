@@ -3,7 +3,7 @@ title : "Opera Browser Gains Native M1 Mac Support"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/01/opera-browser-m1-mac-support/
-image: "https://sergio.afanou.com/assets/images/image-midres-31.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-22.jpg"
 ---
 
 The minimalist <a href="https://www.opera.com/">Opera browser</a> designed for the Mac was today updated with native Apple silicon support for <a href="https://www.macrumors.com/guide/m1/">M1</a> Macs, introducing notable speed improvements.
