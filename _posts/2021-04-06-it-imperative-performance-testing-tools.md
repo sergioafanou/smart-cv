@@ -3,7 +3,7 @@ title : "IT Imperative: Performance Testing Tools"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://gigaom.com/2021/04/05/it-imperative-performance-testing-tools/
-image: "https://sergio.afanou.com/assets/images/image-midres-53.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-8.jpg"
 ---
 
 <p>Inside the GigaOm Key Criteria ReportAny IT leader worth their salt wants to ensure that applications meet their required service levels and that they deliver a positive user experience. Performance testing is the insurance in that scenario. With it, an organization can test how responsive a system is under varying loads and scenarios to provide actionable feedback about the behavior of the system. Performance testing is now a critical part of site reliability engineering (SRE) and the quality-first approach seen as crucial in cloud-native environments.</p>
