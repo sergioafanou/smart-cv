@@ -3,7 +3,7 @@ title : "Getting Started with Value Stream Management"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://gigaom.com/2021/02/26/getting-started-with-value-stream-management/
-image: "https://sergio.afanou.com/assets/images/image-midres-35.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-27.jpg"
 ---
 
 <h3>Getting Started with Value Stream Management</h3>
