@@ -3,7 +3,7 @@ title : "Edge Platform Market Still Tough to Define"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://gigaom.com/2021/03/17/edge-platform-market-still-tough-to-define/
-image: "https://sergio.afanou.com/assets/images/image-midres-39.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-29.jpg"
 ---
 
 <p>The term “edge” emerged back in 2017, but the market for these types of products is still maturing. Edge platforms use distributed infrastructure to deliver content, compute, and security capabilities closer to end devices, offloading networks and improving performance. Yet the edge remains very much an evolving space and its definition can be difficult to lock down.</p>
