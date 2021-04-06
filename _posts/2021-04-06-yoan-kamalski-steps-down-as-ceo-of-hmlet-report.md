@@ -3,7 +3,7 @@ title : "Yoan Kamalski steps down as CEO of Hmlet: Report"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/yoan-kamalski-steps-down-as-ceo-of-hmlet-report-20210326/
-image: "https://sergio.afanou.com/assets/images/image-midres-3.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-26.jpg"
 ---
 
 <div id="attachment_411161" style="width: 700px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-411161" loading="lazy" class="size-full wp-image-411161" src="https://e27.co/wp-content/uploads/2021/03/Yoan-Kamalski.png" alt="" width="690" height="390" /><p id="caption-attachment-411161" class="wp-caption-text">Yoan Kamalski</p></div>
