@@ -3,7 +3,7 @@ title : "The best Fitbit trackers and smartwatches (April 2021)"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/best-fitbit-692224/
-image: "https://sergio.afanou.com/assets/images/image-midres-28.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-43.jpg"
 ---
 
 <p><html><body></p>
