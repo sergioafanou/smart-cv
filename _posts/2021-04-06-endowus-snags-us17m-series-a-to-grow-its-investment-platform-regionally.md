@@ -3,7 +3,7 @@ title : "Endowus snags US$17M Series A to grow its investment platform regionall
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/endowus-snags-us17m-series-a-to-grow-its-investment-platform-regionally-20210401/
-image: "https://sergio.afanou.com/assets/images/image-midres-28.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-44.jpg"
 ---
 
 <img loading="lazy" class="aligncenter size-full wp-image-412826" src="https://e27.co/wp-content/uploads/2021/04/Endowus.Partners.000.jpg" alt="Endowus" width="690" height="320" />
