@@ -1,0 +1,18 @@
+---
+title : IT Imperative: Performance Testing Tools
+layout: post
+tags: tutorial labnol
+post_inspiration: https://gigaom.com/2021/04/05/it-imperative-performance-testing-tools/
+image: "https://sergio.afanou.com/assets/images/image-midres-53.jpg"
+---
+
+<p>Inside the GigaOm Key Criteria ReportAny IT leader worth their salt wants to ensure that applications meet their required service levels and that they deliver a positive user experience. Performance testing is the insurance in that scenario. With it, an organization can test how responsive a system is under varying loads and scenarios to provide actionable feedback about the behavior of the system. Performance testing is now a critical part of site reliability engineering (SRE) and the quality-first approach seen as crucial in cloud-native environments.</p>
+<p>For businesses that create many custom-based applications, or that make extensive modifications to third-party systems like PegaSystems, Salesforce, and SAP, performance testing is critical. The risk of bugs or unplanned outages caused by application loads is simply unacceptable in these environments.</p>
+<p>GigaOm Analyst <a href="https://gigaom.com/analyst/delzer-michael/" target="_blank" rel="noopener">Michael Delzer</a> authored the recently published <a href="https://gigaom.com/report/key-criteria-for-evaluating-performance-testing-tools/" target="_blank" rel="noopener">Key Criteria Report for Evaluating Performance Testing Tools</a>. In it, he explores the scope of performance testing solutions and provides a framework for organizations seeking to adopt and deploy them.</p>
+<p>“As businesses move forward with Agile development, making sure developers and DevOps staff buy into the value of testing is essential,” Delzer says, adding, “And that the business will work with them to find a low-friction way for the developer to see on-demand performance and track this over time. The DevOps and QA team can leverage the tests of the developers to quickly generate and keep large-scale performance tests current and relevant to business needs.”</p>
+<p><em>Figure 1. Architecture Options for Hosting Performance Testing</em><br />
+<img loading="lazy" class="aligncenter size-full wp-image-997844" src="https://storage.googleapis.com/stateless-gigaom-com/2021/03/f33b57fd-kce-performance-testing-tools_fig-4.png" alt="" width="1920" height="1631" /></p>
+<p>The performance testing tools available today range from simple ones that measure website or mobile application performance to those that can cover a variety of environments and scenarios. In the Key Criteria report, Delzer says the market is changing and vendors are making plays to be more competitive. Key among those changes: a move by Micro Focus, which in 2017 acquired the LoadRunner family of performance testing solutions from HP, to improve the appeal of its tools.</p>
+<p>“They changed their pricing to make it more in line with their competitors,” says Delzer, who goes on to describe the company’s effort to embrace developer use of open-source tools to generate test cases. “Before you had to have a specially-trained tester write all of the test cases.”</p>
+<p>In his upcoming GigaOm Radar Report on Performance Testing Tools, Delzer will provide insight into specific solutions and their capabilities. He describes an active sector marked by strategic acquisitions, aggressive vendor positioning, and an embrace of blended open source solutions.</p>
+<p>Read the full GigaOm report <a href="https://gigaom.com/report/key-criteria-for-evaluating-performance-testing-tools/" target="_blank" rel="noopener">here</a>.</p>
