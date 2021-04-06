@@ -3,7 +3,7 @@ title : "We asked, you told us: You’re on the fence about water resistance on 
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/water-resistance-flagships-poll-results-1214644/
-image: "https://sergio.afanou.com/assets/images/image-midres-4.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-11.jpg"
 ---
 
 <p><html><body></p>
