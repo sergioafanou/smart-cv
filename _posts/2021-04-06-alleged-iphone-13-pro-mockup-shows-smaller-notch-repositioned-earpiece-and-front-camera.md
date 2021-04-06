@@ -3,7 +3,7 @@ title : "Alleged iPhone 13 Pro Mockup Shows Smaller Notch, Repositioned Earpiece
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/04/iphone-13-pro-mockup-smaller-notch/
-image: "https://sergio.afanou.com/assets/images/image-midres-19.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-45.jpg"
 ---
 
 <a href="http://www.macotakara.jp/blog/rumor/entry-41091.html">Images shared</a> by Japanese site <em>Mac Otakara</em> claim to show a 3D-printed mockup of the upcoming 6.1-inch <a href="https://www.macrumors.com/roundup/iphone-13/">iPhone 13</a> Pro with a smaller notch, and repositioned earpiece and front camera, but with minimal changes otherwise.
