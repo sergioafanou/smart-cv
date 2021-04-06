@@ -1,5 +1,5 @@
 ---
-title : April 2021 Android security patch rolling out now to Pixel phones
+title : "April 2021 Android security patch rolling out now to Pixel phones"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/april-2021-android-security-patch-1215208/
