@@ -3,7 +3,7 @@ title : "Deals: Apple's 512GB M1 MacBook Pro Drops to $1,349.99 ($150 Off) [Upda
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/05/deals-512gb-m1-macbook-pro/
-image: "https://sergio.afanou.com/assets/images/image-midres-43.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-50.jpg"
 ---
 
 Today you can get Apple's 13-inch M1 MacBook Pro (512GB) for <a href="https://www.amazon.com/dp/B08N5LH3F7?tag=macrumors-20&linkCode=ogi&th=1&psc=1"><strong>&#36;1,349.99</strong></a>, down from &#36;1,499.00 on Amazon. You'll see this price at the checkout screen after an <strong>automatic coupon worth &#36;50</strong> is applied.
