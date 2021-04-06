@@ -1,5 +1,5 @@
 ---
-title : The Best Free-to-Play Games for the Xbox Series X/S
+title : "The Best Free-to-Play Games for the Xbox Series X/S"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://lifehacker.com/the-best-free-to-play-games-for-the-xbox-series-x-s-1846622833
