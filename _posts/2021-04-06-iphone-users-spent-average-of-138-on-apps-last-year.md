@@ -3,7 +3,7 @@ title : "iPhone Users Spent Average of $138 on Apps Last Year"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/02/iphone-users-spent-138-on-apps/
-image: "https://sergio.afanou.com/assets/images/image-midres-30.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-15.jpg"
 ---
 
 The average <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> user spent 38 percent more in 2020 on premium apps and in-app purchases than the year before, reaching a total average spend of &#36;138 per &zwnj;iPhone&zwnj; in the United States, according to new research conducted by <a href="https://sensortower.com/blog/revenue-per-iphone-2020">Sensor Tower</a>.
