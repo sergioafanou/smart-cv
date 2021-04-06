@@ -1,5 +1,5 @@
 ---
-title : Glints snags US$22.5M Series C to expand ‘full-stack’ career platform
+title : "Glints snags US$22.5M Series C to expand ‘full-stack’ career platform"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/glints-snags-us22-5m-series-c-to-expand-full-stack-career-platform-20210405/
