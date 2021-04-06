@@ -1,5 +1,5 @@
 ---
-title : Tackle security threats before they arise with AT&T ActiveArmor
+title : "Tackle security threats before they arise with AT&T ActiveArmor"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/att-activearmor-security-1213723/
