@@ -3,7 +3,7 @@ title : "Apple Knowingly Sold 2016-17 MacBook Pro Models With 'Flexgate' Display
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/01/apple-flexgate-macbook-pro-models-court/
-image: "https://sergio.afanou.com/assets/images/image-midres-38.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-18.jpg"
 ---
 
 In 2019, some customers of 2016 and 2017 MacBook Pro models <a href="https://www.macrumors.com/guide/flexgate-macbook-pro-display-issue/">began to notice</a> an odd "stage lighting" effect that would impact their screen, potentially causing the laptop to be unusable. The odd occurrence resulted from a weak and fragile flex cable that can experience wear and tear with repeated opening and closing of the computer.
