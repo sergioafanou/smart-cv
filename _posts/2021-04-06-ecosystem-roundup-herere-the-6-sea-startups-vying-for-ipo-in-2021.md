@@ -3,7 +3,7 @@ title : "Ecosystem Roundup: Here’re the 6 SEA startups vying for IPO in 2021"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/ecosystem-roundup-herere-the-6-sea-startups-vying-for-ipo-in-2021-20210329/
-image: "https://sergio.afanou.com/assets/images/image-midres-46.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-35.jpg"
 ---
 
 <div id="attachment_412240" style="width: 700px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-412240" loading="lazy" class="wp-image-412240 size-full" src="https://e27.co/wp-content/uploads/2021/03/Prestige_biopharma.png" alt="Prestige Biopharma is one of the six companies looking to launch an IPO in 2021" width="690" height="390" /><p id="caption-attachment-412240" class="wp-caption-text">Prestige Biopharma is one of the six companies looking to launch an IPO in 2021</p></div>
