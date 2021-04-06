@@ -3,7 +3,7 @@ title : "Ripple buys 40% stake in Tranglo to expand its blockchain-powered payme
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/blockchain-payments-co-ripple-buys-40-stake-in-tranglo-20210329/
-image: "https://sergio.afanou.com/assets/images/image-midres-21.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-11.jpg"
 ---
 
 <img loading="lazy" class="aligncenter size-full wp-image-412372" src="https://e27.co/wp-content/uploads/2021/03/Ripple_Tranglo.png" alt="" width="690" height="390" />
