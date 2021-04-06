@@ -1,5 +1,5 @@
 ---
-title : Google shows how easy it is to switch to Pixel, but that doesn’t mean you should
+title : "Google shows how easy it is to switch to Pixel, but that doesn’t mean you should"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/05/iphone-to-pixel-switch-google-ad-data-transfer-smartphones/
