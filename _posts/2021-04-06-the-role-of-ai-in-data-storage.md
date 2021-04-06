@@ -3,7 +3,7 @@ title : "The Role of AI in Data Storage"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://gigaom.com/2021/02/19/the-role-of-ai-in-data-storage/
-image: "https://sergio.afanou.com/assets/images/image-midres-53.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-54.jpg"
 ---
 
 <p>In the past, data storage was one of the most conservative areas of IT. Storage system administrators were typically depicted as grumpy people with limited or no interest in change. Most of the time they wanted to keep it simple. “If it ain’t broke, don’t fix it” was their mantra. It’s hard to blame them.I was a storage sys admin once; solid data protection was not easily obtained, resources were limited and needed to be carefully managed, and the amount of data was less.</p>
