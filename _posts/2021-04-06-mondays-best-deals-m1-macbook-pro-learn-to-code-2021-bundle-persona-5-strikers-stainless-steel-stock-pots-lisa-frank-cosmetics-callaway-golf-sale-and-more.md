@@ -1,5 +1,5 @@
 ---
-title : Monday's Best Deals: M1 MacBook Pro, Learn to Code 2021 Bundle, Persona 5 Strikers, Stainless Steel Stock Pots, Lisa Frank Cosmetics, Callaway Golf Sale, and More
+title : "Monday's Best Deals: M1 MacBook Pro, Learn to Code 2021 Bundle, Persona 5 Strikers, Stainless Steel Stock Pots, Lisa Frank Cosmetics, Callaway Golf Sale, and More"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://kinjadeals.theinventory.com/mondays-best-deals-babbel-language-learning-car-seat-1846617654
