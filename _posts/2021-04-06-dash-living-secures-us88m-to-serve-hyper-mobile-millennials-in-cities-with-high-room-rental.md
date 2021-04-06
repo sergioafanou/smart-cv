@@ -3,7 +3,7 @@ title : "Dash Living secures US$8.8M+ to serve hyper-mobile millennials in citie
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/dash-living-raises-us8-8m-series-a-grosvenor-gobi-20210330/
-image: "https://sergio.afanou.com/assets/images/image-midres-22.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-23.jpg"
 ---
 
 <img loading="lazy" class="aligncenter size-full wp-image-412577" src="https://e27.co/wp-content/uploads/2021/03/Dash_Living.png" alt="" width="691" height="391" />
