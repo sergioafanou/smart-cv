@@ -3,7 +3,7 @@ title : "KiWi New Energy: Making green energy available to all"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/kiwi-new-energy-making-green-energy-available-to-all-20210331/
-image: "https://sergio.afanou.com/assets/images/image-midres-34.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-30.jpg"
 ---
 
 <img loading="lazy" class="size-full wp-image-412818 aligncenter" src="https://e27.co/wp-content/uploads/2021/03/Kiwi.png" alt="" width="690" height="390" />
