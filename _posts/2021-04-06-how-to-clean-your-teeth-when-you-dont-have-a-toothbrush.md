@@ -1,5 +1,5 @@
 ---
-title : How to Clean Your Teeth When You Don't Have a Toothbrush
+title : "How to Clean Your Teeth When You Don't Have a Toothbrush"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://lifehacker.com/how-to-clean-your-teeth-when-you-dont-have-a-toothbrush-1846610023
