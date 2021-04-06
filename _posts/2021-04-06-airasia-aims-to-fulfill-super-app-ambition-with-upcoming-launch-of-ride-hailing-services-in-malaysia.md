@@ -3,7 +3,7 @@ title : "AirAsia aims to fulfill super app ambition with upcoming launch of ride
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/airasia-to-launch-ride-hailing-services-20210330/
-image: "https://sergio.afanou.com/assets/images/image-midres-8.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-1.jpg"
 ---
 
 <img loading="lazy" class="size-full wp-image-405155 aligncenter" src="https://e27.co/wp-content/uploads/2021/03/AirAsia-1.jpeg" alt="" width="689" height="390" />
