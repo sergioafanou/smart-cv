@@ -3,7 +3,7 @@ title : "B Capital launches US$415M fund; to expand investment activity in India
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/b-capital-launches-us415m-fund-to-expand-investment-activity-in-india-indonesia-20210401/
-image: "https://sergio.afanou.com/assets/images/image-midres-41.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-27.jpg"
 ---
 
 <img loading="lazy" class="aligncenter wp-image-412850 size-full" src="https://e27.co/wp-content/uploads/2021/04/CG_BCapital.Group_.Portraits.social.1.jpg" alt="B Capital" width="690" height="390" />
