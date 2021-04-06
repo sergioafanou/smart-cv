@@ -3,7 +3,7 @@ title : "Compiling Containers – Dockerfiles, LLVM and BuildKit"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.docker.com/blog/compiling-containers-dockerfiles-llvm-and-buildkit/
-image: "https://sergio.afanou.com/assets/images/image-midres-7.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-51.jpg"
 ---
 
 
