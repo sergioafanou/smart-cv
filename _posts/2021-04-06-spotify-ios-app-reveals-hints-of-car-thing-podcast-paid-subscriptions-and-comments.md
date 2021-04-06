@@ -3,7 +3,7 @@ title : "Spotify iOS App Reveals Hints of 'Car Thing,' Podcast Paid Subscription
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/02/spotify-ios-app-car-thing-images/
-image: "https://sergio.afanou.com/assets/images/image-midres-41.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-25.jpg"
 ---
 
 Since 2019, Spotify <a href="https://newsroom.spotify.com/2019-05-17/5-things-to-know-about-spotifys-latest-test/">has been working on</a> "Car Thing," a voice-controlled music and podcast assistant. After Spotify announced Car Thing, little else was said about it, but it appears the company is gearing up for some kind of launch.
