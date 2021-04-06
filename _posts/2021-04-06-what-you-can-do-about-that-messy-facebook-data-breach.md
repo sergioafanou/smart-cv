@@ -1,5 +1,5 @@
 ---
-title : What You Can Do About That Messy Facebook Data Breach
+title : "What You Can Do About That Messy Facebook Data Breach"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://lifehacker.com/what-you-can-do-about-that-messy-facebook-data-breach-1846619772
