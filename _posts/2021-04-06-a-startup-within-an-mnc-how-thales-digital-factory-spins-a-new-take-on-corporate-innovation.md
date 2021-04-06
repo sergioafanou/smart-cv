@@ -3,7 +3,7 @@ title : "A startup within an MNC: How Thales Digital Factory spins a new take on
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/a-startup-within-an-mnc-how-thales-digital-factory-spins-a-new-take-on-corporate-innovation-20210331/
-image: "https://sergio.afanou.com/assets/images/image-midres-45.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-50.jpg"
 ---
 
 <div id="attachment_412691" style="width: 700px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-412691" loading="lazy" class="wp-image-412691 size-full" src="https://e27.co/wp-content/uploads/2021/03/DSC05332-1.jpg" alt="Thales" width="690" height="390" /><p id="caption-attachment-412691" class="wp-caption-text">Thales Digital Factory Singapore</p></div>
