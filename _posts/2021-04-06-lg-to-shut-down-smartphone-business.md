@@ -1,5 +1,5 @@
 ---
-title : LG to Shut Down Smartphone Business
+title : "LG to Shut Down Smartphone Business"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/05/lg-to-shut-down-smartphone-business/
