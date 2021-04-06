@@ -3,7 +3,7 @@ title : "SGProtein to launch large-scale production facility to accelerate Singa
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/sgprotein-to-launch-large-scale-production-facility-to-accelerate-singapores-alternative-protein-market-20210329/
-image: "https://sergio.afanou.com/assets/images/image-midres-9.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-42.jpg"
 ---
 
 <img loading="lazy" class="aligncenter size-full wp-image-412337" src="https://e27.co/wp-content/uploads/2021/03/download-1-1.jpeg" alt="" width="690" height="392" />
