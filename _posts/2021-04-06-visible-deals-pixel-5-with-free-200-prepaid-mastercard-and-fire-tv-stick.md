@@ -1,5 +1,5 @@
 ---
-title : Visible deals: Pixel 5 with free $200 prepaid Mastercard and Fire TV stick
+title : "Visible deals: Pixel 5 with free $200 prepaid Mastercard and Fire TV stick"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/best-visible-deals-1096134/
