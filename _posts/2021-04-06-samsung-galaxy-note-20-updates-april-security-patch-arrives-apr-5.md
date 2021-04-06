@@ -3,7 +3,7 @@ title : "Samsung Galaxy Note 20 updates: April security patch arrives (Apr. 5)"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/samsung-galaxy-note-20-update-1145703/
-image: "https://sergio.afanou.com/assets/images/image-midres-42.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-28.jpg"
 ---
 
 <p><html><body><strong>Update: April 5, 2021 (7;45 AM ET)</strong>: The latest update for the Galaxy Note 20 series is now available. Per <a href="https://www.sammobile.com/news/latest-galaxy-note-20-ultra-update-april-security-patch/" target="_blank" rel="noopener"><em>SamMobile</em></a>, the update bears firmware version <span class="post-body">N986BXXS1DUD1 and includes the April 2021 security patch.<br />
