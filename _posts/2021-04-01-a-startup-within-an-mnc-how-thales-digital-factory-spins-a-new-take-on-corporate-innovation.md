@@ -1,5 +1,5 @@
 ---
-title : A startup within an MNC: How Thales Digital Factory spins a new take on corporate innovation
+title : "A startup within an MNC: How Thales Digital Factory spins a new take on corporate innovation"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/a-startup-within-an-mnc-how-thales-digital-factory-spins-a-new-take-on-corporate-innovation-20210331/
