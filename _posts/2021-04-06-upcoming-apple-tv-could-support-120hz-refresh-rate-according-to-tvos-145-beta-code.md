@@ -3,7 +3,7 @@ title : "Upcoming Apple TV Could Support 120Hz Refresh Rate According to tvOS 14
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/05/apple-tv-120hz-support-tvos-14-5-code/
-image: "https://sergio.afanou.com/assets/images/image-midres-53.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-12.jpg"
 ---
 
 Apple is working on a new version of the <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a> that's set to be released at some point in 2021, and the new set-top box that's coming could feature support 4K 120Hz video output.
