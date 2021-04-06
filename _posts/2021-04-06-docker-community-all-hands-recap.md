@@ -3,7 +3,7 @@ title : "Docker Community All Hands Recap"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.docker.com/blog/docker-community-all-hands-recap/
-image: "https://sergio.afanou.com/assets/images/image-midres-3.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-10.jpg"
 ---
 
 
