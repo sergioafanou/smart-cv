@@ -3,7 +3,7 @@ title : "Why customer education plays an important role in Wise’s internationa
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/how-wise-plans-their-international-expansion-strategy-20210401/
-image: "https://sergio.afanou.com/assets/images/image-midres-42.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-52.jpg"
 ---
 
 <div id="attachment_412505" style="width: 700px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-412505" loading="lazy" class="size-full wp-image-412505" src="https://e27.co/wp-content/uploads/2021/03/wise_deep_dive.jpg" alt="" width="690" height="390" /><p id="caption-attachment-412505" class="wp-caption-text">Wise founders Taavet Hinrikus (Left), Kristo Käärmann</p></div>
