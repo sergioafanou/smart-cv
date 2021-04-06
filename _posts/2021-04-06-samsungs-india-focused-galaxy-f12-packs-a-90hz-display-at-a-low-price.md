@@ -1,5 +1,5 @@
 ---
-title : Samsung’s India-focused Galaxy F12 packs a 90Hz display at a low price
+title : "Samsung’s India-focused Galaxy F12 packs a 90Hz display at a low price"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/samsung-galaxy-f12-1215185/
