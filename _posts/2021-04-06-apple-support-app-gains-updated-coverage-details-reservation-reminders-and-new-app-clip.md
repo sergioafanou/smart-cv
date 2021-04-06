@@ -3,7 +3,7 @@ title : "Apple Support App Gains Updated Coverage Details, Reservation Reminders
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/01/apple-support-app-clip-reservation-reminders/
-image: "https://sergio.afanou.com/assets/images/image-midres-23.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-48.jpg"
 ---
 
 Apple today updated its Apple Support app to version 4.2, introducing a few useful new features to streamline the app's usefulness for getting service and support for Apple devices.
