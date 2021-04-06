@@ -1,5 +1,5 @@
 ---
-title : Jason Sudeikis Wins SAG Award for Outstanding Performance in Apple TV+ Series 'Ted Lasso'
+title : "Jason Sudeikis Wins SAG Award for Outstanding Performance in Apple TV+ Series 'Ted Lasso'"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/05/jason-sudeikis-wins-sag-award-ted-lasso/
