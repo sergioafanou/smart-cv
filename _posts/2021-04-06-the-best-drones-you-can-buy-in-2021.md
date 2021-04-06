@@ -3,7 +3,7 @@ title : "The best drones you can buy in 2021"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/best-drones-913289/
-image: "https://sergio.afanou.com/assets/images/image-midres-40.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-26.jpg"
 ---
 
 <p><html><body><em>This is a shorter version of our complete <a href="https://www.dronerush.com/best-drones-1977/">Best Drones list on Drone Rush</a>.</em></p>
