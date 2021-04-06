@@ -1,5 +1,5 @@
 ---
-title : Stunning new iPhone 13 Pro renders show a brand new color supposedly coming this year
+title : "Stunning new iPhone 13 Pro renders show a brand new color supposedly coming this year"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/01/iphone-13-design-colors-matte-black-mockup-renders/

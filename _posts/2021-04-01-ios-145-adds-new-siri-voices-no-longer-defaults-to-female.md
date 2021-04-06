@@ -1,5 +1,5 @@
 ---
-title : iOS 14.5 Adds New Siri Voices, No Longer Defaults to Female
+title : "iOS 14.5 Adds New Siri Voices, No Longer Defaults to Female"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/03/31/ios-14-5-new-siri-voices/

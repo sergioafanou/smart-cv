@@ -1,5 +1,5 @@
 ---
-title : Samsung Galaxy S21 Plus, Watch 3, and Buds Pro international giveaway!
+title : "Samsung Galaxy S21 Plus, Watch 3, and Buds Pro international giveaway!"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/samsung-galaxy-s21-plus-watch-3-and-buds-pro-international-giveaway-1214936/

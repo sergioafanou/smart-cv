@@ -1,5 +1,5 @@
 ---
-title : Hey All You Wanna-Be Linguists, Get a Lifetime Subscription to Babbel for 60% Off
+title : "Hey All You Wanna-Be Linguists, Get a Lifetime Subscription to Babbel for 60% Off"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://kinjadeals.theinventory.com/hey-all-you-wanna-be-linguists-get-a-lifetime-subscrip-1846606023

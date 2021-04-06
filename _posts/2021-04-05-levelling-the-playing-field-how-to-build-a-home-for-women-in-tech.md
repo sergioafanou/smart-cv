@@ -1,5 +1,5 @@
 ---
-title : Levelling the playing field: How to build a home for women in tech
+title : "Levelling the playing field: How to build a home for women in tech"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/levelling-the-playing-field-how-to-build-a-home-for-women-in-tech-20210401/

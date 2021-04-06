@@ -1,5 +1,5 @@
 ---
-title : Consolidate Your Home Emergency Kit Now
+title : "Consolidate Your Home Emergency Kit Now"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://lifehacker.com/nows-the-time-to-consolidate-your-home-emergency-kit-1825238093

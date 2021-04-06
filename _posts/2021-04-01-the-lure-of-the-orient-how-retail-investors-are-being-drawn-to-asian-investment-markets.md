@@ -1,5 +1,5 @@
 ---
-title : The lure of the orient: How retail investors are being drawn to Asian investment markets
+title : "The lure of the orient: How retail investors are being drawn to Asian investment markets"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/the-lure-of-the-orient-how-retail-investors-are-being-drawn-to-asian-investment-markets-20210324/

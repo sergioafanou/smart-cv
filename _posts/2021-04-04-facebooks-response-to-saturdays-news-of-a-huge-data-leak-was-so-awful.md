@@ -1,5 +1,5 @@
 ---
-title : Facebook’s response to Saturday’s news of a huge data leak was so awful
+title : "Facebook’s response to Saturday’s news of a huge data leak was so awful"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/03/facebook-data-leak-533-million-user-records-leaked-online/

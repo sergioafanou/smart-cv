@@ -1,5 +1,5 @@
 ---
-title : Your complete guide to Apple Health, Apple Fitness, and Apple Fitness Plus
+title : "Your complete guide to Apple Health, Apple Fitness, and Apple Fitness Plus"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/apple-health-fitness-1212540/

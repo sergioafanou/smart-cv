@@ -1,5 +1,5 @@
 ---
-title : Gigaom Delivers 70% Record Annual Revenue Growth, Launches New Channel Program to Digital Enterprise and Business Markets
+title : "Gigaom Delivers 70% Record Annual Revenue Growth, Launches New Channel Program to Digital Enterprise and Business Markets"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://gigaom.com/2021/02/23/gigaom-delivers-70-record-annual-revenue-growth-launches-new-channel-program-to-digital-enterprise-and-business-markets/

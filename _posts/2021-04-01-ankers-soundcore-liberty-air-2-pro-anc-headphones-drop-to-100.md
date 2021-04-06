@@ -1,5 +1,5 @@
 ---
-title : Anker's Soundcore Liberty Air 2 Pro ANC Headphones Drop to $100
+title : "Anker's Soundcore Liberty Air 2 Pro ANC Headphones Drop to $100"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://kinjadeals.theinventory.com/ankers-soundcore-liberty-air-2-pro-anc-headphones-drop-1846598461

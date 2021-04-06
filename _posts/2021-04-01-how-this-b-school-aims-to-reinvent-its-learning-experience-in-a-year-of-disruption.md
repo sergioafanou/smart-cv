@@ -1,5 +1,5 @@
 ---
-title : How this B-school aims to reinvent its learning experience in a year of disruption
+title : "How this B-school aims to reinvent its learning experience in a year of disruption"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/how-and-why-this-b-school-reinvented-its-learning-experience-in-a-year-of-disruption-20210325/

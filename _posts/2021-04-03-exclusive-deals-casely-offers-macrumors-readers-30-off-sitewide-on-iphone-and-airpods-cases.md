@@ -1,5 +1,5 @@
 ---
-title : Exclusive Deals: Casely Offers MacRumors Readers 30% Off Sitewide on iPhone and AirPods Cases
+title : "Exclusive Deals: Casely Offers MacRumors Readers 30% Off Sitewide on iPhone and AirPods Cases"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/02/exclusive-deals-casely/

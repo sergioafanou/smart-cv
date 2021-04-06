@@ -1,5 +1,5 @@
 ---
-title : Conicle bags US$3M Series A to grow its ‘cloud university’ in Thailand
+title : "Conicle bags US$3M Series A to grow its ‘cloud university’ in Thailand"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/conicle-bags-us3m-series-a-to-grow-its-cloud-university-in-thailand-20210401/

@@ -1,5 +1,5 @@
 ---
-title : iPhone SE with bigger screen and hole-punch display supposedly coming soon – here’s when
+title : "iPhone SE with bigger screen and hole-punch display supposedly coming soon – here’s when"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/01/iphone-se-plus-2023-hole-punch-display/

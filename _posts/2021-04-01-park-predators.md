@@ -1,5 +1,5 @@
 ---
-title : Park Predators
+title : "Park Predators"
 layout: post
 tags: tutorial labnol
 post_inspiration: http://podgallery.org/park-predators/

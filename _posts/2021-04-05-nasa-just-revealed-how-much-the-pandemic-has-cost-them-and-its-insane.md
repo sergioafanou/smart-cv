@@ -1,5 +1,5 @@
 ---
-title : NASA just revealed how much the pandemic has cost them, and it’s insane
+title : "NASA just revealed how much the pandemic has cost them, and it’s insane"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/04/nasa-pandemic-cost-total/

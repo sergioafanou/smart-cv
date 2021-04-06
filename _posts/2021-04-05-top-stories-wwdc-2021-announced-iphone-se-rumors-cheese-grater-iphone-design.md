@@ -1,5 +1,5 @@
 ---
-title : Top Stories: WWDC 2021 Announced, iPhone SE Rumors, 'Cheese Grater' iPhone Design?
+title : "Top Stories: WWDC 2021 Announced, iPhone SE Rumors, 'Cheese Grater' iPhone Design?"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/03/top-stories-wwdc-2021-iphone-se/

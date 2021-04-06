@@ -1,5 +1,5 @@
 ---
-title : Red Table Talk
+title : "Red Table Talk"
 layout: post
 tags: tutorial labnol
 post_inspiration: http://podgallery.org/red-table-talk/

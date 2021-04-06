@@ -1,5 +1,5 @@
 ---
-title : Periscope App Officially Shutting Down After Today
+title : "Periscope App Officially Shutting Down After Today"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/03/31/periscope-app-officially-shutting-down-after-today/

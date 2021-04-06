@@ -1,5 +1,5 @@
 ---
-title : Snap yourself using your smartphone, Nervotec app displays all your vital health signs within a minute
+title : "Snap yourself using your smartphone, Nervotec app displays all your vital health signs within a minute"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/snap-yourself-using-your-smartphone-nervotec-displays-all-your-vital-health-signs-within-a-minute-20210129/

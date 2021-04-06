@@ -1,5 +1,5 @@
 ---
-title : Harvard scientists just discovered a major cause of baldness
+title : "Harvard scientists just discovered a major cause of baldness"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/03/hair-loss-cure-mice-study/

@@ -1,5 +1,5 @@
 ---
-title : Apple Support App Gains Updated Coverage Details, Reservation Reminders and New App Clip
+title : "Apple Support App Gains Updated Coverage Details, Reservation Reminders and New App Clip"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/01/apple-support-app-clip-reservation-reminders/

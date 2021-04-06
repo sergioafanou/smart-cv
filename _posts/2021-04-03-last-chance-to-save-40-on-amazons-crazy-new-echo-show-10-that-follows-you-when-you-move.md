@@ -1,5 +1,5 @@
 ---
-title : Last chance to save $40 on Amazon’s crazy new Echo Show 10 that follows you when you move
+title : "Last chance to save $40 on Amazon’s crazy new Echo Show 10 that follows you when you move"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/02/echo-show-10-price-gets-biggest-discount-on-amazon/

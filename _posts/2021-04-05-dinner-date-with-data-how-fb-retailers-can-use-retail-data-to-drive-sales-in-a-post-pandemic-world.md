@@ -1,5 +1,5 @@
 ---
-title : Dinner date with data: How F&B retailers can use retail data to drive sales in a post-pandemic world
+title : "Dinner date with data: How F&B retailers can use retail data to drive sales in a post-pandemic world"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/how-fb-retailers-can-use-retail-data-to-drive-sales-in-a-post-pandemic-world-20210401/

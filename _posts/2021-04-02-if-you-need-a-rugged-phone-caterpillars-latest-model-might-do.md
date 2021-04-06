@@ -1,5 +1,5 @@
 ---
-title : If you need a rugged phone, Caterpillar’s latest model might do
+title : "If you need a rugged phone, Caterpillar’s latest model might do"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/01/cat-s62-pro-thermal-camera-phone-price-specs-release-date/

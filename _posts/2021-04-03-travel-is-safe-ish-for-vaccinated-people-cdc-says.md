@@ -1,5 +1,5 @@
 ---
-title : Travel Is Safe-ish for Vaccinated People, CDC Says
+title : "Travel Is Safe-ish for Vaccinated People, CDC Says"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://vitals.lifehacker.com/travel-is-safe-ish-for-vaccinated-people-cdc-says-1846607949

@@ -1,5 +1,5 @@
 ---
-title : Huawei is going all-in on big-screened fitness trackers with the Huawei Band 6
+title : "Huawei is going all-in on big-screened fitness trackers with the Huawei Band 6"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/huawei-band-6-1214346/

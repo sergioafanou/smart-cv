@@ -1,5 +1,5 @@
 ---
-title : Why You Should Rewatch Your Favorite Movies in Black and White
+title : "Why You Should Rewatch Your Favorite Movies in Black and White"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://lifehacker.com/why-you-should-rewatch-your-favorite-movies-in-black-an-1846606543

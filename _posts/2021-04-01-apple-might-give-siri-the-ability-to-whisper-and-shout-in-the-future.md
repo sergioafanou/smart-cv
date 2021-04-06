@@ -1,5 +1,5 @@
 ---
-title : Apple might give Siri the ability to whisper and shout in the future
+title : "Apple might give Siri the ability to whisper and shout in the future"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/01/apple-siri-new-features-whisper-mode-loud-mode/

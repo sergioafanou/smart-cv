@@ -1,5 +1,5 @@
 ---
-title : 'Fantasian,' by Creator of Final Fantasy, Now Available on Apple Arcade
+title : "'Fantasian,' by Creator of Final Fantasy, Now Available on Apple Arcade"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/02/fantasian-available-apple-arcade/

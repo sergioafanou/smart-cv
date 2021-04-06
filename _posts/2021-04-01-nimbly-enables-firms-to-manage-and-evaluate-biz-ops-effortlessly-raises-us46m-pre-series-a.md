@@ -1,5 +1,5 @@
 ---
-title : Nimbly enables firms to manage and evaluate biz ops ‘effortlessly’, raises US$4.6M pre-Series A
+title : "Nimbly enables firms to manage and evaluate biz ops ‘effortlessly’, raises US$4.6M pre-Series A"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/nimbly-enables-firms-to-manage-and-evaluate-biz-ops-effortlessly-raises-us4-6m-pre-series-a-20210330/

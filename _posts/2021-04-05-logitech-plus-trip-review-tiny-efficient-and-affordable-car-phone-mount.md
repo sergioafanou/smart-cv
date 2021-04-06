@@ -1,5 +1,5 @@
 ---
-title : Logitech Plus Trip review: Tiny, efficient, and affordable car phone mount
+title : "Logitech Plus Trip review: Tiny, efficient, and affordable car phone mount"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/logitech-plus-trip-review-1212304/

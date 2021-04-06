@@ -1,5 +1,5 @@
 ---
-title : Here’s what Google is doing to protect Android users from spying apps
+title : "Here’s what Google is doing to protect Android users from spying apps"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/02/google-android-apps-spying-phone-rules-query-packages/

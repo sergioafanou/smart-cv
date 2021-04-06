@@ -1,5 +1,5 @@
 ---
-title : This company says it can turn your old gas car into a modern-day EV
+title : "This company says it can turn your old gas car into a modern-day EV"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/02/ev-cars-2021-zero-labs-vintage-pickup-transform/

@@ -1,5 +1,5 @@
 ---
-title : MacRumors Giveaway: Win a Luna Display Adapter to Turn Your iPad or Mac Into an Extra Screen
+title : "MacRumors Giveaway: Win a Luna Display Adapter to Turn Your iPad or Mac Into an Extra Screen"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/02/macrumors-giveaway-luna-display-adapter-3/

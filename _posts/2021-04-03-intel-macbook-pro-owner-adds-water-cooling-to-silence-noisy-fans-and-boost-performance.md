@@ -1,5 +1,5 @@
 ---
-title : Intel MacBook Pro Owner Adds Water Cooling to Silence Noisy Fans and Boost Performance
+title : "Intel MacBook Pro Owner Adds Water Cooling to Silence Noisy Fans and Boost Performance"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/02/intel-macbook-pro-owner-adds-water-cooling/

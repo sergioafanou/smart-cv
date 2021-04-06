@@ -1,5 +1,5 @@
 ---
-title : Ripple buys 40% stake in Tranglo to expand its blockchain-powered payments services
+title : "Ripple buys 40% stake in Tranglo to expand its blockchain-powered payments services"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/blockchain-payments-co-ripple-buys-40-stake-in-tranglo-20210329/

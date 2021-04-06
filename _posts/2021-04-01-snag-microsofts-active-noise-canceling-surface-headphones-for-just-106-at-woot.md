@@ -1,5 +1,5 @@
 ---
-title : Snag Microsoft’s Active Noise-Canceling Surface Headphones for Just $106 at Woot
+title : "Snag Microsoft’s Active Noise-Canceling Surface Headphones for Just $106 at Woot"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://kinjadeals.theinventory.com/snag-microsoft-s-active-noise-canceling-surface-headpho-1846597243

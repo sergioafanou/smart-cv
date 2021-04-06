@@ -1,5 +1,5 @@
 ---
-title : Here’s how Comcast might try to get you to dump Netflix for Peacock
+title : "Here’s how Comcast might try to get you to dump Netflix for Peacock"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/01/universal-movies-netflix-hbo-max-pulled-peacock/

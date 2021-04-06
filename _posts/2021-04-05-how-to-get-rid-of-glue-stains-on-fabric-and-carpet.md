@@ -1,5 +1,5 @@
 ---
-title : How to Get Rid of Glue Stains on Fabric and Carpet
+title : "How to Get Rid of Glue Stains on Fabric and Carpet"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://lifehacker.com/how-to-get-rid-of-glue-stains-on-fabric-and-carpet-1846611386

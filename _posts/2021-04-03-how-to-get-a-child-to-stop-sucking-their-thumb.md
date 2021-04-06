@@ -1,5 +1,5 @@
 ---
-title : How to Get a Child to Stop Sucking Their Thumb
+title : "How to Get a Child to Stop Sucking Their Thumb"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://offspring.lifehacker.com/how-to-get-a-child-to-stop-sucking-their-thumb-1846597809

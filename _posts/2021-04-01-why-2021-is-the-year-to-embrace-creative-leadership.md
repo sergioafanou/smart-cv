@@ -1,5 +1,5 @@
 ---
-title : Why 2021 is the year to embrace creative leadership
+title : "Why 2021 is the year to embrace creative leadership"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/why-2021-is-the-year-to-embrace-creative-leadership-20210325/

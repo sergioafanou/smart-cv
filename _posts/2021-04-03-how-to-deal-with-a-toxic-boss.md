@@ -1,5 +1,5 @@
 ---
-title : How to Deal With a Toxic Boss
+title : "How to Deal With a Toxic Boss"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://lifehacker.com/how-to-deal-with-a-toxic-boss-1846594599

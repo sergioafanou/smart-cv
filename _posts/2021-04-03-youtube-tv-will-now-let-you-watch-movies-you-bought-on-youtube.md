@@ -1,5 +1,5 @@
 ---
-title : YouTube TV will now let you watch movies you bought on YouTube
+title : "YouTube TV will now let you watch movies you bought on YouTube"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/02/youtube-tv-purchased-movies-rentals/

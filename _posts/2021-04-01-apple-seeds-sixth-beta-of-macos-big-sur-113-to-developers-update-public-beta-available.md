@@ -1,5 +1,5 @@
 ---
-title : Apple Seeds Sixth Beta of macOS Big Sur 11.3 to Developers [Update: Public Beta Available]
+title : "Apple Seeds Sixth Beta of macOS Big Sur 11.3 to Developers [Update: Public Beta Available]"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/03/31/apple-seeds-macos-big-sur-11-3-beta-6/

@@ -1,5 +1,5 @@
 ---
-title : SQL Transaction Processing Test Shows an Edge for Azure
+title : "SQL Transaction Processing Test Shows an Edge for Azure"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://gigaom.com/2021/03/24/sql-transaction-processing-test-shows-an-edge-for-azure/

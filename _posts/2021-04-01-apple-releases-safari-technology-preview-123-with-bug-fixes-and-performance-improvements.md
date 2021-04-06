@@ -1,5 +1,5 @@
 ---
-title : Apple Releases Safari Technology Preview 123 With Bug Fixes and Performance Improvements
+title : "Apple Releases Safari Technology Preview 123 With Bug Fixes and Performance Improvements"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/03/31/apple-releases-safari-technology-preview-123/

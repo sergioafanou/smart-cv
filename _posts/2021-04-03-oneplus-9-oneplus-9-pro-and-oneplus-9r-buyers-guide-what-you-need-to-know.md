@@ -1,5 +1,5 @@
 ---
-title : OnePlus 9, OnePlus 9 Pro, and OnePlus 9R buyer’s guide: What you need to know
+title : "OnePlus 9, OnePlus 9 Pro, and OnePlus 9R buyer’s guide: What you need to know"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/oneplus-9-1170815/

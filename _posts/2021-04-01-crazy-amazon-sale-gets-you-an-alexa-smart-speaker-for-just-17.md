@@ -1,5 +1,5 @@
 ---
-title : Crazy Amazon sale gets you an Alexa smart speaker for just $17
+title : "Crazy Amazon sale gets you an Alexa smart speaker for just $17"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/01/amazon-echo-deals-lowest-price-echo-flex-alexa-speaker/

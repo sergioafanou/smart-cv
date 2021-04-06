@@ -1,5 +1,5 @@
 ---
-title : Alleged iPhone 13 Pro Mockup Shows Smaller Notch, Repositioned Earpiece and Front Camera
+title : "Alleged iPhone 13 Pro Mockup Shows Smaller Notch, Repositioned Earpiece and Front Camera"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/04/iphone-13-pro-mockup-smaller-notch/

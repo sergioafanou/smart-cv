@@ -1,5 +1,5 @@
 ---
-title : Perseverance found a weird rock on Mars, and scientists can’t identify it
+title : "Perseverance found a weird rock on Mars, and scientists can’t identify it"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/01/mars-rock-perseverance-mystery/

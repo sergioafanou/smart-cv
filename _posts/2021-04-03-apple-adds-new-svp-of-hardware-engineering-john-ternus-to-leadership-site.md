@@ -1,5 +1,5 @@
 ---
-title : Apple Adds New SVP of Hardware Engineering John Ternus to Leadership Site
+title : "Apple Adds New SVP of Hardware Engineering John Ternus to Leadership Site"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/02/apple-leadership-site-john-ternus/

@@ -1,5 +1,5 @@
 ---
-title : Tim Cook Responds to Facebook Criticism of iOS App Tracking Transparency Changes, Says It's 'Hard To Argue Against' Privacy
+title : "Tim Cook Responds to Facebook Criticism of iOS App Tracking Transparency Changes, Says It's 'Hard To Argue Against' Privacy"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/03/tim-cook-responds-facebook-ios-privacy/

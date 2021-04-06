@@ -1,5 +1,5 @@
 ---
-title : Ecosystem Roundup: Here’re the 6 SEA startups vying for IPO in 2021
+title : "Ecosystem Roundup: Here’re the 6 SEA startups vying for IPO in 2021"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/ecosystem-roundup-herere-the-6-sea-startups-vying-for-ipo-in-2021-20210329/

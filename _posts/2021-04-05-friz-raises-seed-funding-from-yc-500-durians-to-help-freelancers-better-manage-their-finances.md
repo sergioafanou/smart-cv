@@ -1,5 +1,5 @@
 ---
-title : Friz raises seed funding from YC, 500 Durians to help freelancers better manage their finances
+title : "Friz raises seed funding from YC, 500 Durians to help freelancers better manage their finances"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/friz-raises-seed-funding-from-yc-500-durians-to-help-freelancers-better-manage-their-finances-20210405/

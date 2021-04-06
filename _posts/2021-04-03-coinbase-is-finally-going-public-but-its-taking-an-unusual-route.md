@@ -1,5 +1,5 @@
 ---
-title : Coinbase is finally going public, but it’s taking an unusual route
+title : "Coinbase is finally going public, but it’s taking an unusual route"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/02/coinbase-ipo-date-april-14-price-shares/

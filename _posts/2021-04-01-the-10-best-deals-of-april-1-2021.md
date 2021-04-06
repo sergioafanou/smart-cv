@@ -1,5 +1,5 @@
 ---
-title : The 10 Best Deals of April 1, 2021
+title : "The 10 Best Deals of April 1, 2021"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://kinjadeals.theinventory.com/the-10-best-deals-of-april-1-2021-1846599208

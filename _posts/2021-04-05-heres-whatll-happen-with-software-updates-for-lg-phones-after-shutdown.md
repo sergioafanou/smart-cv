@@ -1,5 +1,5 @@
 ---
-title : Here’s what’ll happen with software updates for LG Phones after shutdown
+title : "Here’s what’ll happen with software updates for LG Phones after shutdown"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/lg-software-updates-1215000/

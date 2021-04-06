@@ -1,5 +1,5 @@
 ---
-title : Gender reveal stunt ends with fatal plane crash into the sea
+title : "Gender reveal stunt ends with fatal plane crash into the sea"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/04/gender-reveal-party-fatal-plane-crash-sea-cancun-mexico/

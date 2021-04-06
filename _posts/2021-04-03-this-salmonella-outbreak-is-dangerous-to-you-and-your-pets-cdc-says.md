@@ -1,5 +1,5 @@
 ---
-title : This Salmonella Outbreak is Dangerous to You and Your Pets, CDC Says
+title : "This Salmonella Outbreak is Dangerous to You and Your Pets, CDC Says"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://vitals.lifehacker.com/this-salmonella-outbreak-is-dangerous-to-you-and-your-p-1846608972

@@ -1,5 +1,5 @@
 ---
-title : SGProtein to launch large-scale production facility to accelerate Singapore’s alternative protein market
+title : "SGProtein to launch large-scale production facility to accelerate Singapore’s alternative protein market"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/sgprotein-to-launch-large-scale-production-facility-to-accelerate-singapores-alternative-protein-market-20210329/

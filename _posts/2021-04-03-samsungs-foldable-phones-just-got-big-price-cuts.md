@@ -1,5 +1,5 @@
 ---
-title : Samsung’s foldable phones just got big price cuts
+title : "Samsung’s foldable phones just got big price cuts"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/02/galaxy-z-fold-2-deal-60-day-trial-price-cut/

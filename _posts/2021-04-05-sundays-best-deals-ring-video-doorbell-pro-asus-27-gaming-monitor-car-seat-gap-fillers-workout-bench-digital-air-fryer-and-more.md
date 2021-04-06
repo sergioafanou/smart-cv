@@ -1,5 +1,5 @@
 ---
-title : Sunday's Best Deals: Ring Video Doorbell Pro, Asus 27" Gaming Monitor, Car Seat Gap Fillers, Workout Bench, Digital Air Fryer, and More
+title : "Sunday's Best Deals: Ring Video Doorbell Pro, Asus 27" Gaming Monitor, Car Seat Gap Fillers, Workout Bench, Digital Air Fryer, and More"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://kinjadeals.theinventory.com/sundays-best-deals-ring-video-doorbell-pro-asus-27-g-1846615680

@@ -1,5 +1,5 @@
 ---
-title : OnePlus 9 Pro review second opinion: Ready to play in the big league
+title : "OnePlus 9 Pro review second opinion: Ready to play in the big league"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/oneplus-9-pro-review-second-opinion-1212373/

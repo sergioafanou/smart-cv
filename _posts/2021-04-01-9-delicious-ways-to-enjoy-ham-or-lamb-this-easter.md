@@ -1,5 +1,5 @@
 ---
-title : 9 Delicious Ways to Enjoy Ham or Lamb This Easter
+title : "9 Delicious Ways to Enjoy Ham or Lamb This Easter"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://skillet.lifehacker.com/9-delicious-ways-to-enjoy-ham-or-lamb-this-easter-1846593755

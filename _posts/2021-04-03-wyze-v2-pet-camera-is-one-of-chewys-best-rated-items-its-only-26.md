@@ -1,5 +1,5 @@
 ---
-title : Wyze V2 Pet Camera is One of Chewy's Best Rated Items, It's Only $26
+title : "Wyze V2 Pet Camera is One of Chewy's Best Rated Items, It's Only $26"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://kinjadeals.theinventory.com/wyze-v2-pet-camera-is-one-of-chewys-best-rated-items-i-1846605255

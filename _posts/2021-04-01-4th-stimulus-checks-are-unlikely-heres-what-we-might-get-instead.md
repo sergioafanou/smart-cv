@@ -1,5 +1,5 @@
 ---
-title : 4th stimulus checks are unlikely – here’s what we might get instead
+title : "4th stimulus checks are unlikely – here’s what we might get instead"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/01/new-stimulus-check-fourth-covid-19-payment-unlikely/

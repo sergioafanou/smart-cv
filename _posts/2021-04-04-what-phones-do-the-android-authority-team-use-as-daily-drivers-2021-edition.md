@@ -1,5 +1,5 @@
 ---
-title : What phones do the Android Authority team use as daily drivers? (2021 edition)
+title : "What phones do the Android Authority team use as daily drivers? (2021 edition)"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/android-authority-phones-2021-1212383/

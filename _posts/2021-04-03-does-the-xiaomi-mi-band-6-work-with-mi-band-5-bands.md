@@ -1,5 +1,5 @@
 ---
-title : Does the Xiaomi Mi Band 6 work with Mi Band 5 bands?
+title : "Does the Xiaomi Mi Band 6 work with Mi Band 5 bands?"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/xiaomi-mi-band-6-bands-mi-band-5-1214141/

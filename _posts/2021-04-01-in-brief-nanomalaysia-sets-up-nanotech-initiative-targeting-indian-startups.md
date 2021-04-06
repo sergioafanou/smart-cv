@@ -1,5 +1,5 @@
 ---
-title : In brief: NanoMalaysia sets up nanotech initiative targeting Indian startups
+title : "In brief: NanoMalaysia sets up nanotech initiative targeting Indian startups"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/in-brief-nanomalaysia-sets-up-nanotech-initiative-targeting-indian-startups-20210325/

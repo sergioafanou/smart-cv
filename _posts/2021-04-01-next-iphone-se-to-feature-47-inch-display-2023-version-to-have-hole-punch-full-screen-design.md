@@ -1,5 +1,5 @@
 ---
-title : Next iPhone SE to Feature 4.7-Inch Display, 2023 Version to Have Hole Punch Full Screen Design
+title : "Next iPhone SE to Feature 4.7-Inch Display, 2023 Version to Have Hole Punch Full Screen Design"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/01/iphone-se-2023-hole-punch-design/

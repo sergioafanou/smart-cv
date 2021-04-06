@@ -1,5 +1,5 @@
 ---
-title : YJ Capital, LINE Ventures merge to form a new US$271M fund Z Venture Capital
+title : "YJ Capital, LINE Ventures merge to form a new US$271M fund Z Venture Capital"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/yj-capital-line-ventures-merge-to-form-a-new-us271m-fund-20210401/

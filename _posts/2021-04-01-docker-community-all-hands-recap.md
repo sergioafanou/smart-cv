@@ -1,5 +1,5 @@
 ---
-title : Docker Community All Hands Recap
+title : "Docker Community All Hands Recap"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.docker.com/blog/docker-community-all-hands-recap/

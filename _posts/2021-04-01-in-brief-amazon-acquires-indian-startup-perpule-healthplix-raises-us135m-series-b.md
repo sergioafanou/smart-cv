@@ -1,5 +1,5 @@
 ---
-title : In brief: Amazon acquires Indian startup Perpule, HealthPlix raises US$13.5M Series B
+title : "In brief: Amazon acquires Indian startup Perpule, HealthPlix raises US$13.5M Series B"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/in-brief-amazon-acquires-indian-startup-perpule-healthplix-raises-us13-5m-series-b-20210331/

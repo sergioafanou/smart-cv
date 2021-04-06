@@ -1,5 +1,5 @@
 ---
-title : Deals: Get Nomad's Base Station Pro Wireless Charger for 50% Off ($99.98)
+title : "Deals: Get Nomad's Base Station Pro Wireless Charger for 50% Off ($99.98)"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/02/deals-nomads-base-station-pro/

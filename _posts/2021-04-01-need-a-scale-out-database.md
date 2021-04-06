@@ -1,5 +1,5 @@
 ---
-title : Need a Scale-Out Database?
+title : "Need a Scale-Out Database?"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://gigaom.com/2021/03/26/need-a-scale-out-database/

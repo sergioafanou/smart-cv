@@ -1,5 +1,5 @@
 ---
-title : Getting Started with Value Stream Management
+title : "Getting Started with Value Stream Management"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://gigaom.com/2021/02/26/getting-started-with-value-stream-management/

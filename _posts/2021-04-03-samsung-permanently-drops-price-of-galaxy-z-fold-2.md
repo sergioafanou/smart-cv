@@ -1,5 +1,5 @@
 ---
-title : Samsung permanently drops price of Galaxy Z Fold 2
+title : "Samsung permanently drops price of Galaxy Z Fold 2"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/samsung-galaxy-z-fold-2-price-drop-1214836/

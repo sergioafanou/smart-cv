@@ -1,5 +1,5 @@
 ---
-title : This is the mind-blowing moment ‘Falcon and the Winter Soldier’ fans are waiting for
+title : "This is the mind-blowing moment ‘Falcon and the Winter Soldier’ fans are waiting for"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/03/falcon-and-the-winter-soldier-episode-5-big-reveal-teasers/

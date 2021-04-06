@@ -1,5 +1,5 @@
 ---
-title : Eve Aqua HomeKit-Connected Water Controller Gains Thread Support via Firmware Update
+title : "Eve Aqua HomeKit-Connected Water Controller Gains Thread Support via Firmware Update"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/01/eve-aqua-thread-firmware-update/

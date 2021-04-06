@@ -1,5 +1,5 @@
 ---
-title : Singapore faces talent crunch for engineering and product manager roles: Report
+title : "Singapore faces talent crunch for engineering and product manager roles: Report"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/singapore-faces-talent-crunch-for-engineering-and-product-manager-roles-report-20210330/

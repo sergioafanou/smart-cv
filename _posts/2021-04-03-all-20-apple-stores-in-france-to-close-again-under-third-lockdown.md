@@ -1,5 +1,5 @@
 ---
-title : All 20 Apple Stores in France to Close Again Under Third Lockdown
+title : "All 20 Apple Stores in France to Close Again Under Third Lockdown"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/02/apple-closes-all-france-retail-locations/

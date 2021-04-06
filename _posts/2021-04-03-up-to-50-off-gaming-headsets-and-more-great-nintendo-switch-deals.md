@@ -1,5 +1,5 @@
 ---
-title : Up to 50% off gaming headsets, and more great Nintendo Switch deals
+title : "Up to 50% off gaming headsets, and more great Nintendo Switch deals"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/best-nintendo-switch-deals-1146985/

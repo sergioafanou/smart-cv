@@ -1,5 +1,5 @@
 ---
-title : Solving multiple medtech problems with a single device powered by AI
+title : "Solving multiple medtech problems with a single device powered by AI"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/solving-multiple-medtech-problems-with-a-single-device-powered-by-ai-20210330/

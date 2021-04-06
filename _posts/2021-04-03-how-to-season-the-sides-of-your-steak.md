@@ -1,5 +1,5 @@
 ---
-title : How to Season the Sides of Your Steak
+title : "How to Season the Sides of Your Steak"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://skillet.lifehacker.com/how-to-season-the-sides-of-your-steak-1846600331

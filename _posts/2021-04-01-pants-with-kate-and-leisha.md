@@ -1,5 +1,5 @@
 ---
-title : PANTS     with Kate and Leisha
+title : "PANTS     with Kate and Leisha"
 layout: post
 tags: tutorial labnol
 post_inspiration: http://podgallery.org/pants-with-kate-and-leisha/

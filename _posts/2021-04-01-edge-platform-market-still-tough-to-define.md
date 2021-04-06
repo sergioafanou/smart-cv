@@ -1,5 +1,5 @@
 ---
-title : Edge Platform Market Still Tough to Define
+title : "Edge Platform Market Still Tough to Define"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://gigaom.com/2021/03/17/edge-platform-market-still-tough-to-define/

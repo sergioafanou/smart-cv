@@ -1,5 +1,5 @@
 ---
-title : Homebase becomes first Vietnamese startup to get accepted into Y Combinator
+title : "Homebase becomes first Vietnamese startup to get accepted into Y Combinator"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/homebase-becomes-first-vietnamese-startup-to-be-accepted-into-y-combinator-20210326/

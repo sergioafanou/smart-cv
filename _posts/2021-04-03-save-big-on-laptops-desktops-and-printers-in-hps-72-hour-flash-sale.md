@@ -1,5 +1,5 @@
 ---
-title : Save Big on Laptops, Desktops, and Printers in HP's 72-Hour Flash Sale
+title : "Save Big on Laptops, Desktops, and Printers in HP's 72-Hour Flash Sale"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://roundups.theinventory.com/best-hp-deals-1843542941

@@ -1,5 +1,5 @@
 ---
-title : Thursday's Best Deals: Samsung Galaxy Buds Live, Outriders, PlayStation Plus, August Wi-Fi Smart Lock, Gluten-Free Snacks Box, Deadpool Movies Sale, and More
+title : "Thursday's Best Deals: Samsung Galaxy Buds Live, Outriders, PlayStation Plus, August Wi-Fi Smart Lock, Gluten-Free Snacks Box, Deadpool Movies Sale, and More"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://kinjadeals.theinventory.com/thursdays-best-deals-kyoku-damascus-knives-amazon-fir-1846596391

@@ -1,5 +1,5 @@
 ---
-title : Crazy new device uses 5G signals in the air to charge your gadgets
+title : "Crazy new device uses 5G signals in the air to charge your gadgets"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/04/5g-power-gadgets-through-the-air-georgia-tech/

@@ -1,5 +1,5 @@
 ---
-title : Everything coming and going on Netflix: Week of April 4th
+title : "Everything coming and going on Netflix: Week of April 4th"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/04/netflix-new-releases-april-4-2021-shows-movies/

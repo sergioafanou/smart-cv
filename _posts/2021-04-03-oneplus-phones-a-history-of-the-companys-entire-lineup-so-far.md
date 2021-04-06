@@ -1,5 +1,5 @@
 ---
-title : OnePlus phones: A history of the company’s entire lineup so far
+title : "OnePlus phones: A history of the company’s entire lineup so far"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/oneplus-phones-history-1103772/

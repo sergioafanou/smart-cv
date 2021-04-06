@@ -1,5 +1,5 @@
 ---
-title : Here Are the Side Effects to Expect from Your COVID Vaccine (and How to Deal With Them)
+title : "Here Are the Side Effects to Expect from Your COVID Vaccine (and How to Deal With Them)"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://vitals.lifehacker.com/here-are-the-side-effects-to-expect-from-your-covid-vac-1846602583

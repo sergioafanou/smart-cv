@@ -1,5 +1,5 @@
 ---
-title : Apple Arcade Adds 30 Classic Games Including 'Fruit Ninja' and 'Cut the Rope Remastered'
+title : "Apple Arcade Adds 30 Classic Games Including 'Fruit Ninja' and 'Cut the Rope Remastered'"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/02/apple-arcade-adds-30-classic-games/

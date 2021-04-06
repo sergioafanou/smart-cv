@@ -1,5 +1,5 @@
 ---
-title : TIL you can use a Play-Doh Fun Factory as a cookie press
+title : "TIL you can use a Play-Doh Fun Factory as a cookie press"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://thetakeout.com/til-you-can-use-a-play-doh-fun-factory-as-a-cookie-pres-1846590809

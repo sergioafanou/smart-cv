@@ -1,5 +1,5 @@
 ---
-title : Apple Knowingly Sold 2016-17 MacBook Pro Models With 'Flexgate' Display Defect, Judge Says
+title : "Apple Knowingly Sold 2016-17 MacBook Pro Models With 'Flexgate' Display Defect, Judge Says"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/01/apple-flexgate-macbook-pro-models-court/

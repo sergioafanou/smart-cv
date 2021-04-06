@@ -1,5 +1,5 @@
 ---
-title : Credible Leaker Says New iMac to Feature 'Really Big' Display Larger Than Current 27-inch Model
+title : "Credible Leaker Says New iMac to Feature 'Really Big' Display Larger Than Current 27-inch Model"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/03/imac-big-display-leak/

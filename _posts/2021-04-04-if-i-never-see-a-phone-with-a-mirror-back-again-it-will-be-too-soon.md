@@ -1,5 +1,5 @@
 ---
-title : If I never see a phone with a mirror back again it will be too soon
+title : "If I never see a phone with a mirror back again it will be too soon"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/smartphone-mirror-finish-1214053/

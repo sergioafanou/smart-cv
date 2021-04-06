@@ -1,5 +1,5 @@
 ---
-title : Watch all four ‘Hunger Games’ movies free on our favorite Netflix rival
+title : "Watch all four ‘Hunger Games’ movies free on our favorite Netflix rival"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/01/free-movies-tubi-hunger-games-streaming/

@@ -1,5 +1,5 @@
 ---
-title : Adobe Illustrator Now Available for Apple Silicon in Beta
+title : "Adobe Illustrator Now Available for Apple Silicon in Beta"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/04/adobe-illustrator-apple-silicon-beta/

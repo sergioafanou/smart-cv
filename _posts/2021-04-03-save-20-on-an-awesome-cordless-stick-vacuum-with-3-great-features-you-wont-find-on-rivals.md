@@ -1,5 +1,5 @@
 ---
-title : Save 20% on an awesome cordless stick vacuum with 3 great features you won’t find on rivals
+title : "Save 20% on an awesome cordless stick vacuum with 3 great features you won’t find on rivals"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/02/save-20-on-an-awesome-cordless-stick-vacuum-with-3-great-features-you-wont-find-on-rivals/

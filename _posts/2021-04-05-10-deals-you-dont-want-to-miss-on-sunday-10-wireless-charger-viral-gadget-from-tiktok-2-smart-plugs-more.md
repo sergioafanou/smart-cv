@@ -1,5 +1,5 @@
 ---
-title : 10 deals you don’t want to miss on Sunday: $10 wireless charger, viral gadget from TikTok, $2 smart plugs, more
+title : "10 deals you don’t want to miss on Sunday: $10 wireless charger, viral gadget from TikTok, $2 smart plugs, more"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/04/amazon-deals-of-the-day-on-apr-4-2021/

@@ -1,5 +1,5 @@
 ---
-title : Google to Limit Which Apps Can See Other Installed Apps on Android Devices, Evoking Similar Privacy Changes Apple Made in iOS 9
+title : "Google to Limit Which Apps Can See Other Installed Apps on Android Devices, Evoking Similar Privacy Changes Apple Made in iOS 9"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/03/google-limit-access-installed-android-apps-ios-9/

@@ -1,5 +1,5 @@
 ---
-title : iPhone Users Spent Average of $138 on Apps Last Year
+title : "iPhone Users Spent Average of $138 on Apps Last Year"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/02/iphone-users-spent-138-on-apps/

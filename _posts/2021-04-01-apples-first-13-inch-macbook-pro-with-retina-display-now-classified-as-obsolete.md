@@ -1,5 +1,5 @@
 ---
-title : Apple's First 13-Inch MacBook Pro With Retina Display Now Classified as 'Obsolete'
+title : "Apple's First 13-Inch MacBook Pro With Retina Display Now Classified as 'Obsolete'"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/03/31/macbook-pro-13-2012-retina-obsolete/

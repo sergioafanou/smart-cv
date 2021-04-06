@@ -1,5 +1,5 @@
 ---
-title : The Citizen Developer Movement
+title : "The Citizen Developer Movement"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://gigaom.com/2021/03/17/the-citizen-developer-movement/

@@ -1,5 +1,5 @@
 ---
-title : This might be the cool OnePlus Nord SE package the company canceled
+title : "This might be the cool OnePlus Nord SE package the company canceled"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/oneplus-nord-se-packaging-1214380/

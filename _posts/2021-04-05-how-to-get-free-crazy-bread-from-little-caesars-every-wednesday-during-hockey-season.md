@@ -1,5 +1,5 @@
 ---
-title : How to Get Free Crazy Bread From Little Caesars Every Wednesday During Hockey Season
+title : "How to Get Free Crazy Bread From Little Caesars Every Wednesday During Hockey Season"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://twocents.lifehacker.com/how-to-get-free-crazy-bread-from-little-caesars-every-w-1846611242

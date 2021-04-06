@@ -1,5 +1,5 @@
 ---
-title : Saturday's Best Deals: Reading Pillows, Westinghouse Curved Gaming Monitor, JACHS NY Sweaters, TomCare Outdoor Accessories, and More
+title : "Saturday's Best Deals: Reading Pillows, Westinghouse Curved Gaming Monitor, JACHS NY Sweaters, TomCare Outdoor Accessories, and More"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://kinjadeals.theinventory.com/saturdays-best-deals-reading-pillows-westinghouse-cur-1846612382

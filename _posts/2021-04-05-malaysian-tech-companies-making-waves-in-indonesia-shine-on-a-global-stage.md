@@ -1,5 +1,5 @@
 ---
-title : Malaysian tech companies making waves in Indonesia, shine on a global stage
+title : "Malaysian tech companies making waves in Indonesia, shine on a global stage"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/malaysian-tech-companies-making-waves-in-indonesia-shine-on-a-global-stage-20210404/

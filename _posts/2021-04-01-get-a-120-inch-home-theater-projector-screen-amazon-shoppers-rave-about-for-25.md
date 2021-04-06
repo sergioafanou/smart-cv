@@ -1,5 +1,5 @@
 ---
-title : Get a 120-inch home theater projector screen Amazon shoppers rave about for $25
+title : "Get a 120-inch home theater projector screen Amazon shoppers rave about for $25"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/01/projector-screen-amazon-prime-best-seller-price-discount/

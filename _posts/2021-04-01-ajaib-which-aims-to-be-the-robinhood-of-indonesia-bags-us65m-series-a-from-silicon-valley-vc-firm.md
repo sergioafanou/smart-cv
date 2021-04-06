@@ -1,5 +1,5 @@
 ---
-title : Ajaib, which aims to be the ‘Robinhood of Indonesia’, bags US$65M Series A from Silicon Valley VC firm
+title : "Ajaib, which aims to be the ‘Robinhood of Indonesia’, bags US$65M Series A from Silicon Valley VC firm"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/ajaib-which-aims-to-be-the-robinhood-of-indonesia-bags-us65m-series-a-from-ribbit-capital-20210329/

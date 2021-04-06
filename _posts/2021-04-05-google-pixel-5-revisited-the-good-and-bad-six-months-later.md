@@ -1,5 +1,5 @@
 ---
-title : Google Pixel 5 revisited: The good and bad six months later
+title : "Google Pixel 5 revisited: The good and bad six months later"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/google-pixel-5-review-revisited-1207814/

@@ -1,5 +1,5 @@
 ---
-title : How to Get a 1-Year Visa to Work Remotely from the United Arab Emirates
+title : "How to Get a 1-Year Visa to Work Remotely from the United Arab Emirates"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://lifehacker.com/how-to-get-a-1-year-visa-to-work-remotely-from-the-unit-1846610980

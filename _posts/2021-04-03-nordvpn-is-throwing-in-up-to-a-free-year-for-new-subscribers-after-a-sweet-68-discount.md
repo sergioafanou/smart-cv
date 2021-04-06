@@ -1,5 +1,5 @@
 ---
-title : NordVPN Is Throwing in Up to a Free Year for New Subscribers After a Sweet 68% Discount
+title : "NordVPN Is Throwing in Up to a Free Year for New Subscribers After a Sweet 68% Discount"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://kinjadeals.theinventory.com/through-the-end-of-the-week-get-an-extra-plan-free-whe-1845517784

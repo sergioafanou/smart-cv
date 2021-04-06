@@ -1,5 +1,5 @@
 ---
-title : From our community: Adobe’s SEA MD on creative leadership, the warung race in Indonesia, and more…
+title : "From our community: Adobe’s SEA MD on creative leadership, the warung race in Indonesia, and more…"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/from-our-community-20210325/

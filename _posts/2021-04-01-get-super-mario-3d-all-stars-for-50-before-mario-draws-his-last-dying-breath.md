@@ -1,5 +1,5 @@
 ---
-title : Get Super Mario 3D All-Stars for $50 Before Mario Draws His Last Dying Breath
+title : "Get Super Mario 3D All-Stars for $50 Before Mario Draws His Last Dying Breath"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://kinjadeals.theinventory.com/get-super-mario-3d-all-stars-for-50-which-is-how-much-1845760663

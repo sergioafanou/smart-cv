@@ -1,5 +1,5 @@
 ---
-title : iOS 14.5 Will Recalibrate iPhone 11 Batteries to Fix Battery Health Bug
+title : "iOS 14.5 Will Recalibrate iPhone 11 Batteries to Fix Battery Health Bug"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/03/31/ios-14-5-iphone-11-battery-recalibration/

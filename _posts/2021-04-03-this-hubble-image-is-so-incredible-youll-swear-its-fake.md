@@ -1,5 +1,5 @@
 ---
-title : This Hubble image is so incredible you’ll swear it’s fake
+title : "This Hubble image is so incredible you’ll swear it’s fake"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/02/hubble-photo-veil-nebula/

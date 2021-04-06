@@ -1,5 +1,5 @@
 ---
-title : How early-stage deep-tech startups can attract and retain the right talent
+title : "How early-stage deep-tech startups can attract and retain the right talent"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/how-can-early-stage-deep-tech-startups-attract-and-retain-the-right-talent-20210324/

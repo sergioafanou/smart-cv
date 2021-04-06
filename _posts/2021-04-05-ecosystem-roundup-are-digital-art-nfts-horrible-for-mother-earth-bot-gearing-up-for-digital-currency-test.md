@@ -1,5 +1,5 @@
 ---
-title : Ecosystem Roundup: Are digital art NFTs horrible for Mother Earth? BoT gearing up for digital currency test
+title : "Ecosystem Roundup: Are digital art NFTs horrible for Mother Earth? BoT gearing up for digital currency test"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/ecosystem-roundup-are-digital-art-nfts-horrible-for-mother-earth-bot-gearing-up-for-digital-currency-test-20210404/

@@ -1,5 +1,5 @@
 ---
-title : You Can Just Use Hair Gel to Get the Instagram Angry Cat Eyebrow
+title : "You Can Just Use Hair Gel to Get the Instagram Angry Cat Eyebrow"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://jezebel.com/you-can-just-use-hair-gel-to-get-the-instagram-angry-ca-1846600062

@@ -1,5 +1,5 @@
 ---
-title : Major AirPods Max Restock Includes Four Colors Available to Ship Today
+title : "Major AirPods Max Restock Includes Four Colors Available to Ship Today"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/01/major-airpods-max-restock/

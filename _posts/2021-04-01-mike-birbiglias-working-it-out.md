@@ -1,5 +1,5 @@
 ---
-title : Mike Birbiglia’s Working It Out
+title : "Mike Birbiglia’s Working It Out"
 layout: post
 tags: tutorial labnol
 post_inspiration: http://podgallery.org/mike-birbiglias-working-it-out/

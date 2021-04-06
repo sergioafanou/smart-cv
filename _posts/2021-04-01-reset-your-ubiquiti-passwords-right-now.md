@@ -1,5 +1,5 @@
 ---
-title : Reset Your Ubiquiti Passwords Right Now
+title : "Reset Your Ubiquiti Passwords Right Now"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://lifehacker.com/reset-your-ubiquiti-passwords-right-now-1846598381

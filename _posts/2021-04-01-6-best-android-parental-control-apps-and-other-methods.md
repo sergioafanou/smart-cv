@@ -1,5 +1,5 @@
 ---
-title : 6 best Android parental control apps and other methods
+title : "6 best Android parental control apps and other methods"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/best-parental-control-apps-android-1133716/

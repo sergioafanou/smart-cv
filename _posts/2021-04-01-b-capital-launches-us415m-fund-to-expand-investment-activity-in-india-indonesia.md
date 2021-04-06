@@ -1,5 +1,5 @@
 ---
-title : B Capital launches US$415M fund; to expand investment activity in India, Indonesia
+title : "B Capital launches US$415M fund; to expand investment activity in India, Indonesia"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/b-capital-launches-us415m-fund-to-expand-investment-activity-in-india-indonesia-20210401/

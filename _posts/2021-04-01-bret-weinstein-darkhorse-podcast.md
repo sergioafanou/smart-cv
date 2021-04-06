@@ -1,5 +1,5 @@
 ---
-title : Bret Weinstein | DarkHorse Podcast
+title : "Bret Weinstein | DarkHorse Podcast"
 layout: post
 tags: tutorial labnol
 post_inspiration: http://podgallery.org/bret-weinstein-darkhorse-podcast/

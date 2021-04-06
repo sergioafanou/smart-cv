@@ -1,5 +1,5 @@
 ---
-title : ‘There’s no one-size-fits-all for corporate innovation, experimentation is key’: Sunway Group’s innovation chief
+title : "‘There’s no one-size-fits-all for corporate innovation, experimentation is key’: Sunway Group’s innovation chief"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/theres-no-one-size-fits-all-for-corporate-innovation-experimentation-is-key-sunway-groups-innovation-chief-20210326/

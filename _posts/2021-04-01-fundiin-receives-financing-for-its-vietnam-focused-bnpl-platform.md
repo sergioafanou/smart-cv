@@ -1,5 +1,5 @@
 ---
-title : Fundiin receives financing for its Vietnam-focused BNPL platform
+title : "Fundiin receives financing for its Vietnam-focused BNPL platform"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/fundiin-receives-financing-for-its-vietnam-focused-bnpl-platform-20210331/

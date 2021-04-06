@@ -1,5 +1,5 @@
 ---
-title : Tazapay lands US$1.75M more for its digital escrow that helps reduce SMEs’ risk in cross-border transactions
+title : "Tazapay lands US$1.75M more for its digital escrow that helps reduce SMEs’ risk in cross-border transactions"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/singapore-tazapay-raises-us1-75m-sequoia-india-saison-capital-20210330/

@@ -1,5 +1,5 @@
 ---
-title : Report: Google Pixel 6 might really have its own silicon codenamed ‘Whitechapel’
+title : "Report: Google Pixel 6 might really have its own silicon codenamed ‘Whitechapel’"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/google-pixel-6-whitechapel-1214847/

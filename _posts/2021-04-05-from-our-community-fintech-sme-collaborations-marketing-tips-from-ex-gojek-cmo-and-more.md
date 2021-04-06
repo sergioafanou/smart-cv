@@ -1,5 +1,5 @@
 ---
-title : From our community: Fintech-SME collaborations, marketing tips from ex-Gojek CMO and more….
+title : "From our community: Fintech-SME collaborations, marketing tips from ex-Gojek CMO and more…."
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/from-our-community-20210401/

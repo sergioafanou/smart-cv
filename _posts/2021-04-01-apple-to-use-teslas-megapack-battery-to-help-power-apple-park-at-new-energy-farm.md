@@ -1,5 +1,5 @@
 ---
-title : Apple to Use Tesla's 'Megapack' Battery to Help Power Apple Park at New Energy Farm
+title : "Apple to Use Tesla's 'Megapack' Battery to Help Power Apple Park at New Energy Farm"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/01/apple-tesla-battery-pack-new-energy-farm/

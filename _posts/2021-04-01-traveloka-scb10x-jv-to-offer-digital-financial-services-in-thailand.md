@@ -1,5 +1,5 @@
 ---
-title : Traveloka-SCB10X JV to offer digital financial services in Thailand
+title : "Traveloka-SCB10X JV to offer digital financial services in Thailand"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/traveloka-scb10x-jv-to-offer-digital-financial-services-in-thailand-20210326/

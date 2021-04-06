@@ -1,5 +1,5 @@
 ---
-title : How to Make Money from Porn, Beyond OnlyFans
+title : "How to Make Money from Porn, Beyond OnlyFans"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://lifehacker.com/how-to-make-money-for-porn-beyond-onlyfans-1846605493

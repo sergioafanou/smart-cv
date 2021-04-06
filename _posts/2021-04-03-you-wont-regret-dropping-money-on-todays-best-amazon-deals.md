@@ -1,5 +1,5 @@
 ---
-title : You Won't Regret Dropping Money on Today’s Best Amazon Deals
+title : "You Won't Regret Dropping Money on Today’s Best Amazon Deals"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://roundups.theinventory.com/best-amazon-deals-1846034805

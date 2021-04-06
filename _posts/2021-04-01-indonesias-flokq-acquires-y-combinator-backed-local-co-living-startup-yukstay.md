@@ -1,5 +1,5 @@
 ---
-title : Indonesia’s Flokq acquires Y Combinator-backed local co-living startup Yukstay
+title : "Indonesia’s Flokq acquires Y Combinator-backed local co-living startup Yukstay"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/indonesias-flokq-acquires-y-combinator-backed-local-co-living-startup-yukstay-20210325/

@@ -1,5 +1,5 @@
 ---
-title : How e-KYC aggregators are the future players in the data supplier market
+title : "How e-KYC aggregators are the future players in the data supplier market"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/how-e-kyc-aggregators-are-the-future-players-in-the-data-supplier-market-20210329/

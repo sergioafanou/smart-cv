@@ -1,5 +1,5 @@
 ---
-title : 6 things we want to see from the Asus Zenfone 8 series
+title : "6 things we want to see from the Asus Zenfone 8 series"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/asus-zenfone-8-1213452/

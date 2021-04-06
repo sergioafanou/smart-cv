@@ -1,5 +1,5 @@
 ---
-title : The best Boost Mobile deals: Save $300 on Galaxy S20 FE, and more
+title : "The best Boost Mobile deals: Save $300 on Galaxy S20 FE, and more"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/best-boost-mobile-deals-839972/

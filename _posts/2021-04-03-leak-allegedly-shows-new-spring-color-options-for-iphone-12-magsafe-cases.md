@@ -1,5 +1,5 @@
 ---
-title : Leak Allegedly Shows New Spring Color Options for iPhone 12 MagSafe Cases
+title : "Leak Allegedly Shows New Spring Color Options for iPhone 12 MagSafe Cases"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/02/iphone-12-magesafe-case-spring-colors/

@@ -1,5 +1,5 @@
 ---
-title : Deal: Get Hulu for free when you sign up for ESPN Plus and Disney Plus
+title : "Deal: Get Hulu for free when you sign up for ESPN Plus and Disney Plus"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/espn-plus-disney-plus-hulu-bundle-1188037/

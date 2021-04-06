@@ -1,5 +1,5 @@
 ---
-title : Can fintech partnerships solve the challenges of micro and small businesses?
+title : "Can fintech partnerships solve the challenges of micro and small businesses?"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/can-fintech-partnerships-solve-the-challenges-of-micro-and-small-businesses-20210331/

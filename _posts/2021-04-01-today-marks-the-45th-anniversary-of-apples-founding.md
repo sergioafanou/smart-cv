@@ -1,5 +1,5 @@
 ---
-title : Today Marks the 45th Anniversary of Apple's Founding
+title : "Today Marks the 45th Anniversary of Apple's Founding"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/01/apple-turns-45/

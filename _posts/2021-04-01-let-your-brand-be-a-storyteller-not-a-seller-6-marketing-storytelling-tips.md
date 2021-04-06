@@ -1,5 +1,5 @@
 ---
-title : Let your brand be a storyteller, not a seller: 6 marketing storytelling tips
+title : "Let your brand be a storyteller, not a seller: 6 marketing storytelling tips"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/let-your-brand-be-a-storyteller-not-a-seller-6-marketing-storytelling-tips-20210330/

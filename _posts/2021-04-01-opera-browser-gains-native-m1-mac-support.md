@@ -1,5 +1,5 @@
 ---
-title : Opera Browser Gains Native M1 Mac Support
+title : "Opera Browser Gains Native M1 Mac Support"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/01/opera-browser-m1-mac-support/

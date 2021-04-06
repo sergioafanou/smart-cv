@@ -1,5 +1,5 @@
 ---
-title : This is the most exciting Pixel 6 rumor of 2021 so far
+title : "This is the most exciting Pixel 6 rumor of 2021 so far"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/02/pixel-6-specs-rumors-google-whitechapel-processor/

@@ -1,5 +1,5 @@
 ---
-title : New Oxygen OS update for OnePlus 9 series has tons of fixes, March patch
+title : "New Oxygen OS update for OnePlus 9 series has tons of fixes, March patch"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/oneplus-9-update-1212009/

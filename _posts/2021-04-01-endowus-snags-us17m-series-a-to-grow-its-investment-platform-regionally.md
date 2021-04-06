@@ -1,5 +1,5 @@
 ---
-title : Endowus snags US$17M Series A to grow its investment platform regionally
+title : "Endowus snags US$17M Series A to grow its investment platform regionally"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/endowus-snags-us17m-series-a-to-grow-its-investment-platform-regionally-20210401/

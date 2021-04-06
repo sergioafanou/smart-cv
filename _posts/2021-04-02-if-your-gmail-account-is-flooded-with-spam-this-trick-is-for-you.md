@@ -1,5 +1,5 @@
 ---
-title : If your Gmail account is flooded with spam, this trick is for you
+title : "If your Gmail account is flooded with spam, this trick is for you"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/01/gmail-account-trick-to-figure-out-whos-spamming-you-selling-your-data/

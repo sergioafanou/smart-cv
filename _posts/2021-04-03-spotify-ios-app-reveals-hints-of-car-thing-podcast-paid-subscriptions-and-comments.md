@@ -1,5 +1,5 @@
 ---
-title : Spotify iOS App Reveals Hints of 'Car Thing,' Podcast Paid Subscriptions and Comments
+title : "Spotify iOS App Reveals Hints of 'Car Thing,' Podcast Paid Subscriptions and Comments"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/02/spotify-ios-app-car-thing-images/

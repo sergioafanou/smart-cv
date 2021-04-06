@@ -1,5 +1,5 @@
 ---
-title : How to Grow Ginger at Home
+title : "How to Grow Ginger at Home"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://lifehacker.com/how-to-grow-ginger-at-home-1846610175

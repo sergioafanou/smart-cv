@@ -1,5 +1,5 @@
 ---
-title : #dltledgers lands US$7M Series A to grow its blockchain-based cross-border trade digitisation platform
+title : "#dltledgers lands US$7M Series A to grow its blockchain-based cross-border trade digitisation platform"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/dltledgers-lands-us7m-series-a-to-grow-its-blockchain-based-cross-border-trade-digitisation-platform-20210325/

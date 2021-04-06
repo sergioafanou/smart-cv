@@ -1,5 +1,5 @@
 ---
-title : Control four different devices with one $24 Alexa-enabled smart power strip
+title : "Control four different devices with one $24 Alexa-enabled smart power strip"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/01/alexa-smart-plug-power-strip-on-amazon/

@@ -1,5 +1,5 @@
 ---
-title : How to opt out of Chrome’s user tracking tool that replaces cookies
+title : "How to opt out of Chrome’s user tracking tool that replaces cookies"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/01/chrome-user-tracking-how-to-opt-out-floc/

@@ -1,5 +1,5 @@
 ---
-title : How to Easily Manage All Your Subscriptions on iOS and Android
+title : "How to Easily Manage All Your Subscriptions on iOS and Android"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://lifehacker.com/how-to-easily-manage-all-your-subscriptions-on-ios-and-1846605754

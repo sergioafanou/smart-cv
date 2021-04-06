@@ -1,5 +1,5 @@
 ---
-title : We asked, you told us: The Xiaomi Mi 11 Ultra is hot even at $1,400
+title : "We asked, you told us: The Xiaomi Mi 11 Ultra is hot even at $1,400"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/mi-11-ultra-global-poll-results-1214253/

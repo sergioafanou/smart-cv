@@ -1,5 +1,5 @@
 ---
-title : It’s official! LG is closing down its smartphone business worldwide
+title : "It’s official! LG is closing down its smartphone business worldwide"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/lg-smartphone-shutdown-1214995/

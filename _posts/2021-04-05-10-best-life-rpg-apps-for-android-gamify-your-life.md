@@ -1,5 +1,5 @@
 ---
-title : 10 best life RPG apps for Android: Gamify your life
+title : "10 best life RPG apps for Android: Gamify your life"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/best-life-rpg-apps-1037041/

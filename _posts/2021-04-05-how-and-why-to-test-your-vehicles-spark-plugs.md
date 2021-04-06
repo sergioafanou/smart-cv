@@ -1,5 +1,5 @@
 ---
-title : How and Why to Test Your Vehicle's Spark Plugs
+title : "How and Why to Test Your Vehicle's Spark Plugs"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://lifehacker.com/how-and-why-to-test-your-vehicles-spark-plugs-1846611390

@@ -1,5 +1,5 @@
 ---
-title : Missing in Alaska
+title : "Missing in Alaska"
 layout: post
 tags: tutorial labnol
 post_inspiration: http://podgallery.org/missing-in-alaska/

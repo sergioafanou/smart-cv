@@ -1,5 +1,5 @@
 ---
-title : LG rumored to announce that it will shut down its smartphone business
+title : "LG rumored to announce that it will shut down its smartphone business"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/01/lg-smartphone-business-exit-rumored/

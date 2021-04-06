@@ -1,5 +1,5 @@
 ---
-title : What Happens to Your Eyes When You Stare at Screens All Day
+title : "What Happens to Your Eyes When You Stare at Screens All Day"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://vitals.lifehacker.com/what-happens-to-your-eyes-when-you-stare-at-screens-all-1846593909

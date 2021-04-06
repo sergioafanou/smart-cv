@@ -1,5 +1,5 @@
 ---
-title : There will be a Galaxy S21 Ultra reality TV show on Hulu. Yes, seriously.
+title : "There will be a Galaxy S21 Ultra reality TV show on Hulu. Yes, seriously."
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/exposure-hulu-1214920/

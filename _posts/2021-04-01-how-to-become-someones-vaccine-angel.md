@@ -1,5 +1,5 @@
 ---
-title : How to Become Someone's 'Vaccine Angel'
+title : "How to Become Someone's 'Vaccine Angel'"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://lifehacker.com/how-to-become-someones-vaccine-angel-1846598600

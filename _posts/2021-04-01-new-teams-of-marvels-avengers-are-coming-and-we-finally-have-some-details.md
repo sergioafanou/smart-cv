@@ -1,5 +1,5 @@
 ---
-title : New teams of Marvel’s Avengers are coming, and we finally have some details
+title : "New teams of Marvel’s Avengers are coming, and we finally have some details"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/01/avengers-5-rumors-young-dark-west-coast-avengers-mcu-stories/

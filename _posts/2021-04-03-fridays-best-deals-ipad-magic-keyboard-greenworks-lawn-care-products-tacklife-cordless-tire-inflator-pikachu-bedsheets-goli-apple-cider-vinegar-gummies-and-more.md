@@ -1,5 +1,5 @@
 ---
-title : Friday's Best Deals: iPad Magic Keyboard, Greenworks Lawn Care Products, Tacklife Cordless Tire Inflator, Pikachu Bedsheets, Goli Apple Cider Vinegar Gummies, and More
+title : "Friday's Best Deals: iPad Magic Keyboard, Greenworks Lawn Care Products, Tacklife Cordless Tire Inflator, Pikachu Bedsheets, Goli Apple Cider Vinegar Gummies, and More"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://kinjadeals.theinventory.com/fridays-best-deals-august-wi-fi-smart-lock-kyoku-dama-1846604487

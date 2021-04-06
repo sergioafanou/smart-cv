@@ -1,5 +1,5 @@
 ---
-title : The power of psychology in business with Jenny Gustafson
+title : "The power of psychology in business with Jenny Gustafson"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/the-power-of-psychology-in-business-with-jenny-gustafson-20210326/

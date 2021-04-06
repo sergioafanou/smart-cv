@@ -1,5 +1,5 @@
 ---
-title : Ex-gojek CMO Piotr Jakubowski reveals the 3 things that marketers should stop doing today
+title : "Ex-gojek CMO Piotr Jakubowski reveals the 3 things that marketers should stop doing today"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/what-marketers-should-not-do-lessons-from-ex-gojek-cmo-piotr-jakubowski-20210326/

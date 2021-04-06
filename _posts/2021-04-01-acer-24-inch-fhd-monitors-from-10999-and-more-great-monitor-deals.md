@@ -1,5 +1,5 @@
 ---
-title : Acer 24-inch FHD monitors from $109.99, and more great monitor deals
+title : "Acer 24-inch FHD monitors from $109.99, and more great monitor deals"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/best-monitor-deals-1114996/

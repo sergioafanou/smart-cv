@@ -1,5 +1,5 @@
 ---
-title : Five Good Settings To Tweak In Outriders
+title : "Five Good Settings To Tweak In Outriders"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://kotaku.com/five-good-settings-to-tweak-in-outriders-1846601523

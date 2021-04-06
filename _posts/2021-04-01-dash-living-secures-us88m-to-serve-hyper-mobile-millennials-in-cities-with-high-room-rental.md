@@ -1,5 +1,5 @@
 ---
-title : Dash Living secures US$8.8M+ to serve hyper-mobile millennials in cities with high room rental
+title : "Dash Living secures US$8.8M+ to serve hyper-mobile millennials in cities with high room rental"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/dash-living-raises-us8-8m-series-a-grosvenor-gobi-20210330/

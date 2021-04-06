@@ -1,5 +1,5 @@
 ---
-title : Casio finally brings Wear OS to its G-Shock line (Update: Hoo boy, it’s pricey)
+title : "Casio finally brings Wear OS to its G-Shock line (Update: Hoo boy, it’s pricey)"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/casio-wear-os-1214313/

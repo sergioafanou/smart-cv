@@ -1,5 +1,5 @@
 ---
-title : How to Kill Fruit Flies and Their Lookalikes
+title : "How to Kill Fruit Flies and Their Lookalikes"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://lifehacker.com/how-to-kill-fruit-flies-and-their-lookalikes-1846592792

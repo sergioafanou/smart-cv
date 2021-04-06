@@ -1,5 +1,5 @@
 ---
-title : Tim Cook in Memo to Employees: 'There Has Never Been a Moment of Such Great Potential As This One'
+title : "Tim Cook in Memo to Employees: 'There Has Never Been a Moment of Such Great Potential As This One'"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/01/tim-cook-45th-anniversary-memo/

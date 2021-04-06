@@ -1,5 +1,5 @@
 ---
-title : We asked, you told us: You’re on the fence about water resistance on flagships
+title : "We asked, you told us: You’re on the fence about water resistance on flagships"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/water-resistance-flagships-poll-results-1214644/

@@ -1,5 +1,5 @@
 ---
-title : Add a Little Maple Syrup to Your Scotch
+title : "Add a Little Maple Syrup to Your Scotch"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://skillet.lifehacker.com/add-a-little-maple-syrup-to-your-scotch-1846601906

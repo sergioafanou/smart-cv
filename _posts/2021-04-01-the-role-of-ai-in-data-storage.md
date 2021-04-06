@@ -1,5 +1,5 @@
 ---
-title : The Role of AI in Data Storage
+title : "The Role of AI in Data Storage"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://gigaom.com/2021/02/19/the-role-of-ai-in-data-storage/

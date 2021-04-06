@@ -1,5 +1,5 @@
 ---
-title : UI-licious bags US$1.5M pre-Series A to grow its UI test automation platform
+title : "UI-licious bags US$1.5M pre-Series A to grow its UI test automation platform"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/ui-licious-bags-us1-5m-pre-series-a-to-expand-ui-test-automation-platform-20210324/

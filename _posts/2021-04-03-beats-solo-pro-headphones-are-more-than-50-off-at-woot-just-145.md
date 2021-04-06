@@ -1,5 +1,5 @@
 ---
-title : Beats Solo Pro Headphones Are More Than 50% off at Woot, Just $145
+title : "Beats Solo Pro Headphones Are More Than 50% off at Woot, Just $145"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://kinjadeals.theinventory.com/three-vibrant-variations-of-beats-solo-pro-headphones-a-1845115086

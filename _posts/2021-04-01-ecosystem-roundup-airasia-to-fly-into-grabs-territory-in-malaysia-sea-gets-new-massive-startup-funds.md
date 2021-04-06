@@ -1,5 +1,5 @@
 ---
-title : Ecosystem Roundup: AirAsia to fly into Grab’s territory in Malaysia; SEA gets new massive startup funds
+title : "Ecosystem Roundup: AirAsia to fly into Grab’s territory in Malaysia; SEA gets new massive startup funds"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/ecosystem-roundup-airasia-looks-to-grab-a-piece-of-ride-hailing-pie-in-malaysia-the-sg-talent-crunch-report-20210401/

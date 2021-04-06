@@ -1,5 +1,5 @@
 ---
-title : Keen to learn from Experts? Then the e27 Experts Program might be for you
+title : "Keen to learn from Experts? Then the e27 Experts Program might be for you"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/keen-to-learn-from-experts-then-the-e27-experts-program-might-be-for-you-20210403/

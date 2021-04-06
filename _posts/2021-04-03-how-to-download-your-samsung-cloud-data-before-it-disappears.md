@@ -1,5 +1,5 @@
 ---
-title : How to Download Your Samsung Cloud Data Before It Disappears
+title : "How to Download Your Samsung Cloud Data Before It Disappears"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://lifehacker.com/how-to-download-your-samsung-cloud-data-before-it-disap-1846609177

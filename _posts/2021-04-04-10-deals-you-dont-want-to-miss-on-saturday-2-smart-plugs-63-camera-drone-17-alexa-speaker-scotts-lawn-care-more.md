@@ -1,5 +1,5 @@
 ---
-title : 10 deals you don’t want to miss on Saturday: $2 smart plugs, $63 camera drone, $17 Alexa speaker, Scotts lawn care, more
+title : "10 deals you don’t want to miss on Saturday: $2 smart plugs, $63 camera drone, $17 Alexa speaker, Scotts lawn care, more"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/03/amazon-deals-of-the-day-on-apr-3-2021/

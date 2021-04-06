@@ -1,5 +1,5 @@
 ---
-title : TuringCerts combats fraud with blockchain-powered certificate validation
+title : "TuringCerts combats fraud with blockchain-powered certificate validation"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/turingcerts-combats-fraud-with-blockchain-powered-certificate-validation-20210330/

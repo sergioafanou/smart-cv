@@ -1,5 +1,5 @@
 ---
-title : NASA is dumping dirt on its InSight lander on purpose
+title : "NASA is dumping dirt on its InSight lander on purpose"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/01/mars-insight-lander-troubles/

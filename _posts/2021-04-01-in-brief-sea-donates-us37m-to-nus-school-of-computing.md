@@ -1,5 +1,5 @@
 ---
-title : In brief: Sea donates US$37M to NUS School of Computing
+title : "In brief: Sea donates US$37M to NUS School of Computing"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/in-brief-sea-gifts-us37m-to-nus-school-of-computing-20210329/

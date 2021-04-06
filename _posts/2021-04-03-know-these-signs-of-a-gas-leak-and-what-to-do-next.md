@@ -1,5 +1,5 @@
 ---
-title : Know These Signs of a Gas Leak, and What to Do Next
+title : "Know These Signs of a Gas Leak, and What to Do Next"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://lifehacker.com/know-these-signs-of-a-gas-leak-and-what-to-do-next-1846604497

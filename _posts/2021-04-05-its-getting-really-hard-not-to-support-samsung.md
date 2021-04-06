@@ -1,5 +1,5 @@
 ---
-title : It’s getting really hard not to support Samsung
+title : "It’s getting really hard not to support Samsung"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/samsung-phones-2021-1214703/

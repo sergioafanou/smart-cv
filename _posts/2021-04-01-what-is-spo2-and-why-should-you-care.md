@@ -1,5 +1,5 @@
 ---
-title : What is SpO2? And why should you care?
+title : "What is SpO2? And why should you care?"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/spo2-1211078/

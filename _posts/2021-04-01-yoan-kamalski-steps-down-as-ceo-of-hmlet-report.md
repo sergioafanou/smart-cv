@@ -1,5 +1,5 @@
 ---
-title : Yoan Kamalski steps down as CEO of Hmlet: Report
+title : "Yoan Kamalski steps down as CEO of Hmlet: Report"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/yoan-kamalski-steps-down-as-ceo-of-hmlet-report-20210326/

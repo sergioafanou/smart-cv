@@ -1,5 +1,5 @@
 ---
-title : Please, please stop making video calls while driving
+title : "Please, please stop making video calls while driving"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/smartphone-car-safety-1214798/

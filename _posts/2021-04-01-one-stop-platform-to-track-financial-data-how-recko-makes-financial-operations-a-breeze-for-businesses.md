@@ -1,5 +1,5 @@
 ---
-title : One-stop platform to track financial data: How Recko makes financial operations a breeze for businesses
+title : "One-stop platform to track financial data: How Recko makes financial operations a breeze for businesses"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/one-stop-platform-to-track-financial-data-how-recko-makes-financial-operations-a-breeze-for-businesses-20210326/

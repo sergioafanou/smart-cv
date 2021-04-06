@@ -1,5 +1,5 @@
 ---
-title : The internet is in an uproar over this dumb ‘Wheel of Fortune’ rule
+title : "The internet is in an uproar over this dumb ‘Wheel of Fortune’ rule"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/03/wheel-of-fortune-fans-angry-about-contestant-loss-over-technicality/

@@ -1,5 +1,5 @@
 ---
-title : Teardown reveals OnePlus 9 Pro could be tough to repair if you break it
+title : "Teardown reveals OnePlus 9 Pro could be tough to repair if you break it"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/oneplus-9-pro-repair-1214662/

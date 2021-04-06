@@ -1,5 +1,5 @@
 ---
-title : Apple Now Rejecting App Updates That Defy iOS 14.5 App Tracking Transparency Rules
+title : "Apple Now Rejecting App Updates That Defy iOS 14.5 App Tracking Transparency Rules"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/01/apple-rejecting-app-updates-tracking-transparency/

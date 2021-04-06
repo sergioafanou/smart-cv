@@ -1,5 +1,5 @@
 ---
-title : Comprehensive Observability
+title : "Comprehensive Observability"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://gigaom.com/2021/03/05/comprehensive-observability/

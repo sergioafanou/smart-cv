@@ -1,5 +1,5 @@
 ---
-title : Silence is Not an Option
+title : "Silence is Not an Option"
 layout: post
 tags: tutorial labnol
 post_inspiration: http://podgallery.org/silence-is-not-an-option/

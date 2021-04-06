@@ -1,5 +1,5 @@
 ---
-title : Tesla is now accepting bitcoin. Are crypto payments the future of business?
+title : "Tesla is now accepting bitcoin. Are crypto payments the future of business?"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/tesla-is-now-accepting-bitcoin-are-crypto-payments-the-future-of-business-20210326/

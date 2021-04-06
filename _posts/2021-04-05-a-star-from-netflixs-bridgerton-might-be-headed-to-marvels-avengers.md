@@ -1,5 +1,5 @@
 ---
-title : A star from Netflix’s ‘Bridgerton’ might be headed to Marvel’s Avengers
+title : "A star from Netflix’s ‘Bridgerton’ might be headed to Marvel’s Avengers"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/04/marvel-movies-rumors-black-panther-2-rege-jean-page-bridgerton/

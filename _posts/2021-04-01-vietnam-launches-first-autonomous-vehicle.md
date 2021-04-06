@@ -1,5 +1,5 @@
 ---
-title : Vietnam launches first autonomous vehicle
+title : "Vietnam launches first autonomous vehicle"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/vietnam-launches-first-autonomous-vehicle-20210329/

@@ -1,5 +1,5 @@
 ---
-title : Know Your Right Pillow Type Based on These Sleep Habits
+title : "Know Your Right Pillow Type Based on These Sleep Habits"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://lifehacker.com/know-your-right-pillow-type-based-on-these-sleep-habits-1846604641

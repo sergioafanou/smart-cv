@@ -1,5 +1,5 @@
 ---
-title : Making smart manufacturing a cost-efficient reality for SMEs
+title : "Making smart manufacturing a cost-efficient reality for SMEs"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/making-smart-manufacturing-a-cost-efficient-reality-for-smes-20210324/

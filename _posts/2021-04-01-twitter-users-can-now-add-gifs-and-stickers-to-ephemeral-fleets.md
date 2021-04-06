@@ -1,5 +1,5 @@
 ---
-title : Twitter Users Can Now Add GIFs and Stickers to Ephemeral 'Fleets'
+title : "Twitter Users Can Now Add GIFs and Stickers to Ephemeral 'Fleets'"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/01/twitter-add-gifs-stickers-to-fleets/

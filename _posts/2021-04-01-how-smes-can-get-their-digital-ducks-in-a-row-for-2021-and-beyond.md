@@ -1,5 +1,5 @@
 ---
-title : How SMEs can get their digital ducks in a row for 2021 and beyond
+title : "How SMEs can get their digital ducks in a row for 2021 and beyond"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/get-your-digital-ducks-in-a-row-for-2021-and-beyond-20210330/

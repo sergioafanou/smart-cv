@@ -1,5 +1,5 @@
 ---
-title : Deals: Apple Accessory Sales Mark Down Magic Keyboards ($100 Off), MagSafe Charger ($5 Off), and More
+title : "Deals: Apple Accessory Sales Mark Down Magic Keyboards ($100 Off), MagSafe Charger ($5 Off), and More"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/02/deals-apple-accessory-sales/

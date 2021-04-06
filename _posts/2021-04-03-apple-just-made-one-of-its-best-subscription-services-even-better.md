@@ -1,5 +1,5 @@
 ---
-title : Apple just made one of its best subscription services even better
+title : "Apple just made one of its best subscription services even better"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/02/apple-arcade-update-new-games-2021/

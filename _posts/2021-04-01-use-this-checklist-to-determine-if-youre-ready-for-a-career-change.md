@@ -1,5 +1,5 @@
 ---
-title : Use This Checklist to Determine If You're Ready for a Career Change
+title : "Use This Checklist to Determine If You're Ready for a Career Change"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://lifehacker.com/use-this-checklist-to-determine-if-youre-ready-for-a-ca-1846593822

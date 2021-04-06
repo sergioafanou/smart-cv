@@ -1,5 +1,5 @@
 ---
-title : Stop Doomscrolling and Read a Book Before Bed Instead With 19% off a Reading Pillow
+title : "Stop Doomscrolling and Read a Book Before Bed Instead With 19% off a Reading Pillow"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://kinjadeals.theinventory.com/stop-doomscrolling-and-read-a-book-before-bed-instead-w-1846611876

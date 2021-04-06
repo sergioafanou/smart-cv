@@ -1,5 +1,5 @@
 ---
-title : Local real estate developer sues Bukalapak for “illegal acts”, seeks US$6.2M compensation
+title : "Local real estate developer sues Bukalapak for “illegal acts”, seeks US$6.2M compensation"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/local-real-estate-developer-sued-bukalapak-for-illegal-acts-seeks-us6-2m-compensation-20210326/

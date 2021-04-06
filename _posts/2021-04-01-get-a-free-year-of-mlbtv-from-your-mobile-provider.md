@@ -1,5 +1,5 @@
 ---
-title : Get a Free Year of MLB.TV From Your Mobile Provider
+title : "Get a Free Year of MLB.TV From Your Mobile Provider"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://lifehacker.com/get-a-free-year-of-mlb-tv-from-your-mobile-provider-1846594602

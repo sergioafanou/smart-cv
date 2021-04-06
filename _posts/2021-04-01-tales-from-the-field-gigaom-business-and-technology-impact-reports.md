@@ -1,5 +1,5 @@
 ---
-title : Tales from the Field: GigaOm Business and Technology Impact Reports
+title : "Tales from the Field: GigaOm Business and Technology Impact Reports"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://gigaom.com/2021/03/23/tales-from-the-field-gigaom-business-and-technology-impact-reports/

@@ -1,5 +1,5 @@
 ---
-title : The Best Special Edition Gaming Consoles, According To Our Readers
+title : "The Best Special Edition Gaming Consoles, According To Our Readers"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://co-op.theinventory.com/best-special-edition-consoles-1846597030

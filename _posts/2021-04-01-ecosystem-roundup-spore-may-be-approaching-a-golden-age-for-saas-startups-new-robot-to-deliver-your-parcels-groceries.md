@@ -1,5 +1,5 @@
 ---
-title : Ecosystem Roundup: S’pore may be approaching a golden age for SaaS startups; New robot to deliver your parcels, groceries
+title : "Ecosystem Roundup: S’pore may be approaching a golden age for SaaS startups; New robot to deliver your parcels, groceries"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/ecosystem-roundup-spore-becoming-mecca-for-saas-startups-new-robot-to-deliver-your-parcels-groceries-20210325/

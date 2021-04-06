@@ -1,5 +1,5 @@
 ---
-title : Testing the Oppo Find X3 Pro's Microscope Camera Lens
+title : "Testing the Oppo Find X3 Pro's Microscope Camera Lens"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/02/oppo-find-microscope-camera-lens/

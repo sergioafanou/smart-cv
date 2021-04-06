@@ -1,5 +1,5 @@
 ---
-title : iPhone Setup Process in Russia Now Includes List of Suggested Russian Developed Apps
+title : "iPhone Setup Process in Russia Now Includes List of Suggested Russian Developed Apps"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/01/iphone-setup-russia-government-approved-apps/

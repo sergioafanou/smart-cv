@@ -1,5 +1,5 @@
 ---
-title : How Long Are Easter Eggs Safe to Eat?
+title : "How Long Are Easter Eggs Safe to Eat?"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://skillet.lifehacker.com/how-long-are-easter-eggs-safe-to-eat-1846593053

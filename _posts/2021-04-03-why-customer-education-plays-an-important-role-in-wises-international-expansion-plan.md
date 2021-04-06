@@ -1,5 +1,5 @@
 ---
-title : Why customer education plays an important role in Wise’s international expansion plan
+title : "Why customer education plays an important role in Wise’s international expansion plan"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/how-wise-plans-their-international-expansion-strategy-20210401/

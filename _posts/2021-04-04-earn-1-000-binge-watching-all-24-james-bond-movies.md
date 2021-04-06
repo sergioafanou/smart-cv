@@ -1,5 +1,5 @@
 ---
-title : Earn $1,000 Binge Watching All 24 James Bond Movies
+title : "Earn $1,000 Binge Watching All 24 James Bond Movies"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://lifehacker.com/earn-1-000-binge-watching-all-24-james-bond-movies-1846611135

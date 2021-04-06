@@ -1,5 +1,5 @@
 ---
-title : Republicans Defeating Trump
+title : "Republicans Defeating Trump"
 layout: post
 tags: tutorial labnol
 post_inspiration: http://podgallery.org/republicans-defeating-trump/

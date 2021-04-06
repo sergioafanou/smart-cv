@@ -1,5 +1,5 @@
 ---
-title : AirAsia aims to fulfill super app ambition with upcoming launch of ride-hailing services in Malaysia
+title : "AirAsia aims to fulfill super app ambition with upcoming launch of ride-hailing services in Malaysia"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/airasia-to-launch-ride-hailing-services-20210330/

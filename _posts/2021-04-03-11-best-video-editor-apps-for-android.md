@@ -1,5 +1,5 @@
 ---
-title : 11 best video editor apps for Android
+title : "11 best video editor apps for Android"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/best-video-editor-apps-android-716248/

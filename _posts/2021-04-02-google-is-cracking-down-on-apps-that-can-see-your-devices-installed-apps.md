@@ -1,5 +1,5 @@
 ---
-title : Google is cracking down on apps that can see your device’s installed apps
+title : "Google is cracking down on apps that can see your device’s installed apps"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/google-android-installed-list-apps-device-1214149/
