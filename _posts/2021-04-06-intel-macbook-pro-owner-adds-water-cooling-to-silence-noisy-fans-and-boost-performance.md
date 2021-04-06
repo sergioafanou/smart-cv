@@ -3,7 +3,7 @@ title : "Intel MacBook Pro Owner Adds Water Cooling to Silence Noisy Fans and Bo
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/02/intel-macbook-pro-owner-adds-water-cooling/
-image: "https://sergio.afanou.com/assets/images/image-midres-4.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-3.jpg"
 ---
 
 An inventive <em>MacRumors</em> forums member has successfully retrofitted a water-cooling system to their 15-inch Intel-based MacBook Pro, thereby eliminating fan noise and boosting performance.
