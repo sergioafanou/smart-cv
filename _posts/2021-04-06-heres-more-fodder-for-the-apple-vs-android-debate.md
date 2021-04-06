@@ -1,5 +1,5 @@
 ---
-title : Here’s more fodder for the Apple vs. Android debate
+title : "Here’s more fodder for the Apple vs. Android debate"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://bgr.com/2021/04/05/apple-vs-android-iphone-users-spent-138-on-apps-in-2020/
