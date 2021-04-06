@@ -3,7 +3,7 @@ title : "Malaysian tech companies making waves in Indonesia, shine on a global s
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/malaysian-tech-companies-making-waves-in-indonesia-shine-on-a-global-stage-20210404/
-image: "https://sergio.afanou.com/assets/images/image-midres-51.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-32.jpg"
 ---
 
 <img loading="lazy" class="size-full wp-image-413058 aligncenter" src="https://e27.co/wp-content/uploads/2021/04/MDEC-GAIN.png" alt="" width="690" height="390" />
