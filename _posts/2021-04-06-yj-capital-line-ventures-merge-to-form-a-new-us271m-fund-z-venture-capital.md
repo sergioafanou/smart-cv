@@ -3,7 +3,7 @@ title : "YJ Capital, LINE Ventures merge to form a new US$271M fund Z Venture Ca
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/yj-capital-line-ventures-merge-to-form-a-new-us271m-fund-20210401/
-image: "https://sergio.afanou.com/assets/images/image-midres-19.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-30.jpg"
 ---
 
 <img loading="lazy" class="size-full wp-image-412874 aligncenter" src="https://e27.co/wp-content/uploads/2021/04/download-2.jpeg" alt="" width="690" height="392" />
