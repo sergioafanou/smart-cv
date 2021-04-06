@@ -1,5 +1,5 @@
 ---
-title : Sideloading Apps Would 'Break' the Security and Privacy of iPhone, Says Tim Cook
+title : "Sideloading Apps Would 'Break' the Security and Privacy of iPhone, Says Tim Cook"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/05/tim-cook-sideloading-apps-would-break-the-iphone/
