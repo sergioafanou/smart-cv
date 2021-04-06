@@ -3,7 +3,7 @@ title : "Apple Reminds Developers About Upcoming App Tracking Transparency Enfor
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/05/app-tracking-transparency-developer-reminder/
-image: "https://sergio.afanou.com/assets/images/image-midres-5.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-8.jpg"
 ---
 
 Apple <a href="https://developer.apple.com/news/?id=8h0btjq7">today reminded developers</a> that its App Tracking Transparency rules will be enforced starting with the launch of iOS 14.5, iPadOS 14.5, and tvOS 14.5.
