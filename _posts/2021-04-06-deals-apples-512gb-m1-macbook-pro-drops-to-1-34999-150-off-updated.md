@@ -1,5 +1,5 @@
 ---
-title : Deals: Apple's 512GB M1 MacBook Pro Drops to $1,349.99 ($150 Off) [Updated]
+title : "Deals: Apple's 512GB M1 MacBook Pro Drops to $1,349.99 ($150 Off) [Updated]"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/05/deals-512gb-m1-macbook-pro/
