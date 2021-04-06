@@ -3,7 +3,7 @@ title : "Traveloka-SCB10X JV to offer digital financial services in Thailand"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/traveloka-scb10x-jv-to-offer-digital-financial-services-in-thailand-20210326/
-image: "https://sergio.afanou.com/assets/images/image-midres-34.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-46.jpg"
 ---
 
 <img loading="lazy" class="aligncenter size-full wp-image-381728" src="https://e27.co/wp-content/uploads/2020/12/Traveloka_travel_COVID-19.jpeg" alt="Traveloka" width="688" height="390" />
