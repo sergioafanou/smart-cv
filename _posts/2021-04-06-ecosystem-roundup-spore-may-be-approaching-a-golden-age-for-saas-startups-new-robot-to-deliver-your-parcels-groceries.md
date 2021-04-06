@@ -3,7 +3,7 @@ title : "Ecosystem Roundup: S’pore may be approaching a golden age for SaaS st
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/ecosystem-roundup-spore-becoming-mecca-for-saas-startups-new-robot-to-deliver-your-parcels-groceries-20210325/
-image: "https://sergio.afanou.com/assets/images/image-midres-20.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-11.jpg"
 ---
 
 <img loading="lazy" class="aligncenter size-full wp-image-411001" src="https://e27.co/wp-content/uploads/2021/03/OTSAW_robot_1.png" alt="" width="690" height="390" />
