@@ -1,5 +1,5 @@
 ---
-title : The Out-of-Touch Adults' Guide To Kid Culture: Who Is Lil Nas X?
+title : "The Out-of-Touch Adults' Guide To Kid Culture: Who Is Lil Nas X?"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-li-1846610631
