@@ -1,5 +1,5 @@
 ---
-title : How to Soundproof Noisy Windows so You Can Get Some Damn Sleep
+title : "How to Soundproof Noisy Windows so You Can Get Some Damn Sleep"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://lifehacker.com/how-to-soundproof-noisy-windows-1845726560
