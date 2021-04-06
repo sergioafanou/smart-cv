@@ -3,7 +3,7 @@ title : "Apple Releases Safari Technology Preview 123 With Bug Fixes and Perform
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/03/31/apple-releases-safari-technology-preview-123/
-image: "https://sergio.afanou.com/assets/images/image-midres-48.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-11.jpg"
 ---
 
 Apple today <a href="https://developer.apple.com/safari/download/">released a new update</a> for <a href="https://www.macrumors.com/guide/safari-technology-preview/">Safari Technology Preview</a>, the experimental browser Apple <a href="http://www.macrumors.com/2016/03/30/apple-safari-technology-preview-browser/">first introduced</a> in March 2016. Apple designed the &zwnj;Safari Technology Preview&zwnj; to test features that may be introduced into future release versions of Safari.
