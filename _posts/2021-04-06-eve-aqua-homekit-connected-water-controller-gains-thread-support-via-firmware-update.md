@@ -3,7 +3,7 @@ title : "Eve Aqua HomeKit-Connected Water Controller Gains Thread Support via Fi
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/01/eve-aqua-thread-firmware-update/
-image: "https://sergio.afanou.com/assets/images/image-midres-31.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-30.jpg"
 ---
 
 Eve today announced the availability of Thread support for the <a href="https://www.evehome.com/en-us/eve-aqua">second-generation Eve Aqua</a>, which is now available through an Eve Aqua firmware update.
