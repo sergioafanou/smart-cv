@@ -3,7 +3,7 @@ title : "Nimbly enables firms to manage and evaluate biz ops ‘effortlessly’,
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/nimbly-enables-firms-to-manage-and-evaluate-biz-ops-effortlessly-raises-us4-6m-pre-series-a-20210330/
-image: "https://sergio.afanou.com/assets/images/image-midres-21.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-43.jpg"
 ---
 
 <img loading="lazy" class="aligncenter size-full wp-image-412574" src="https://e27.co/wp-content/uploads/2021/03/IMG_4555-1.jpg" alt="Nimbly" width="690" height="390" />
