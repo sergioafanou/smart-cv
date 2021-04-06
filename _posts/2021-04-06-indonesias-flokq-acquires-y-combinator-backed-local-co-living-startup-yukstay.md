@@ -3,7 +3,7 @@ title : "Indonesia’s Flokq acquires Y Combinator-backed local co-living startu
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/indonesias-flokq-acquires-y-combinator-backed-local-co-living-startup-yukstay-20210325/
-image: "https://sergio.afanou.com/assets/images/image-midres-45.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-21.jpg"
 ---
 
 <div id="attachment_411016" style="width: 703px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-411016" loading="lazy" class="size-full wp-image-411016" src="https://e27.co/wp-content/uploads/2021/03/flokq.commmunity.jpeg" alt="" width="693" height="390" /><p id="caption-attachment-411016" class="wp-caption-text">Flokq community</p></div>
