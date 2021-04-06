@@ -3,7 +3,7 @@ title : "Credible Leaker Says New iMac to Feature 'Really Big' Display Larger Th
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/03/imac-big-display-leak/
-image: "https://sergio.afanou.com/assets/images/image-midres-27.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-4.jpg"
 ---
 
 Credible leaker <a href="https://twitter.com/l0vetodream">l0vetodream</a> today endorsed widespread speculation that one of the newly redesigned iMacs, expected to launch sometime this year, will feature a larger display than the current largest offering in the <a href="https://www.macrumors.com/roundup/imac/">iMac</a> lineup.
