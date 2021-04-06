@@ -3,7 +3,7 @@ title : "Logitech Plus Trip review: Tiny, efficient, and affordable car phone mo
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/logitech-plus-trip-review-1212304/
-image: "https://sergio.afanou.com/assets/images/image-midres-45.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-46.jpg"
 ---
 
 <p><html><body></p>
