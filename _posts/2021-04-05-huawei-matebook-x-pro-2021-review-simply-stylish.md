@@ -1,5 +1,5 @@
 ---
-title : Huawei MateBook X Pro (2021) review: Simply stylish
+title : "Huawei MateBook X Pro (2021) review: Simply stylish"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/huawei-matebook-x-pro-2021-review-1211991/
