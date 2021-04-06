@@ -3,7 +3,7 @@ title : "#dltledgers lands US$7M Series A to grow its blockchain-based cross-bor
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/dltledgers-lands-us7m-series-a-to-grow-its-blockchain-based-cross-border-trade-digitisation-platform-20210325/
-image: "https://sergio.afanou.com/assets/images/image-midres-43.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-8.jpg"
 ---
 
 <div id="attachment_316080" style="width: 697px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-316080" loading="lazy" class="size-full wp-image-316080" src="https://e27.co/wp-content/uploads/2020/07/dtledgers_founder_Samir_Neji.png" alt="" width="687" height="392" /><p id="caption-attachment-316080" class="wp-caption-text">#dltledgers founder and CEO Samir Neji</p></div>
