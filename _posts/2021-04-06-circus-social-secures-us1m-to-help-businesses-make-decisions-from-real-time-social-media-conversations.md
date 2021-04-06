@@ -3,7 +3,7 @@ title : "Circus Social secures US$1M to help businesses make decisions from real
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/social-media-analytics-startup-circus-social-raises-us1m-pre-series-from-ipv-20210405/
-image: "https://sergio.afanou.com/assets/images/image-midres-13.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-6.jpg"
 ---
 
 <img loading="lazy" class="size-full wp-image-413204 aligncenter" src="https://e27.co/wp-content/uploads/2021/04/Circus-Social-1.jpeg" alt="" width="689" height="391" />
