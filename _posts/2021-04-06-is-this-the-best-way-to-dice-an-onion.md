@@ -1,5 +1,5 @@
 ---
-title : Is This the Best Way to Dice an Onion?
+title : "Is This the Best Way to Dice an Onion?"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://skillet.lifehacker.com/is-this-the-best-way-to-dice-an-onion-1846607647
