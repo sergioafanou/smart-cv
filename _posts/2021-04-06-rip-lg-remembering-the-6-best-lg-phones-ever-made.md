@@ -1,5 +1,5 @@
 ---
-title : RIP LG: Remembering the 6 best LG phones ever made
+title : "RIP LG: Remembering the 6 best LG phones ever made"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.androidauthority.com/best-lg-phones-ever-1214650/
