@@ -3,7 +3,7 @@ title : "Can fintech partnerships solve the challenges of micro and small busine
 layout: post
 tags: tutorial labnol
 post_inspiration: https://e27.co/can-fintech-partnerships-solve-the-challenges-of-micro-and-small-businesses-20210331/
-image: "https://sergio.afanou.com/assets/images/image-midres-9.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-51.jpg"
 ---
 
 <img loading="lazy" class="aligncenter size-full wp-image-412827" src="https://e27.co/wp-content/uploads/2021/04/micro_business_fintech.jpg" alt="" width="690" height="390" />
