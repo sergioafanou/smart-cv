@@ -3,7 +3,7 @@ title : "Testing the Oppo Find X3 Pro's Microscope Camera Lens"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/02/oppo-find-microscope-camera-lens/
-image: "https://sergio.afanou.com/assets/images/image-midres-10.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-52.jpg"
 ---
 
 <em>MacRumors</em> is an Apple-focused site, but sometimes we like to share notable new features that Apple's competitors add to their devices, as a look at what Apple might explore in the future and just to keep tabs on what other companies are up to. Oppo recently released a smartphone with a microscope lens, and we thought it would be fun to check it out and see how it works in our latest YouTube video.
