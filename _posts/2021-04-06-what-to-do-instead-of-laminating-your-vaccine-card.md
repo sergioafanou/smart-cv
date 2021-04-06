@@ -1,5 +1,5 @@
 ---
-title : What to Do Instead of Laminating Your Vaccine Card
+title : "What to Do Instead of Laminating Your Vaccine Card"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://vitals.lifehacker.com/what-to-do-instead-of-laminating-your-vaccine-card-1846619729
