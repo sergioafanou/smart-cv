@@ -3,7 +3,7 @@ title : "Major AirPods Max Restock Includes Four Colors Available to Ship Today"
 layout: post
 tags: tutorial labnol
 post_inspiration: https://www.macrumors.com/2021/04/01/major-airpods-max-restock/
-image: "https://sergio.afanou.com/assets/images/image-midres-21.jpg"
+image: "https://sergio.afanou.com/assets/images/image-midres-41.jpg"
 ---
 
 We're tracking one of the biggest restocks of AirPods Max headphones as we enter April, available at Amazon and Verizon. This restock includes nearly all colors of the AirPods Max.
