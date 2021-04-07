@@ -1,0 +1,72 @@
+---
+title : "SEA’s VC landscape will soon get more specialised, says ADB Ventures"
+layout: post
+tags: tutorial labnol
+post_inspiration: https://e27.co/seas-vc-landscape-will-soon-get-more-specialised-says-adb-ventures-20210407/
+image: "https://sergio.afanou.com/assets/images/image-midres-28.jpg"
+---
+
+<div id="attachment_413381" style="width: 701px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-413381" loading="lazy" class="size-full wp-image-413381" src="https://e27.co/wp-content/uploads/2021/04/Daniel_-Hersson_ADB_Ventures.png" alt="" width="691" height="391" /><p id="caption-attachment-413381" class="wp-caption-text">Daniel Hersson, Senior Fund Manager at ADB Ventures</p></div>
+<p><a rel="follow" href="https://www.nasa.gov/audience/forstudents/k-4/stories/nasa-knows/what-is-climate-change-k4.html">Climate change</a> is a reality and the issue warrants urgent attention.</p>
+<p>While it is heartening to see many private organisations, celebrities and governments in the Western world come forward with different solutions to address the issue, Asia remains a laggard here.</p>
+<p>Perhaps, technology could play a major role in the fight against climate change in this region. For this to happen, startups working for this cause need to be mentored and funded.</p>
+<p>ADB Ventures, the <a rel="follow" rel="follow" href="https://e27.co/what-is-impact-investing-20190730/">impact investment</a> arm of Manila-based Asian Development Bank, is one of the handful of VCs in the region to launch a dedicated fund to back startups, which are making an impact.</p>
+<p>In this interview with <strong>e27</strong>, Daniel Hersson, Senior Fund Manager at ADB Ventures, discusses how the VC firm is striving to make a difference in the region.</p>
+<p>Edited excerpts:</p>
+<h2>How is your investment model different from a traditional VC investor?</h2>
+<p>We invest in early-stage tech startups that can deliver both financial returns and significant impact. To achieve this, however, we partner and co-invest with both traditional and more impact-focused VCs.</p>
+<p>In contrast to most other investors, we have a wide regional reach and strong relationships with governments, large corporates, and financial institutions across Asia.</p>
+<p><strong>Also Read: <a rel="follow" rel="follow" href="https://e27.co/adb-ventures-debuts-with-2-impact-investments-raises-us60m-for-its-equity-fund-20210318/">ADB Ventures debuts with 2 impact investments, raises US$60M for its equity fund</a></strong></p>
+<p>We are trying to leverage these unique networks to help entrepreneurs reduce the barriers to access new markets and accelerate their growth. We also bring a lot of credibility to the startups and other investors in terms of our strong focus on impact and development.</p>
+<p>ADB Ventures has two investment activities. First, through our main fund, we provide equity capital to early-stage tech startups, similar to other VCs. Our focus is on seed and series A – and, occasionally, later stage. The average initial check size is US$1-2 million.</p>
+<p>The impact VC firm also provides smaller funding, usually to very early-stage tech companies, structured as reimbursable grants. This allows us to engage with entrepreneurs at a very early stage before we potentially make a larger investment.</p>
+<h2>You support companies tackling climate challenges. Do you have a specific area of interest in this particular vertical?</h2>
+<p>Yes and no.</p>
+<p>We target solutions for both climate mitigation and climate resilience. This covers a broad range of sectors and sub-sectors, including clean energy, sustainable mobility, energy efficiency, agriculture, and some fintech and health tech solutions, which can play a key role in strengthening Asia’s resilience to climate change.</p>
+<p>However, within these sectors, we see certain pockets where we think there is significant opportunity for both climate impact and financial returns.</p>
+<p>For example, we believe that there is a huge potential in digitalising the way we develop and manage traditional infrastructure. This could lead to both significant climate benefits as well as cost savings.</p>
+<p>Likewise, in many industries, we believe we have now reached a point where it is possible to replace traditional materials with new alternative materials that are not just greener but also better and, importantly, more cost-efficient.</p>
+<p>Crucially, these solutions have to deliver both significant benefits &#8212; significant climate impact and financial ones to the customer. Otherwise, it will not reach the scale required to have a meaningful impact and deliver our targeted financial returns.</p>
+<h2>Are you also looking at electric vehicles, an industry that has been receiving huge attention of late?</h2>
+<p>We think electric vehicles (EVs) will have a very significant impact. It goes beyond just replacing traditional combustion engine vehicles. EVs are much more flexible in terms of their design, charging, and even financing. This could redefine the way n we think about mobility in Asia and will open a lot of new investment opportunities.</p>
+<p>Just the other week, we announced <a rel="follow" rel="follow" href="https://e27.co/adb-ventures-debuts-with-2-impact-investments-raises-us60m-for-its-equity-fund-20210318/">an investment in Euler Motors</a>, a potentially disruptive Indian EV manufacturer that is seeking to transform last-mile logistics. We believe companies like this have massive potential, not just in India but across Asia.</p>
+<h2>While ADB is mainly focused on providing loans to the government or big corporates, the VC arm is focused on providing early-stage equity funding. Why don&#8217;t you also provide debt to startups?</h2>
+<p>Our focus is on backing high-risk, early-stage Asian startups with potentially disruptive solutions. These entrepreneurs need access to equity capital, ideally patient, as they are yet – and it will take some time &#8211; to reach a stable level of positive cash flow. We want to see more of these high-risk startups in Asia.</p>
+<p>However, in Asia, particularly for impact-oriented tech startups, there is still a significant gap in equity funding. So, we believe we play a critical role in helping to fill this gap.</p>
+<p>Having said that, we also believe that there is a need for more flexible debt in the market. For startups, there is a gap between equity funding and traditional bank financing that needs to be bridged. Even startups with more mature and proven solutions with a strong customer pipeline can often not access affordable debt.</p>
+<p>This is holding back their growth and their impact. We need to find solutions to help them transition more quickly from equity-fuelled growth to more leveraged growth.</p>
+<p><strong>Also Read: <a rel="follow" rel="follow" href="https://e27.co/what-is-impact-investing-20190730/">What is Impact Investing?</a></strong></p>
+<p>That is why we are raising a second fund, which will tackle this particular market gap. We aspire to launch a US$100 million+ debt fund targeting tech startups that are slightly further along the commercialisation lifecycle. We are still in the early stages of setting up and fundraising for this fund.</p>
+<p>The plan is to have it up and running sometime next year.</p>
+<h2>How do you evaluate a startup for investment? What are the key factors that you look for in your potential investees?</h2>
+<p>In many ways, we evaluate startups similarly to a typical VC. Since we invest in early-stage companies operating in emerging markets, we believe that a strong and hungry team, ideally with some experience, is critical. We put a lot of effort into assessing these aspects and getting to know the team before we invest.</p>
+<p>Another key aspect that we look for is a solution that can solve a real and a big problem and that can move the needle. We like solutions that change the life of the customer.</p>
+<p>We are also often looking at certain minimum market size. A solution may address a similar problem across several countries or a very large problem in a larger country. That&#8217;s how we get the impact we want, but also the returns.</p>
+<p>Of course, we will also look for a good product, a good technology, a good business model, good initial traction, etc. But we are conscious that many of these factors will evolve, particularly in more emerging markets.</p>
+<p>Besides, we look at two other critical aspects. The first is the potential impact. We try to assess what the impact could be if the company is successful and the solution is deployed at scale. While the main focus is on assessing the climate impact, we also consider aspects like gender impact.</p>
+<p>We integrate impact across the investment life-cycle, from the screening and evaluation stage, to how we structure the investments, and support and monitor our portfolio companies.</p>
+<p>The other critical lens is how we can add value. We look for companies and sectors where we believe we can add significant and disproportionate value by leveraging our relationships, our access to people, and access to other sources of financing. If we don’t think we can add that value, we will not invest.</p>
+<h2>How do you measure impact for your portfolio companies? Do you see a correlation between impact and profitability?</h2>
+<p>Our investment thesis is based on the correlation between impact, profitability, and our returns. We are targeting startups whose core business is highly impactful. In those cases, there is no or limited trade-off. If the company grows exponentially, there will be exponential impact – and we will also get our financial returns.</p>
+<p>Of course, you can have growth without impact, and you can also have impact without growth, but that is not in our investment scope.</p>
+<p>Impact, as described earlier, is integral to our investment approach and something we consider at each step. However, measuring impact from early-stage technology companies is slightly different from measuring impact from more traditional infrastructure investment.</p>
+<p>Many of the startups we back are developing enabling technologies and services. The impact of these solutions is often harder to measure directly but can often be much more significant. It is also hard to know what kind of products and business model a company will have three years down the line, so we need to have some flexibility in that sense.</p>
+<h2>What does excite you the most about South and Southeast Asian startup scenes? Apart from mobility, which other verticals are you seeing a great potential?</h2>
+<p>The regional startup ecosystem has evolved significantly in the last 10-20 years, not only in places like India but also in Indonesia, Vietnam, the Philippines, etc. There is now a rapidly growing pool of young entrepreneurial talent that simply did not exist before. Many of them gained their experience by helping scale the first wave of regional unicorns like gojek, Flipkart, Lazada, etc.</p>
+<p>We are now also seeing some of these entrepreneurs moving into sectors that can have a significant impact. This is exciting.</p>
+<p>We see significant opportunities across many sectors. Agriculture is a massive and still largely untapped opportunity, even if it can be very challenging. This includes everything from how we produce food to how we supply it in a much more efficient and climate-smart way.</p>
+<p>We also believe there is a lot of room to shake up more traditional sectors, including digitalisation and modernisation of the construction industry and the manufacturing industry.</p>
+<p>A good example is our recent investment in Smart Joules. They are combining smart digital technologies and efficient equipment with financial innovation to help significantly reduce energy use in existing commercial buildings. This opportunity exists across Asia.</p>
+<h2>There used to be a Series A/B crunch in Asia earlier, and now this crunch is in Series C/D stages. What does this indicate? Is it a positive signal? And what does it mean for the region&#8217;s startup ecosystem?</h2>
+<p>I think it is a natural and important evolution. One positive take from the Series C/D crunch is that you now have a pool of companies that reached a stage where they are ready and need such funding. So I wouldn&#8217;t see it as a negative. I think it&#8217;s just the evolving nature of any startup ecosystem.</p>
+<p>It is not just in Asia, but even developed countries have periods when there is a lot of early-stage funding, followed by a period of more later-stage funding. Then it swings back.</p>
+<p><strong>Also Read: <a rel="follow" href="https://e27.co/what-to-know-as-a-first-time-impact-investor-20210323/">What do I need to know as a first-time impact investor?</a></strong></p>
+<p>Of course, this means that we need more regional late-stage investors. To some extent, it&#8217;s already happening. Some of the VCs that raised funds five-six years ago are now raising much larger funds. The average ticket size is also going up.</p>
+<p>So I think the series C/D crunch will be addressed by the market over time. If there are good opportunities, capital tends to follow.</p>
+<p>However, it is important that we also keep feeding the pool of new early-stage companies. So, we need to continue to also focus on seed and Series A.</p>
+<p>We also need to recognise that there is still an imbalance in where the VC capital in the region is flowing. While overall regional VC investment has grown exponentially, it is still concentrated in relatively few sectors and a relatively few countries. We still have a long way to go.</p>
+<p>I think the regional VC landscape will soon get more specialised, similar to what we have seen in a more mature startup ecosystem. Specialist funds focusing on, for example, agritech, logistics, and fintech are already emerging.</p>
+<p>We are also seeing some new regional impact VC funds emerging, which is great. We will still have generalist VCs, but I suspect those funds will be relatively fewer, cross-regional, and a lot bigger.</p>
+<p>&#8212;</p>
+<p>Image Credit: ADB Ventures</p>
+<p>The post <a rel="nofollow" href="https://e27.co/seas-vc-landscape-will-soon-get-more-specialised-says-adb-ventures-20210407/">SEA&#8217;s VC landscape will soon get more specialised, says ADB Ventures</a> appeared first on <a rel="nofollow" href="https://e27.co">e27</a>.</p>
