@@ -1,0 +1,47 @@
+---
+title : "A better way to make impact: Why we decided to start a social impact network"
+layout: post
+tags: tutorial labnol
+post_inspiration: https://e27.co/force-for-good-the-worlds-first-social-impact-network-20210408/
+image: "https://sergio.afanou.com/assets/images/image-midres-5.jpg"
+---
+
+<img loading="lazy" class="aligncenter wp-image-413603 size-full" src="https://e27.co/wp-content/uploads/2021/04/katt-yukawa-K0E6E0a0R3A-unsplash.jpg" alt="charity startup " width="690" height="390" />
+<p>The social impact space is dominated by ‘Giving Platforms’ &#8212; many of which take large percentages of donations.</p>
+<p>Whilst these platforms are great in serving as a functional payment gateway, rarely do they track your multiple donations, aggregate your impact, or create a community of like-minded people to drive change with.</p>
+<p>They generate their revenue from taking a cut of charity donations, an approach that is generating more and more criticism.</p>
+<p>How many times have you made a donation this year? Yet I imagine you have no idea of your cumulative impact, where the money has gone or how you’ve helped to make the world a better place?</p>
+<p>With an ever-growing spotlight on social media and its role and influence on the world, I’ve become increasingly driven to create a social network that is simply for good. No negativities, no bullying, no filters, no irrelevant adverts.</p>
+<p>Based in Singapore, Force for Good is a soon-to-launch, angel-funded platform. We&#8217;re always looking for interesting advisors and investors to join us on the journey.</p>
+<p>I &#8212; as the founder and CEO of Force for Good &#8212; and our Head of Impact Partnerships Christine Amour-Levar I, would like to share our motivations in creating the world’s first social impact network.</p>
+<h1>The idea</h1>
+<p>I’ve worked in corporate and charity partnerships for the last 12 years, and I’ve seen a huge shift in the way companies, employees, people and charities engage with one another.</p>
+<p>With 1.4 billion people giving to charity last year, we felt there was a huge gap in the market for a social network for good. We want to leverage technology and digital to create a safe place for individuals, companies and charities to drive change.</p>
+<p><strong>Also Read: <a rel="follow" href="https://e27.co/what-to-know-as-a-first-time-impact-investor-20210323/">What do I need to know as a first-time impact investor?</a></strong></p>
+<p>Force for Good was born out of our frustration of not being able to find and connect with the people and charities that are <a rel="follow" href="https://e27.co/idonate-brings-more-transparency-to-charity-work/">making a difference for the causes we care about</a>, particularly through such challenging times.</p>
+<p>When working in a large MNC, I&#8217;d see nine-figure cheques written to charities on assumptions as to what our employees cared about, with little engagement and activation. I want to change this through Force for Good and provide corporates with engagement opportunities and data for causes their employees are passionate about.</p>
+<p>In 2020 online giving grew 21 per cent amidst the global pandemic and nearly 30 per cent of all online gifts were made from a mobile device. Additionally, we are seeing that 55 per cent of donors worldwide prefer to give online with a credit or debit card rather than by bank/wire transfer.</p>
+<p>Amour-Levar thinks a digital platform like Force for Good comes into play to help charities reach the masses, if you will, by democratising philanthropy. The notion that giving your time, talent or treasure is no longer for the elite but for all individuals is on the rise.</p>
+<p>The concept now emerging is that everyday “regular givers” and every day “changemakers” have the potential to accelerate social impact. Donors are clamouring for philanthropy to be more connected, accessible, engaging and transparent. There is a growing need for individuals, companies and charities to come together and drive change.</p>
+<p>Furthermore, on the whole, people want to belong to a club, a tribe, a social network, a church, a movement … something bigger than themselves. So, there is also an opportunity to make donation apps more social and community-focused.</p>
+<p>The beauty of micro-giving is that all of the smaller individual donations become part of a larger social cause driving collective impact. And technology and tech platforms can make it much easier to find your tribe, engage and see your impact in real-time.</p>
+<h2>Keeping it personal</h2>
+<p>At a time when the world is going through a global pandemic, charities are on their knees. They have very little access to a digital network to drive change, yet need the support more than ever before.</p>
+<p><strong>Also Read: <a rel="follow" href="https://e27.co/6-social-impact-startups-that-want-to-change-the-world-20151201/">6 social enterprises that want to change the world</a></strong></p>
+<p>The pandemic has undoubtedly been an incredibly challenging time for charities and their fundraising efforts, but nearly three out of four millennials did give to a non-profit since the pandemic began. Charities need to capitalise on this trend and we want to help.</p>
+<p>Gone are the days of having to trawl through traditional social network sites to find like-minded people passionate about a cause. Force for Good allows you to join Impact Circles within your location and cause &#8212; or create private Impact Circles to invite your friends, family and colleagues to.</p>
+<p>You can make one-off or recurring donations to charities of your choice and stay closely in touch with the charity to understand your impact. You can organise virtual challenges for yourself or your network to raise funds and you can share your journey along the way.</p>
+<p>We want people to know where their donations go. We want them to have the ability to have a two-way conversation with their charities. We want people to be a force for change, creating impact circles and rallying their networks to make a difference with them.</p>
+<h2>Redefining CSR and ESG</h2>
+<p>While there is general agreement that the private sector needs to be deeply involved in helping to achieve the United Nations Sustainable Development Goals (SDGs), companies are on a spectrum with the incorporation of these goals into their corporate philanthropy strategies.</p>
+<p>According to a 2018 PwC SDG Reporting Challenge study, 72 per cent of companies mention the SDGs and/or ESGs in their annual corporate or sustainability reports, but there is still a lack of data on what companies are doing to achieve these goals.</p>
+<p>We want companies to be able to create opportunities for their employees. For their communities to be actively engaged in raising funds for charities – be that through virtual challenges or fundraising campaigns.</p>
+<p>Amour-Levar adds that managers in these companies also need to be good listeners and try to understand people’s aspirations and motivations. This will demonstrate they care deeply about their employees and will instil a strong sense of loyalty and commitment to the greater mission.</p>
+<p><strong>Also Read: <a rel="follow" href="https://e27.co/adb-ventures-debuts-with-2-impact-investments-raises-us60m-for-its-equity-fund-20210318/">ADB Ventures debuts with 2 impact investments, raises US$60M for its equity fund</a></strong></p>
+<p>Force for Good creates corporate communities for employees to drive change. Our data enables us to understand what employees care about. This data can be used by companies can match their donations and create events, challenges and impact through the platform. We want Force for Good to drive employee engagement in the cause.</p>
+<p>While the change won’t happen overnight, it is important for companies to take time to build an environment founded on trust, communication, and empowerment. Without a solid foundation and actionable steps, it is tough to expect employees to do anything above and beyond their day-to-day responsibilities.</p>
+<p>&#8212;</p>
+<p class="p1"><span class="s1">Editor’s note: <strong>e27</strong> aims to foster thought leadership by publishing contributions from the community. Become a thought leader in the community and share your opinions or ideas and earn a byline by <a rel="follow" href="https://e27.co/contributor"><span class="s2">submitting a post</span></a>.</span></p>
+<p class="p1"><span class="s1">Join our <strong>e27</strong> <a rel="follow" href="https://t.me/joinchat/HmTbfBcGCZeykhM8NOlQ-g"><span class="s2">Telegram group</span></a>, <a rel="follow" href="https://www.facebook.com/groups/e27co/permalink/886904662065955/">FB community</a> or like the <strong>e27</strong> <a rel="follow" href="https://www.facebook.com/e27/?ref=your_pages"><span class="s2">Facebook page</span></a></span></p>
+<p>Image Credit: <a rel="follow" href="https://unsplash.com/@kattyukawa?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Katt Yukawa</a> on <a rel="follow" href="https://unsplash.com/s/photos/charity?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
+<p>The post <a rel="nofollow" href="https://e27.co/force-for-good-the-worlds-first-social-impact-network-20210408/">A better way to make impact: Why we decided to start a social impact network</a> appeared first on <a rel="nofollow" href="https://e27.co">e27</a>.</p>
