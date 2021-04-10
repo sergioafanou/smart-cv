@@ -1,0 +1,30 @@
+---
+title : "‘Falcon and the Winter Soldier’ fans hate the new Cap for all the wrong reasons"
+layout: post
+tags: tutorial labnol
+post_inspiration: https://bgr.com/2021/04/09/falcon-winter-soldier-episode-4-review-john-walker-captain-america-amazing/
+image: "https://sergio.afanou.com/assets/images/image-midres-21.jpg"
+---
+
+<center><a href="https://bgr.com/2021/04/09/falcon-winter-soldier-episode-4-review-john-walker-captain-america-amazing/" class="bgr-rss-featured-image bgr-rss-test-class"><img loading="lazy" width="610" height="271" src="https://bgr.com/wp-content/uploads/2021/04/falcon-winter-soldier-john-walker-wyatt-russell.jpg?quality=70&amp;strip=all&amp;w=610" class="attachment-feed_normal size-feed_normal wp-post-image" alt="Falcon Winter Soldier" loading="lazy" srcset="https://bgr.com/wp-content/uploads/2021/04/falcon-winter-soldier-john-walker-wyatt-russell.jpg 1600w, https://bgr.com/wp-content/uploads/2021/04/falcon-winter-soldier-john-walker-wyatt-russell.jpg?resize=150,67 150w, https://bgr.com/wp-content/uploads/2021/04/falcon-winter-soldier-john-walker-wyatt-russell.jpg?resize=300,133 300w, https://bgr.com/wp-content/uploads/2021/04/falcon-winter-soldier-john-walker-wyatt-russell.jpg?resize=768,341 768w, https://bgr.com/wp-content/uploads/2021/04/falcon-winter-soldier-john-walker-wyatt-russell.jpg?resize=1024,455 1024w, https://bgr.com/wp-content/uploads/2021/04/falcon-winter-soldier-john-walker-wyatt-russell.jpg?resize=1536,683 1536w, https://bgr.com/wp-content/uploads/2021/04/falcon-winter-soldier-john-walker-wyatt-russell.jpg?resize=610,271 610w, https://bgr.com/wp-content/uploads/2021/04/falcon-winter-soldier-john-walker-wyatt-russell.jpg?resize=664,295 664w, https://bgr.com/wp-content/uploads/2021/04/falcon-winter-soldier-john-walker-wyatt-russell.jpg?resize=1200,533 1200w, https://bgr.com/wp-content/uploads/2021/04/falcon-winter-soldier-john-walker-wyatt-russell.jpg?resize=782,348 782w, https://bgr.com/wp-content/uploads/2021/04/falcon-winter-soldier-john-walker-wyatt-russell.jpg?resize=827,367 827w, https://bgr.com/wp-content/uploads/2021/04/falcon-winter-soldier-john-walker-wyatt-russell.jpg?resize=800,356 800w" sizes="(max-width: 610px) 100vw, 610px" title="Falcon Winter Soldier" /></a></center><p>Captain America fans have been hating John Walker&rsquo;s Captain America since the first <em>The Falcon and the Winter Soldier</em> teasers that showed someone other than Sam Wilson (Anthony Mackie) was wearing the uniform and the shield. But all that animosity wasn&rsquo;t warranted, yet it continued to escalate online after the TV show&rsquo;s premiere, to the point where some manifested their hatred <a href="https://www.fortressofsolitude.co.za/wyatt-russell-receiving-death-threats-for-john-walker-captain-america/">towards Wyatt Russell</a>, the actor who plays Walker. That sort of behavior has to stop, especially now that Episode 4 gave us an actual reason to hate Walker. In fact, the newest <em>Falcon</em> installment should make you realize how amazing Russell&rsquo;s Captain America really is for the series and the broader MCU.</p>
+<p>Beware: <strong>A few big spoilers</strong> from <em>The Whole World is Watching</em> episode follow below.</p>
+<h3>Today's Top Deal</h3>
+<p><a href="https://www.amazon.com/Electric-Restaurant-Automatic-Arthritis-Arthritic/dp/B07P1SKJV4?tag=b0c55topdeals-20"><br><img height="500px" width="377px" src="https://m.media-amazon.com/images/I/41BrmKFw4vL.jpg" alt="This automatic jar opener went viral on TikTok and people are flooding Amazon to get one!"><br></a></p>
+<h4><a href="https://www.amazon.com/Electric-Restaurant-Automatic-Arthritis-Arthritic/dp/B07P1SKJV4?tag=b0c55rss-20">This automatic jar opener went viral on TikTok and people are flooding Amazon to get one!</a></h4>
+<p><a href="https://www.amazon.com/Electric-Restaurant-Automatic-Arthritis-Arthritic/dp/B07P1SKJV4?tag=b0c55rss-20">Price: <strong>$44.99</strong></a><br><strong><a href="https://www.amazon.com/Electric-Restaurant-Automatic-Arthritis-Arthritic/dp/B07P1SKJV4?tag=b0c55rss-20">Buy Now</a></strong></p>
+<p><a href="https://bgr.com/2021/04/09/falcon-winter-soldier-episode-4-review-john-walker-captain-america-amazing/" class="more-link"><em>Continue reading...</em></a></p>
+
+<p><strong>Today's Top Deals</strong></p>
+<ol>
+<li><a href="https://bgr.com/2021/04/09/android-smartwatch-amazon-deal-ticwris-max-s/?utm_source=rss&#038;utm_campaign=topdeals">Amazon has a smartwatch with face unlock and the biggest display ever for $199</a></li>
+<li><a href="https://bgr.com/2021/04/08/best-kitchen-gadgets-2021-amazon-deal-finamill/?utm_source=rss&#038;utm_campaign=topdeals">This one-of-a-kind kitchen gadget is $37 at Amazon &#8211; now I can&#8217;t cook without it</a></li>
+<li><a href="https://bgr.com/2021/04/09/double-the-internet-speed-on-your-computer-or-gaming-console-with-this-50-gadget/?utm_source=rss&#038;utm_campaign=topdeals">Double the internet speed on your computer or gaming console with this $50 gadget</a></li>
+</ol>
+
+<p><strong>Trending Right Now:</strong></p>
+<ol>
+<li><a href="https://bgr.com/2021/04/09/stimulus-check-update-how-to-file-recovery-rebate-credit-with-irs/">An important stimulus check update you need to read right now</a></li>
+<li><a href="https://bgr.com/2021/04/09/product-recall-verizon-hotspot/">If you have one of these Verizon devices, update it now or it could start a fire</a></li>
+<li><a href="https://bgr.com/2021/04/08/data-breach-leaks-credit-card-records-and-social-security-numbers/">A huge trove of credit card records and Social Security numbers just got hacked</a></li>
+</ol>
+<p><a href="https://bgr.com/2021/04/09/falcon-winter-soldier-episode-4-review-john-walker-captain-america-amazing/">&#8216;Falcon and the Winter Soldier&#8217; fans hate the new Cap for all the wrong reasons</a> originally appeared on <a href="http://bgr.com">BGR.com</a> on Fri, 9 Apr 2021 at 14:52:02 EDT. Please see our terms for use of feeds.</p>
