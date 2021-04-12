@@ -1,0 +1,29 @@
+---
+title : "‘This is insane’ – more leaked Facebook data found online"
+layout: post
+tags: tutorial labnol
+post_inspiration: https://bgr.com/2021/04/11/facebook-data-leak-new-phone-numbers-found-online/
+image: "https://sergio.afanou.com/assets/images/image-midres-0.jpg"
+---
+
+<center><a href="https://bgr.com/2021/04/11/facebook-data-leak-new-phone-numbers-found-online/" class="bgr-rss-featured-image bgr-rss-test-class"><img loading="lazy" width="610" height="341" src="https://bgr.com/wp-content/uploads/2021/04/rsz_mega715671_001.jpg?quality=70&amp;strip=all&amp;w=610" class="attachment-feed_normal size-feed_normal wp-post-image" alt="Facebook data leak" loading="lazy" srcset="https://bgr.com/wp-content/uploads/2021/04/rsz_mega715671_001.jpg 1680w, https://bgr.com/wp-content/uploads/2021/04/rsz_mega715671_001.jpg?resize=150,84 150w, https://bgr.com/wp-content/uploads/2021/04/rsz_mega715671_001.jpg?resize=300,168 300w, https://bgr.com/wp-content/uploads/2021/04/rsz_mega715671_001.jpg?resize=768,430 768w, https://bgr.com/wp-content/uploads/2021/04/rsz_mega715671_001.jpg?resize=1024,573 1024w, https://bgr.com/wp-content/uploads/2021/04/rsz_mega715671_001.jpg?resize=1536,859 1536w, https://bgr.com/wp-content/uploads/2021/04/rsz_mega715671_001.jpg?resize=610,341 610w, https://bgr.com/wp-content/uploads/2021/04/rsz_mega715671_001.jpg?resize=664,372 664w, https://bgr.com/wp-content/uploads/2021/04/rsz_mega715671_001.jpg?resize=360,200 360w, https://bgr.com/wp-content/uploads/2021/04/rsz_mega715671_001.jpg?resize=1200,671 1200w, https://bgr.com/wp-content/uploads/2021/04/rsz_mega715671_001.jpg?resize=782,438 782w, https://bgr.com/wp-content/uploads/2021/04/rsz_mega715671_001.jpg?resize=827,463 827w, https://bgr.com/wp-content/uploads/2021/04/rsz_mega715671_001.jpg?resize=800,448 800w" sizes="(max-width: 610px) 100vw, 610px" title="Facebook data leak" /></a></center><p>This is going to surprise absolutely no one, but less than a week after word that more than half a billion people had their personal data leaked from the world's largest and least-loved social network, Facebook has apparently gone and done it again. A new Facebook data leak has been uncovered, this one including user phone numbers that weren't part of the initial haul <a href="https://bgr.com/2021/04/03/facebook-data-leak-533-million-user-records-leaked-online/">that was first reported this past weekend</a>. That one, in case you forgot, included such personal information from more than <a href="https://www.marketwatch.com/story/533-million-facebook-users-phone-numbers-and-personal-data-reported-leaked-online-11617475820" target="_blank" rel="nofollow noopener">533 million Facebook users</a> from 106 countries as their phone numbers, email addresses, birthdays, and full names.</p>
+<p>On Friday, meanwhile, <a href="https://www.vice.com/amp/en/article/qj8dj5/facebook-phone-number-data-breach-telegram-bot?__twitter_impression=true">a <em>Motherboard</em> investigation</a> found an online tool whereby customers can pay to obtain the phone numbers of Facebook users who "liked" a page on the social network, with these phone numbers being separate from the previous data cache noted above.</p>
+<h3>Today's Top Deal</h3>
+<p><a href="https://www.amazon.com/Electric-Restaurant-Automatic-Seniors-Arthritis/dp/B089SNZD4N?tag=b0c55topdeals-20"><br><img height="500px" width="488px" src="https://m.media-amazon.com/images/I/41qT41L0ydL.jpg" alt="This automatic jar opener went viral on TikTok and people are flooding Amazon to get one!"><br></a></p>
+<h4><a href="https://www.amazon.com/Electric-Restaurant-Automatic-Seniors-Arthritis/dp/B089SNZD4N?tag=b0c55rss-20">This automatic jar opener went viral on TikTok and people are flooding Amazon to get one!</a></h4>
+<p><a href="https://www.amazon.com/Electric-Restaurant-Automatic-Seniors-Arthritis/dp/B089SNZD4N?tag=b0c55rss-20">Price: <strong>$21.99</strong></a><br><span>You Save: $3.99 (15%)</span><br><strong><a href="https://www.amazon.com/Electric-Restaurant-Automatic-Seniors-Arthritis/dp/B089SNZD4N?tag=b0c55rss-20">Buy Now</a></strong></p>
+<p><a href="https://bgr.com/2021/04/11/facebook-data-leak-new-phone-numbers-found-online/" class="more-link"><em>Continue reading...</em></a></p>
+
+<p><strong>Today's Top Deals</strong></p>
+<ol>
+<li><a href="https://bgr.com/2021/04/11/amazon-deals-of-the-day-on-apr-11-2021/?utm_source=rss&#038;utm_campaign=topdeals">10 deals you don&#8217;t want to miss on Sunday: $7 Kasa smart plugs, $72 2K camera drone, Fire TV Stick 4K, Echo Show 10, more</a></li>
+<li><a href="https://bgr.com/2021/04/09/android-smartwatch-amazon-deal-ticwris-max-s/?utm_source=rss&#038;utm_campaign=topdeals">Amazon has a smartwatch with face unlock and the biggest display ever for $199</a></li>
+</ol>
+
+<p><strong>Trending Right Now:</strong></p>
+<ol>
+<li><a href="https://bgr.com/2021/04/10/q-link-wireless-data-breach-personal-data-exposed-phone-number/">If you use this cell phone carrier, your personal data might&#8217;ve been stolen</a></li>
+<li><a href="https://bgr.com/2021/04/10/cybersecurity-news-study-of-worst-password-mistakes/">Please stop doing this when you create a new password</a></li>
+<li><a href="https://bgr.com/2021/04/10/falcon-winter-soldier-episode-5-mysterious-cameo/">Let&#8217;s talk about the crazy Marvel cameo coming in &#8216;Falcon and the Winter Soldier&#8217; episode 5</a></li>
+</ol>
+<p><a href="https://bgr.com/2021/04/11/facebook-data-leak-new-phone-numbers-found-online/">‘This is insane’ – more leaked Facebook data found online</a> originally appeared on <a href="http://bgr.com">BGR.com</a> on Sun, 11 Apr 2021 at 10:34:27 EDT. Please see our terms for use of feeds.</p>
