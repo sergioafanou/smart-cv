@@ -1,0 +1,36 @@
+---
+title : "Report: Airline bans Vivo phones after airport cargo fire"
+layout: post
+tags: tutorial labnol
+post_inspiration: https://www.androidauthority.com/vivo-airport-cargo-fire-ban-1216926/
+image: "https://sergio.afanou.com/assets/images/image-midres-4.jpg"
+---
+
+<p><html><body><img class="aligncenter size-large wp-image-1211131 noname aa-img" title="Vivo X60 Pro Plus logo" src="https://cdn57.androidauthority.net/wp-content/uploads/2021/03/Vivo-X60-Pro-Plus-logo-1200x675.jpg" alt="Vivo X60 Pro Plus logo" width="1200" height="675" data-attachment-id="1211131" srcset="https://cdn57.androidauthority.net/wp-content/uploads/2021/03/Vivo-X60-Pro-Plus-logo-1200x675.jpg 1200w, https://cdn57.androidauthority.net/wp-content/uploads/2021/03/Vivo-X60-Pro-Plus-logo-300x170.jpg 300w, https://cdn57.androidauthority.net/wp-content/uploads/2021/03/Vivo-X60-Pro-Plus-logo-768x432.jpg 768w, https://cdn57.androidauthority.net/wp-content/uploads/2021/03/Vivo-X60-Pro-Plus-logo-1536x864.jpg 1536w, https://cdn57.androidauthority.net/wp-content/uploads/2021/03/Vivo-X60-Pro-Plus-logo-2048x1152.jpg 2048w, https://cdn57.androidauthority.net/wp-content/uploads/2021/03/Vivo-X60-Pro-Plus-logo-16x9.jpg 16w, https://cdn57.androidauthority.net/wp-content/uploads/2021/03/Vivo-X60-Pro-Plus-logo-32x18.jpg 32w, https://cdn57.androidauthority.net/wp-content/uploads/2021/03/Vivo-X60-Pro-Plus-logo-28x16.jpg 28w, https://cdn57.androidauthority.net/wp-content/uploads/2021/03/Vivo-X60-Pro-Plus-logo-56x32.jpg 56w, https://cdn57.androidauthority.net/wp-content/uploads/2021/03/Vivo-X60-Pro-Plus-logo-64x36.jpg 64w, https://cdn57.androidauthority.net/wp-content/uploads/2021/03/Vivo-X60-Pro-Plus-logo-712x400.jpg 712w, https://cdn57.androidauthority.net/wp-content/uploads/2021/03/Vivo-X60-Pro-Plus-logo-1000x563.jpg 1000w, https://cdn57.androidauthority.net/wp-content/uploads/2021/03/Vivo-X60-Pro-Plus-logo-792x446.jpg 792w, https://cdn57.androidauthority.net/wp-content/uploads/2021/03/Vivo-X60-Pro-Plus-logo-1280x720.jpg 1280w, https://cdn57.androidauthority.net/wp-content/uploads/2021/03/Vivo-X60-Pro-Plus-logo-840x472.jpg 840w, https://cdn57.androidauthority.net/wp-content/uploads/2021/03/Vivo-X60-Pro-Plus-logo-1340x754.jpg 1340w, https://cdn57.androidauthority.net/wp-content/uploads/2021/03/Vivo-X60-Pro-Plus-logo-770x433.jpg 770w, https://cdn57.androidauthority.net/wp-content/uploads/2021/03/Vivo-X60-Pro-Plus-logo-356x200.jpg 356w, https://cdn57.androidauthority.net/wp-content/uploads/2021/03/Vivo-X60-Pro-Plus-logo-675x380.jpg 675w, https://cdn57.androidauthority.net/wp-content/uploads/2021/03/Vivo-X60-Pro-Plus-logo-scaled.jpg 1920w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<div class="aa-img-source-credit">
+<div class="aa-img-source-and-credit full">
+<div class="aa-img-credit text-right"><span>Credit: </span>Hadlee Simons / Android Authority</div>
+</div>
+</div>
+<div class="aa_tldr_text">
+<ul>
+<li>A Hong Kong cargo airline has reportedly banned Vivo phones after a cargo fire.</li>
+<li>Cargo pallets containing Vivo Y20 phones were destroyed in the blaze.</li>
+</ul>
+</div><hr>
+<p>A Hong Kong-based cargo airline has reportedly announced a ban on <a href="https://www.androidauthority.com/vivo-originos-1178533/">Vivo</a> phones after a major cargo fire at Hong Kong Airport over the weekend.</p>
+<p>The cargo fire occurred on the airport&#8217;s apron just before the pallets containing Vivo Y20 phones and associated accessories were due to be loaded into a Hong Kong Air Cargo plane bound for Thailand, <em><a href="https://www.thestandard.com.hk/section-news/section/4/229103/Airport-scare-as-phones-catch-fire" target="_blank" rel="noopener">The Standard</a></em> reported (h/t: <a href="https://www.91mobiles.com/hub/vivo-y20-fire-hong-kong-airport-shipping-ban/" target="_blank" rel="noopener"><em>91mobiles</em></a>).</p>
+<blockquote class="twitter-tweet tw-align-center">
+<p dir="ltr" lang="en">Vivo Mobile Pallet Catches Fire While Loading in Cargo Plane at HKG <a href="https://t.co/sW7NXIoPd5">pic.twitter.com/sW7NXIoPd5</a></p>
+<p>— Solo Shokeen (@SoloShokeen) <a href="https://twitter.com/SoloShokeen/status/1381337540452446208?ref_src=twsrc%5Etfw">April 11, 2021</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Videos of the incident posted online show the fire itself, starting with one pallet and spreading to two more. Photos also show numerous damaged Vivo-branded boxes and phones in the aftermath, as seen below.</p>
+<p><img class="aligncenter size-large wp-image-1217371 noname aa-img" title="Andre Quiros Vivo twitter" src="https://cdn57.androidauthority.net/wp-content/uploads/2021/04/Andre-Quiros-Vivo-twitter-598x675.jpg" alt="Andre Quiros Vivo twitter" width="598" height="675" data-attachment-id="1217371" srcset="https://cdn57.androidauthority.net/wp-content/uploads/2021/04/Andre-Quiros-Vivo-twitter-598x675.jpg 598w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/Andre-Quiros-Vivo-twitter-300x339.jpg 300w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/Andre-Quiros-Vivo-twitter-14x16.jpg 14w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/Andre-Quiros-Vivo-twitter-28x32.jpg 28w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/Andre-Quiros-Vivo-twitter-25x28.jpg 25w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/Andre-Quiros-Vivo-twitter-50x56.jpg 50w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/Andre-Quiros-Vivo-twitter-57x64.jpg 57w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/Andre-Quiros-Vivo-twitter-177x200.jpg 177w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/Andre-Quiros-Vivo-twitter.jpg 600w" sizes="(max-width: 598px) 100vw, 598px" /></p>
+<div class="aa-img-source-credit">
+<div class="aa-img-source-and-credit full">
+<div class="aa-img-source text-right"><span>Credit:</span> <a rel="nofollow" class="img-credit-link" target="_blank" href="https://twitter.com/flyingheavy747/status/1381216087048548354">Twitter/Andre Quiros</a></div>
+</div>
+</div>
+<p>Several <a href="https://theloadstar.com/hong-kong-air-cargo-ban-on-vivo-phones-after-pallets-catch-fire-at-airport/" target="_blank" rel="noopener">industry</a> <a href="https://aircargoworld.com/news/carriers/hkg-battery-fire-leads-to-hong-kong-airlines-embargo-on-vivo-phones/" target="_blank" rel="noopener">outlets</a> have since reported that Hong Kong Air Cargo has banned Vivo devices and two air freight companies until further notice. The cause of the fire isn&#8217;t known yet, but lithium-ion batteries used in smartphones can cause fires if they&#8217;re defective or damaged. We previously saw this happen with Samsung&#8217;s <a href="https://www.androidauthority.com/samsung-galaxy-note-7-recall-714419/">Galaxy Note 7</a> back in 2016.</p>
+<p>We&#8217;ve contacted Vivo for comment regarding the incident and reported ban and will update the article if/when they get back to us. For what it&#8217;s worth, the company also manufactures phones in India, so it seems unlikely that this incident and apparent ban could affect the supply of its devices in India.</p>
+</body></html></p>
