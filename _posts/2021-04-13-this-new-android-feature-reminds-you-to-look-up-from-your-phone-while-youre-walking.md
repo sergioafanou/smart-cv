@@ -1,0 +1,23 @@
+---
+title : "This new Android feature reminds you to look up from your phone while you’re walking"
+layout: post
+tags: tutorial labnol
+post_inspiration: https://bgr.com/tech/new-android-features-heads-up-distracted-walking-pixel-phones-5919032/
+image: "https://sergio.afanou.com/assets/images/image-midres-19.jpg"
+---
+
+<center><a href="https://bgr.com/tech/new-android-features-heads-up-distracted-walking-pixel-phones-5919032/" class="bgr-rss-featured-image bgr-rss-test-class"><img loading="lazy" width="610" height="415" src="https://bgr.com/wp-content/uploads/2020/11/pixel-4a-barely-blue.jpg?quality=70&amp;strip=all&amp;w=610" class="attachment-feed_normal size-feed_normal wp-post-image" alt="New Android Features" loading="lazy" srcset="https://bgr.com/wp-content/uploads/2020/11/pixel-4a-barely-blue.jpg 1566w, https://bgr.com/wp-content/uploads/2020/11/pixel-4a-barely-blue.jpg?resize=150,102 150w, https://bgr.com/wp-content/uploads/2020/11/pixel-4a-barely-blue.jpg?resize=300,204 300w, https://bgr.com/wp-content/uploads/2020/11/pixel-4a-barely-blue.jpg?resize=768,523 768w, https://bgr.com/wp-content/uploads/2020/11/pixel-4a-barely-blue.jpg?resize=1024,697 1024w, https://bgr.com/wp-content/uploads/2020/11/pixel-4a-barely-blue.jpg?resize=1536,1046 1536w, https://bgr.com/wp-content/uploads/2020/11/pixel-4a-barely-blue.jpg?resize=610,415 610w, https://bgr.com/wp-content/uploads/2020/11/pixel-4a-barely-blue.jpg?resize=664,452 664w, https://bgr.com/wp-content/uploads/2020/11/pixel-4a-barely-blue.jpg?resize=1200,817 1200w, https://bgr.com/wp-content/uploads/2020/11/pixel-4a-barely-blue.jpg?resize=782,532 782w, https://bgr.com/wp-content/uploads/2020/11/pixel-4a-barely-blue.jpg?resize=827,563 827w, https://bgr.com/wp-content/uploads/2020/11/pixel-4a-barely-blue.jpg?resize=800,545 800w" sizes="(max-width: 610px) 100vw, 610px" title="New Android Features" /></a></center><p>We&rsquo;ve all been there -- staring at our smartphones while walking and running into a fellow pedestrian, a tree, or a stop sign. You get texts and calls, you need to check out navigation instructions, and then comes the endless list of notifications begging you to look at the screen. Spend too much time staring while walking, and you risk colliding with others, bumping into buildings and road signs, or wandering right into traffic. Google is aware of the problem, and has been working on a new feature that all distracted walkers could benefit from.</p>
+<h3>Today's Top Deal</h3>
+<p><a href="https://www.amazon.com/Electric-Restaurant-Automatic-Seniors-Arthritis/dp/B089SNZD4N?tag=b0c55topdeals-20"><br><img height="500px" width="488px" src="https://m.media-amazon.com/images/I/41qT41L0ydL.jpg" alt="This automatic jar opener went viral on TikTok and people are flooding Amazon to get one!"><br></a></p>
+<h4><a href="https://www.amazon.com/Electric-Restaurant-Automatic-Seniors-Arthritis/dp/B089SNZD4N?tag=b0c55rss-20">This automatic jar opener went viral on TikTok and people are flooding Amazon to get one!</a></h4>
+<p><a href="https://www.amazon.com/Electric-Restaurant-Automatic-Seniors-Arthritis/dp/B089SNZD4N?tag=b0c55rss-20">Price: <strong>$35.99</strong></a><br><strong><a href="https://www.amazon.com/Electric-Restaurant-Automatic-Seniors-Arthritis/dp/B089SNZD4N?tag=b0c55rss-20">Buy Now</a></strong></p>
+<p><a href="https://bgr.com/tech/new-android-features-heads-up-distracted-walking-pixel-phones-5919032/" class="more-link"><em>Continue reading...</em></a></p>
+
+<p><strong>Today's Top Deals</strong></p>
+<ol>
+<li><a href="https://bgr.com/general/iphone-lens-kit-amazon-deals-4713723/?utm_source=rss&#038;utm_campaign=topdeals">This $16 clip-on lens kit fits the iPhone or any Android phone, and it&#8217;s awesome</a></li>
+<li><a href="https://bgr.com/general/chromo-7-tablet-google-android-4-4-touchscreen-sale-amazon-4715331/?utm_source=rss&#038;utm_campaign=topdeals">Amazon deal offers a 7-inch Android tablet for under $43</a></li>
+<li><a href="https://bgr.com/general/rapid-charger-android-amazon-sale-4715321/?utm_source=rss&#038;utm_campaign=topdeals">Save 61% on a 6-port USB rapid charger on Amazon</a></li>
+<li><a href="https://bgr.com/general/best-multifunction-printer-amazon-sale-4715747/?utm_source=rss&#038;utm_campaign=topdeals">Save 75% on a Canon black and white multifunction laser printer on Amazon</a></li>
+</ol>
+<p><a href="https://bgr.com/tech/new-android-features-heads-up-distracted-walking-pixel-phones-5919032/">This new Android feature reminds you to look up from your phone while you&#8217;re walking</a> originally appeared on <a href="http://bgr.com">BGR.com</a> on Mon, 12 Apr 2021 at 18:18:17 EDT. Please see our terms for use of feeds.</p>
