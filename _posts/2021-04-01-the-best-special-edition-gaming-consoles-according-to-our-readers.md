@@ -1,9 +1,0 @@
----
-title : "The Best Special Edition Gaming Consoles, According To Our Readers"
-layout: post
-tags: tutorial labnol
-post_inspiration: https://co-op.theinventory.com/best-special-edition-consoles-1846597030
-image: "https://sergio.afanou.com/assets/images/image-midres-27.jpg"
----
-
-<img src="https://i.kinja-img.com/gawker-media/image/upload/s--HP0j1igP--/c_fit,fl_progressive,q_80,w_636/ognuacockoarpucnjj6n.png" /><p>There’s nothing like a special edition gaming console. Sure, everyone has a <a href="https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&amp;pub=2480815&amp;toolid=10001&amp;campid=null&amp;mpre=https%3A%2F%2Fwww.ebay.com%2Fe%2F_electronics%2Fnintendo-switch-from-top-sellers&amp;customid=-" target="_blank" rel="noopener noreferrer">Nintendo Switch</a>, but how many of us have an <a href="https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&amp;pub=2480815&amp;toolid=10001&amp;campid=null&amp;mpre=https%3A%2F%2Fwww.ebay.com%2Fe%2F_electronics%2Fnintendo-switch-from-top-sellers%3F_kwdomcat%3D139971%26_bkw%3Danimal%2Bcrossing%2Bswitch&amp;customid=-" target="_blank" rel="noopener noreferrer"><em>Animal Crossing</em>-themed Nintendo Switch</a>? Who among us has a <a href="https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&amp;pub=2480815&amp;toolid=10001&amp;campid=null&amp;mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_from%3DR40%26_trksid%3Dp2334524.m570.l1313%26_nkw%3Dspider%2Bman%2Bps4%2Bconsole%26_sacat%3D0%26LH_TitleDesc%3D0%26_osacat%3D0%26_odkw%3Dspider%2Bman%2Bspecial%2Bedition%2Bps4&amp;customid=-" target="_blank" rel="noopener noreferrer">PlayStation 4 with a big Spider-Man logo on it</a>? These bespoke systems are truly one of a kind. Actually, in some instances, they quite…</p><p><a href="https://co-op.theinventory.com/best-special-edition-consoles-1846597030">Read more...</a></p>
