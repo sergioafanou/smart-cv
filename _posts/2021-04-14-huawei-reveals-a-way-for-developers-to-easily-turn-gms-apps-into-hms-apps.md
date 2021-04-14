@@ -1,5 +1,6 @@
 ---
-title : "Huawei reveals a way for developers to easily turn GMS apps into HMS apps"
+title : >
+"Huawei reveals a way for developers to easily turn GMS apps into HMS apps"
 layout: post
 categories: [ NewsHuawei ]
 tags: tutorial labnol
