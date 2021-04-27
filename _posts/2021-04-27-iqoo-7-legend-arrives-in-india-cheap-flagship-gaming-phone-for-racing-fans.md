@@ -1,0 +1,46 @@
+---
+title : "Iqoo 7 Legend arrives in India: Cheap flagship gaming phone for racing fans"
+layout: post
+categories: [ IndiaNewsVivo ]
+tags: tutorial labnol
+post_inspiration: https://www.androidauthority.com/iqoo-7-series-india-1221016/
+image: "https://sergio.afanou.com/assets/images/image-midres-30.jpg"
+---
+
+<p><html><body><img class="size-large wp-image-1221020 noname aa-img" title="iqoo 7 legend render 1" src="https://cdn57.androidauthority.net/wp-content/uploads/2021/04/iqoo-7-legend-render-1-1200x675.jpg" alt="iqoo 7 legend render 1" width="1200" height="675" data-attachment-id="1221020" srcset="https://cdn57.androidauthority.net/wp-content/uploads/2021/04/iqoo-7-legend-render-1-1200x675.jpg 1200w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/iqoo-7-legend-render-1-300x170.jpg 300w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/iqoo-7-legend-render-1-768x432.jpg 768w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/iqoo-7-legend-render-1-1536x864.jpg 1536w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/iqoo-7-legend-render-1-16x9.jpg 16w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/iqoo-7-legend-render-1-32x18.jpg 32w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/iqoo-7-legend-render-1-28x16.jpg 28w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/iqoo-7-legend-render-1-56x32.jpg 56w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/iqoo-7-legend-render-1-64x36.jpg 64w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/iqoo-7-legend-render-1-712x400.jpg 712w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/iqoo-7-legend-render-1-1000x563.jpg 1000w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/iqoo-7-legend-render-1-792x446.jpg 792w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/iqoo-7-legend-render-1-1280x720.jpg 1280w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/iqoo-7-legend-render-1-840x472.jpg 840w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/iqoo-7-legend-render-1-1340x754.jpg 1340w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/iqoo-7-legend-render-1-770x433.jpg 770w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/iqoo-7-legend-render-1-356x200.jpg 356w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/iqoo-7-legend-render-1-675x380.jpg 675w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/iqoo-7-legend-render-1.jpg 1920w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<div class="aa-img-source-credit">
+<div class="aa-img-source-and-credit full">
+<div class="aa-img-source text-right"><span>Credit:</span> Iqoo</div>
+</div>
+</div>
+<div class="aa_tldr_text">
+<ul>
+<li>Vivo sub-brand Iqoo has announced the availability of its 7 series in India.</li>
+<li>The Iqoo 7 Legend headlines with a BMW-inspired colorway, Snapdragon 888 SoC, and 13MP portrait shooter.</li>
+<li>The series will be available to preorder from May starting at Rs 39,999.</li>
+</ul>
+</div><hr>
+<p>After it made its Chinese debut earlier this year, Vivo sub-brand Iqoo has announced its new <a href="https://www.androidauthority.com/vivo-iqoo-7-1211486/" target="_blank" rel="noopener">Iqoo 7 series</a> in India.</p>
+<p>Two devices, namely the Iqoo 7 and the Iqoo 7 Legend, do feature some aesthetic differences. The Legend is cloaked in a BMW Motorsport-inspired three-stripe livery with a more square camera array at the rear. The standard Iqoo 7 is more restrained in its colorway options and features a more rectangular camera hump around the back.</p>
+<p>Despite these visual departures, the two phones share several base specifications. Both wear a 6.62-inch 120Hz AMOLED display with 2,400 x 1,080 resolution and HDR10 Plus support. The display also packs a 300Hz base touch sampling rate but can be buffed to 1,000Hz when required with Super Touch Acceleration. The two Iqoo 7 models also share 66W FlashCharge tech, a 48MP primary shooter with OIS and Pixel Shift tech, and a 13MP wide-angle camera. A 16MP selfie camera can be found in a punch hole on both devices.</p>
+<p>The Iqoo 7 Legend, however, is the headlining model in terms of horsepower. It&#8217;s powered by the faster <a href="https://www.androidauthority.com/best-snapdragon-888-phones-1182780/" target="_blank" rel="noopener">Snapdragon 888</a> SoC and packs a 4,000mAh battery. It also features a 13MP 50mm portrait camera as its third rear shooter. Pressure-sensitive touch buttons and linear vibration motors add to the gaming slant, too.</p>
+<p><img class="size-large wp-image-1221026 noname aa-img" title="iqoo 7 india render 1" src="https://cdn57.androidauthority.net/wp-content/uploads/2021/04/iqoo-7-india-render-1-1200x675.jpg" alt="iqoo 7 india render 1" width="1200" height="675" data-attachment-id="1221026" srcset="https://cdn57.androidauthority.net/wp-content/uploads/2021/04/iqoo-7-india-render-1-1200x675.jpg 1200w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/iqoo-7-india-render-1-300x170.jpg 300w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/iqoo-7-india-render-1-768x432.jpg 768w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/iqoo-7-india-render-1-1536x864.jpg 1536w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/iqoo-7-india-render-1-16x9.jpg 16w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/iqoo-7-india-render-1-32x18.jpg 32w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/iqoo-7-india-render-1-28x16.jpg 28w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/iqoo-7-india-render-1-56x32.jpg 56w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/iqoo-7-india-render-1-64x36.jpg 64w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/iqoo-7-india-render-1-712x400.jpg 712w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/iqoo-7-india-render-1-1000x563.jpg 1000w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/iqoo-7-india-render-1-792x446.jpg 792w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/iqoo-7-india-render-1-1280x720.jpg 1280w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/iqoo-7-india-render-1-840x472.jpg 840w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/iqoo-7-india-render-1-1340x754.jpg 1340w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/iqoo-7-india-render-1-770x433.jpg 770w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/iqoo-7-india-render-1-356x200.jpg 356w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/iqoo-7-india-render-1-675x380.jpg 675w, https://cdn57.androidauthority.net/wp-content/uploads/2021/04/iqoo-7-india-render-1.jpg 1920w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<div class="aa-img-source-credit">
+<div class="aa-img-source-and-credit full">
+<div class="aa-img-source text-right"><span>Credit:</span> Iqoo</div>
+</div>
+</div>
+<p>The standard Iqoo 7 sports a <a href="https://www.androidauthority.com/qualcomm-snapdragon-870-vs-snapdragon-888-1193837/" target="_blank" rel="noopener">Snapdragon 870</a> SoC with a larger 4,400mAh battery. This might make it a better option if longevity is a key buying decision for you. Mobile photographers do have to settle for a notable switch from the 13MP portrait snapper to a 2MP mono camera, though.</p>
+<h2>Iqoo 7 series: Price and availability</h2>
+<p>Pricing for the Iqoo 7 starts at Rs 31,990 (~$426) for the 8GB/128GB variant and Rs 33,990 (~$453) for the 8GB/256GB model. A 12GB/256GB version is also on offer for Rs 35,990 (~$480). It will be available in Storm Black and Solid Ice Blue colorways.</p>
+<p>The Iqoo 7 Legend will be available in 8GB/128GB and 12GB/256GB guises priced at Rs 39,990 (~$533) and Rs 43,990 (~$587), respectively. Unsurprisingly, it will only be available in its eponymous racing-themed colorway.</p>
+<p>Both phones will be available to preorder from May 1 on Iqoo&#8217;s official site and Amazon India.</p>
+<!-- AA poll list -->
+          <ul class="aa-poll-custom">
+                                        <li><a href="https://www.androidauthority.com/iqoo-7-series-india-1221016/?polls=true&pollid=1221022&pollchoice=1&pollvote=true" class="aa-poll-choice"></a></li>
+                                          <li><a href="https://www.androidauthority.com/iqoo-7-series-india-1221016/?polls=true&pollid=1221022&pollchoice=2&pollvote=true" class="aa-poll-choice"></a></li>
+                        </ul>
+<p>That&#8217;s pretty competitive pricing coverage for the Legend considering its chief Snapdragon 888 rival, the <a href="https://www.androidauthority.com/oneplus-9-1170815/" target="_blank" rel="noopener">OnePlus 9</a>, starts at Rs 49,999 (~$666). The Iqoo 7 takes aim at the Snapdragon 870-powered <a href="https://www.androidauthority.com/oneplus-9r-review-1216576/" target="_blank" rel="noopener">OnePlus 9R</a>, which comes in at Rs 39,999 (~$534).</p>
+<hr>
+<p>What do you think of the Iqoo 7 series? Can the two phones rough it with the likes of OnePlus in India? Let us know in the comments below and vote in our poll above!</p>
+</body></html></p>
