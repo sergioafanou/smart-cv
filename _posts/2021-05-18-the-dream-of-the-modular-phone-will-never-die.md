@@ -1,0 +1,33 @@
+---
+title : "The dream of the modular phone will never die"
+layout: post
+categories: [ modularXiaomi ]
+tags: tutorial labnol
+post_inspiration: https://bgr.com/tech/xiaomi-modular-phone-patent-concept-5925971/
+image: "https://sergio.afanou.com/assets/images/image-midres-41.jpg"
+---
+
+<center><a href="https://bgr.com/tech/xiaomi-modular-phone-patent-concept-5925971/" class="bgr-rss-featured-image bgr-rss-test-class"><img loading="lazy" width="610" height="327" src="https://bgr.com/wp-content/uploads/2021/02/xiaomi-quad-waterfall-display-concept.jpg?quality=70&amp;strip=all&amp;w=610" class="attachment-feed_normal size-feed_normal wp-post-image" alt="Xiaomi Modular Phone" loading="lazy" srcset="https://bgr.com/wp-content/uploads/2021/02/xiaomi-quad-waterfall-display-concept.jpg 1600w, https://bgr.com/wp-content/uploads/2021/02/xiaomi-quad-waterfall-display-concept.jpg?resize=150,80 150w, https://bgr.com/wp-content/uploads/2021/02/xiaomi-quad-waterfall-display-concept.jpg?resize=300,161 300w, https://bgr.com/wp-content/uploads/2021/02/xiaomi-quad-waterfall-display-concept.jpg?resize=768,411 768w, https://bgr.com/wp-content/uploads/2021/02/xiaomi-quad-waterfall-display-concept.jpg?resize=1024,548 1024w, https://bgr.com/wp-content/uploads/2021/02/xiaomi-quad-waterfall-display-concept.jpg?resize=1536,823 1536w, https://bgr.com/wp-content/uploads/2021/02/xiaomi-quad-waterfall-display-concept.jpg?resize=610,327 610w, https://bgr.com/wp-content/uploads/2021/02/xiaomi-quad-waterfall-display-concept.jpg?resize=664,356 664w, https://bgr.com/wp-content/uploads/2021/02/xiaomi-quad-waterfall-display-concept.jpg?resize=330,178 330w, https://bgr.com/wp-content/uploads/2021/02/xiaomi-quad-waterfall-display-concept.jpg?resize=1200,643 1200w, https://bgr.com/wp-content/uploads/2021/02/xiaomi-quad-waterfall-display-concept.jpg?resize=782,419 782w, https://bgr.com/wp-content/uploads/2021/02/xiaomi-quad-waterfall-display-concept.jpg?resize=827,443 827w, https://bgr.com/wp-content/uploads/2021/02/xiaomi-quad-waterfall-display-concept.jpg?resize=800,429 800w" sizes="(max-width: 610px) 100vw, 610px" title="Xiaomi Modular Phone" /></a></center><p>We&rsquo;ve seen modular phone concepts and actual modular devices for years, as there is some theoretical appeal for this type of product. It makes sense to build an eco-friendly device that has user-replaceable parts. That way, you&rsquo;d be able to swap out old or broken modules for brand new hardware rather than ditching the entire device. You&rsquo;d be able to upgrade the chips, the battery, and the camera every few years, and maybe even the screen. You&rsquo;d also get access to more unusual modules that will deliver a specific type of functionality that isn&rsquo;t otherwise found on traditional phones.</p>
+<p>But time and time again, companies failed to make modular phones popular with buyers. <a href="https://bgr.com/general/phonebloks-viability-questioned-1322063/">Phonebloks was exciting</a> for a bit. <a href="https://bgr.com/general/google-project-ara-modules-store-4006061/">Google&rsquo;s Project Ara</a> wanted modular phones but then got out of it. <a href="https://bgr.com/tech/the-lg-g6-already-looks-so-much-better-than-the-experimental-lg-g5-5555809/">LG&rsquo;s G5</a> was a quirky modular phone. Maybe Motorola was the most successful at envisioning a limited modular phone &mdash; the company&rsquo;s Moto Mods let it <a href="https://bgr.com/tech/moto-z3-5g-phone-release-date-price-specs-5642846/">upgrade a 4G mid-range phone to 5G flagship status</a> a few years ago, but the contraption looked just awful.</p>
+<p>Despite that, another company thinks it can have a go at modular phones. Chinese smartphone maker Xiaomi has filed a patent for modular phone technology recently.</p>
+<h3>Today's Top Deal</h3>
+<p><a href="https://www.amazon.com/Tuff-Co-Military-Grade-Shockproof-Protective/dp/B08X3PDYK3?tag=b0c55topdeals-20"><br><img height="333px" width="500px" src="https://m.media-amazon.com/images/I/21BY2rQecGL._SL500_.jpg" alt="This is the most popular iPhone case we've ever covered - now it's down to the lowest price ever!"><br></a></p>
+<h4><a href="https://www.amazon.com/Tuff-Co-Military-Grade-Shockproof-Protective/dp/B08X3PDYK3?tag=b0c55rss-20">This is the most popular iPhone case we've ever covered - now it's down to the lowest price ever!</a></h4>
+<p><a href="https://www.amazon.com/Tuff-Co-Military-Grade-Shockproof-Protective/dp/B08X3PDYK3?tag=b0c55rss-20">Price: <strong>$15.99</strong></a><br><strong><a href="https://www.amazon.com/Tuff-Co-Military-Grade-Shockproof-Protective/dp/B08X3PDYK3?tag=b0c55rss-20">Buy Now</a></strong></p>
+<p><a href="https://bgr.com/tech/xiaomi-modular-phone-patent-concept-5925971/" class="more-link"><em>Continue reading...</em></a></p>
+
+<p><strong>Today's Top Deals</strong></p>
+<ol>
+<li><a href="https://bgr.com/deals/airpods-pro-price-amazon-lowest-of-the-year-again-5925866/?utm_source=rss&#038;utm_campaign=topdeals">AirPods Pro are back down to Amazon&#8217;s lowest price of the year</a></li>
+<li><a href="https://bgr.com/deals/mac-mini-price-amazon-hidden-deal-70-off-5925869/?utm_source=rss&#038;utm_campaign=topdeals">Hidden Amazon deal saves you $100 on Apple&#8217;s blazing-fast M1 Mac mini</a></li>
+<li><a href="https://bgr.com/deals/robotic-arm-kit-amazon-prime-writing-drawing-3d-printing-5925643/?utm_source=rss&#038;utm_campaign=topdeals">Amazon sells a robot arm that can write, draw, and shoot lasers &#8211; how crazy is this?</a></li>
+<li><a href="https://bgr.com/deals/viral-tiktok-reveals-a-6-product-that-fixes-all-the-holes-in-your-walls-in-seconds-5922883/?utm_source=rss&#038;utm_campaign=topdeals">Viral TikTok reveals a $6 product that fixes all the holes in your walls in seconds</a></li>
+</ol>
+
+<p><strong>Trending Right Now:</strong></p>
+<ol>
+<li><a href="https://bgr.com/politics/new-stimulus-check-child-tax-credit-payments-start-july-15-5925946/">New $3,000+ stimulus payments are coming &#8211; here’s when you&#8217;ll start getting yours</a></li>
+<li><a href="https://bgr.com/politics/irs-refund-coming-tax-agency-overcharged-10-million-people-5925984/">10 million Americans got overcharged by the IRS, and you might be one of them</a></li>
+<li><a href="https://bgr.com/tech/iphone-13-features-release-touch-id-2021-5925740/">This is the one new iPhone 13 feature people can&#8217;t stop talking about</a></li>
+</ol>
+<p><a href="https://bgr.com/tech/xiaomi-modular-phone-patent-concept-5925971/">The dream of the modular phone will never die</a> originally appeared on <a href="http://bgr.com">BGR.com</a> on Mon, 17 May 2021 at 22:06:28 EDT. Please see our terms for use of feeds.</p>
